@@ -70,6 +70,8 @@
 
 2. 大话数据结构,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%A4%A7%E8%AF%9D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28%E5%B8%A6%E7%9B%AE%E5%BD%95%29.pdf)
 
+3. 数据结构与抽象 Java 语言描述 第 4 版,[预览/下载链接]()
+
 ### 设计模式
 
 1. 大话设计模式,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
@@ -105,3 +107,13 @@
 ## 科普
 
 1. 浪潮之巅第 4 版.吴军,[预览/下载链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
+
+## 数学
+
+1. 统计学（第 6 版）学习指导书,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E4%B9%A6.pdf)
+
+## 掘金小册
+
+### 前端
+
+1. 剖析 Vue.js 内部运行机制,[预览/下载链接](https://image.xjq.icu/books/%E5%89%96%E6%9E%90%20Vue.js%20%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6.zip)
