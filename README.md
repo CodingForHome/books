@@ -1,6 +1,6 @@
 # books
 
-程序员学习资源,计算机书籍、博客
+程序员学习资源,计算机书籍、博客,需要什么就添加 issue
 
 ## 编程语言
 
@@ -22,9 +22,11 @@
 
 8. 了不起的 Node js 将 JavaScript 进行到底,49.7m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20%20js%20%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95.pdf)
 
-9. 高性能 JavaScript 编程,3.6m,[预览/下载链接](https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript*%E7%BC%96%E7%A8%8B.pdf)
+9. 高性能 JavaScript 编程,3.6m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript*%E7%BC%96%E7%A8%8B.pdf)
 
-10. JavaScript 语言精粹,20.2m,[预览/下载链接](https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/JavaScript%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9.pdf)
+10. JavaScript 语言精粹,20.2m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9.pdf)
+
+11. JavaScript 异步编程,6.9m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.pdf)
 
 ### Java
 
@@ -55,6 +57,8 @@
 2. HTTP 权威指南,89.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTTP/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 3. TCP-IP 详解(卷一、二、三),41.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP-IP%E8%AF%A6%E8%A7%A3%28%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%29.pdf)
+
+4. 计算机网络(第 7 版) 谢希仁,70.8m,[预览/下载链接](<https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E7%AC%AC7%E7%89%88)%20%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf>)
 
 ### 计算机基础
 
@@ -108,11 +112,21 @@
 
 6. 算法导论(原书第 2 版)_中文,57.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%28%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%29_%E4%B8%AD%E6%96%87.pdf)
 
+## 前端
+
+### 正则表达式
+
+1. JavaScript 正则表达式迷你书（1.1 版）,3.6m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%BF%B7%E4%BD%A0%E4%B9%A6%EF%BC%881.1%E7%89%88%EF%BC%89.pdf)
+
+2. 正则指引,1.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%AD%A3%E5%88%99%E6%8C%87%E5%BC%95.pdf)
+
+3. 正则表达式手册,[https://tool.oschina.net/uploads/apidocs/jquery/regexp.html](https://tool.oschina.net/uploads/apidocs/jquery/regexp.html)
+
 ## 科普
 
 1. 浪潮之巅第 4 版.吴军,9.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
 
-2. 看见未来：改变互联网世界的人们(余晨),57.2m,[预览/下载链接](<https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E7%9C%8B%E8%A7%81%E6%9C%AA%E6%9D%A5%EF%BC%9A%E6%94%B9%E5%8F%98%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%96%E7%95%8C%E7%9A%84%E4%BA%BA%E4%BB%AC(%E4%BD%99%E6%99%A8).pdf>)
+2. 看见未来：改变互联网世界的人们(余晨),57.2m,[预览/下载链接](<https://image.xjq.icu/books/%E7%9C%8B%E8%A7%81%E6%9C%AA%E6%9D%A5%EF%BC%9A%E6%94%B9%E5%8F%98%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%96%E7%95%8C%E7%9A%84%E4%BA%BA%E4%BB%AC(%E4%BD%99%E6%99%A8).pdf>)
 
 ## 数学
 
@@ -122,13 +136,13 @@
 
 ### 前端
 
-1. 剖析 Vue.js 内部运行机制,[预览/下载链接](https://image.xjq.icu/books/%E5%89%96%E6%9E%90%20Vue.js%20%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6.zip)
+1. 剖析 Vue.js 内部运行机制,[下载链接](https://image.xjq.icu/books/%E5%89%96%E6%9E%90%20Vue.js%20%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6.zip)
 
-2. 基于 JavaScript 开发灵活的数据应用,[预览/下载链接](https://image.xjq.icu/books/%E5%9F%BA%E4%BA%8E%20JavaScript%20%E5%BC%80%E5%8F%91%E7%81%B5%E6%B4%BB%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%94%E7%94%A8%202.zip)
+2. 基于 JavaScript 开发灵活的数据应用,[下载链接](https://image.xjq.icu/books/%E5%9F%BA%E4%BA%8E%20JavaScript%20%E5%BC%80%E5%8F%91%E7%81%B5%E6%B4%BB%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%94%E7%94%A8%202.zip)
 
-3. 前端面试之道,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E4%B9%8B%E9%81%93%202%202.zip)
+3. 前端面试之道,[下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E4%B9%8B%E9%81%93%202%202.zip)
 
-4. 前端性能优化原理与实践,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5.zip)
+4. 前端性能优化原理与实践,[下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5.zip)
 
 ## 博客
 
