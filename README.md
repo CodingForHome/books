@@ -28,6 +28,8 @@
 
 11. JavaScript 异步编程,6.9m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.pdf)
 
+12. JavaScript 函数式编程,[预览/下载链接]()
+
 ### Java
 
 1. Head First Java(第 2 版),59.9m,[预览/下载链接](https://image.xjq.icu/books/java/Head%20First%20Java%28%E7%AC%AC2%E7%89%88%29.pdf)
@@ -58,7 +60,7 @@
 
 3. TCP-IP 详解(卷一、二、三),41.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP-IP%E8%AF%A6%E8%A7%A3%28%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%29.pdf)
 
-4. 计算机网络(第 7 版) 谢希仁,70.8m,[预览/下载链接](<https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E7%AC%AC7%E7%89%88)%20%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf>)
+4. 计算机网络(第 7 版) 谢希仁,70.8m,[预览/下载链接](<https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E7%AC%AC7%E7%89%88)%20%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf>)
 
 ### 计算机基础
 
@@ -112,6 +114,8 @@
 
 6. 算法导论(原书第 2 版)_中文,57.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%28%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%29_%E4%B8%AD%E6%96%87.pdf)
 
+7. 啊哈！算法 啊哈磊,79.6m,[预览/下载链接](https://image.xjq.icu/books/%E5%95%8A%E5%93%88%EF%BC%81%E7%AE%97%E6%B3%95%20%E5%95%8A%E5%93%88%E7%A3%8A.pdf)
+
 ## 前端
 
 ### 正则表达式
@@ -121,6 +125,18 @@
 2. 正则指引,1.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%AD%A3%E5%88%99%E6%8C%87%E5%BC%95.pdf)
 
 3. 正则表达式手册,[https://tool.oschina.net/uploads/apidocs/jquery/regexp.html](https://tool.oschina.net/uploads/apidocs/jquery/regexp.html)
+
+### 框架
+
+1. Javascript 框架设计,127.1m,[预览/下载链接](https://image.xjq.icu/books/Javascript%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1.pdf)
+
+2. 权威指南 Vue.js2,146.6m,[预览/下载链接](https://image.xjq.icu/books/%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97Vue.js2.pdf)
+
+3. 前端架构设计中文版,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
+### 构建工具
+
+1. 深入浅出 Webpack,113.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAWebpack.pdf)
 
 ## 科普
 
