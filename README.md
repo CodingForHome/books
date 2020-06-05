@@ -170,4 +170,14 @@
 
 3. 小超子的学习笔记(前端知识,前端工程师学习路径),[https://rain120.github.io/study-notes/#/notes/guide](https://rain120.github.io/study-notes/#/notes/guide)
 
+### 博文
+
+1. React Fiber 原理介绍,[https://segmentfault.com/a/1190000018250127?utm_source=tag-newest](https://segmentfault.com/a/1190000018250127?utm_source=tag-newest)
+
+2. 机器学习实战教程,[https://cuijiahua.com/blog/ml/](https://cuijiahua.com/blog/ml/)
+
 ## 工具
+
+1. 图片编辑工具 🔧[https://www.iloveimg.com/zh-cn](https://www.iloveimg.com/zh-cn)
+
+2. 免费申请 https 证书,[https://certbot.eff.org/](https://certbot.eff.org/)
