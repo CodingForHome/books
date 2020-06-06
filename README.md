@@ -30,6 +30,8 @@
 
 12. JavaScript 函数式编程,[预览/下载链接](https://image.xjq.icu/books/JavaScript%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)
 
+13. JS 函数式编程指南,2.5m,[预览/下载链接](https://image.xjq.icu/books/JS%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
+
 ### Java
 
 1. Head First Java(第 2 版),59.9m,[预览/下载链接](https://image.xjq.icu/books/java/Head%20First%20Java%28%E7%AC%AC2%E7%89%88%29.pdf)
@@ -116,6 +118,12 @@
 
 7. 啊哈！算法 啊哈磊,79.6m,[预览/下载链接](https://image.xjq.icu/books/%E5%95%8A%E5%93%88%EF%BC%81%E7%AE%97%E6%B3%95%20%E5%95%8A%E5%93%88%E7%A3%8A.pdf)
 
+8. 算法图解,17.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf)
+
+## AI
+
+1. 机器学习十大算法,3.1m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
+
 ## 前端
 
 ### 正则表达式
@@ -175,6 +183,10 @@
 1. React Fiber 原理介绍,[https://segmentfault.com/a/1190000018250127?utm_source=tag-newest](https://segmentfault.com/a/1190000018250127?utm_source=tag-newest)
 
 2. 机器学习实战教程,[https://cuijiahua.com/blog/ml/](https://cuijiahua.com/blog/ml/)
+
+### 教程
+
+1. c 语言中文网数据结构教程,[网页地址](http://c.biancheng.net/data_structure/),[代码,pdf 下载](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%BB%98%E8%B4%B9%E6%95%99%E7%A8%8Bc%E8%AF%AD%E8%A8%80%E7%89%88.zip)
 
 ## 工具
 
