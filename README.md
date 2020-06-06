@@ -12,7 +12,7 @@
 
 3. 你不知道的 JavaScript (下卷),7.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%20JavaScript%EF%BC%88%E4%B8%8B%E5%8D%B7%EF%BC%89.pdf)
 
-4. JavaScript 权威指南(第六版)(美),22m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%28%E7%AC%AC%E5%85%AD%E7%89%88%29%28%E7%BE%8E%29.pdff)
+4. JavaScript 权威指南(第六版)(美),22m,[预览/下载链接](<https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97(%E7%AC%AC%E5%85%AD%E7%89%88)(%E7%BE%8E).pdf>)
 
 5. 深入浅出 Node.js,6.1m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
 
@@ -22,13 +22,13 @@
 
 8. 了不起的 Node js 将 JavaScript 进行到底,49.7m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20%20js%20%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95.pdf)
 
-9. 高性能 JavaScript 编程,3.6m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript*%E7%BC%96%E7%A8%8B.pdf)
+9. 高性能 JavaScript 编程,3.6m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript_%E7%BC%96%E7%A8%8B.pdf)
 
 10. JavaScript 语言精粹,20.2m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9.pdf)
 
 11. JavaScript 异步编程,6.9m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.pdf)
 
-12. JavaScript 函数式编程,[预览/下载链接]()
+12. JavaScript 函数式编程,[预览/下载链接](https://image.xjq.icu/books/JavaScript%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)
 
 ### Java
 
@@ -181,3 +181,7 @@
 1. 图片编辑工具 🔧[https://www.iloveimg.com/zh-cn](https://www.iloveimg.com/zh-cn)
 
 2. 免费申请 https 证书,[https://certbot.eff.org/](https://certbot.eff.org/)
+
+## 知识汇总
+
+1. web 前端技能树,[https://www.processon.com/view/link/5d83308ae4b05a8b75365abd#map](https://www.processon.com/view/link/5d83308ae4b05a8b75365abd#map)
