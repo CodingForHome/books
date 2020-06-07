@@ -84,7 +84,9 @@
 
 3. 数据结构与抽象 Java 语言描述 第 4 版,138.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E6%8A%BD%E8%B1%A1%20Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%20%E7%AC%AC4%E7%89%88.pdf)
 
-4. 数据结构与算法 Java 版,157.4m,[预览/下载链接](https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%20Java%E7%89%88.pdf)
+4. 数据结构与算法 Java 版,157.4m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%20Java%E7%89%88.pdf)
+
+5. 数据结构与算法 Python 语言描述裘宗燕,77.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95Python%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E8%A3%98%E5%AE%97%E7%87%95.pdf)
 
 ### 设计模式
 
@@ -122,13 +124,27 @@
 
 8. 算法图解,17.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf)
 
-9. 趣学算法,100.4m,[预览/下载链接](https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E8%B6%A3%E5%AD%A6%E7%AE%97%E6%B3%95.pdf)
+9. 趣学算法,100.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%B6%A3%E5%AD%A6%E7%AE%97%E6%B3%95.pdf)
 
-10. 算法 第 4 版,191.3m,[预览/下载链接](https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E7%AE%97%E6%B3%95%20%7%AC%AC4%E7%89%88.pdf)
+10. 算法 第 4 版,191.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%20%7%AC%AC4%E7%89%88.pdf)
+
+11. 程序员实用算法,32.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%9E%E7%94%A8%E7%AE%97%E6%B3%95.pdf)
+
+12. 算法导论英文版第三版,5.7m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E8%8B%B1%E6%96%87%E7%89%88%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+
+13. 算法设计与分析基础第 3 版,21.2m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E7%AC%AC3%E7%89%88.pdf)
 
 ## AI
 
 1. 机器学习十大算法,3.1m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
+
+2. 周志华-机器学习,89.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%91%A8%E5%BF%97%E5%8D%8E-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
+
+3. 神经⽹络与深度学习,3.7m,[预览/下载链接](https://image.xjq.icu/books/%E7%A5%9E%E7%BB%8F%E2%BD%B9%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
+
+4. 机器学习实战,21.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98.pdf)
+
+5. 统计自然语言处理（第二版）,21.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 
 ## 前端
 
@@ -161,6 +177,14 @@
 ## 数学
 
 1. 统计学（第 6 版）学习指导书,33.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E4%B9%A6.pdf)
+
+2. 20 世纪数学思想(胡作玄+邓明立),10.2m,[预览/下载链接](<https://image.xjq.icu/books/20%E4%B8%96%E7%BA%AA%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3(%E8%83%A1%E4%BD%9C%E7%8E%84%2B%E9%82%93%E6%98%8E%E7%AB%8B).pdf>)
+
+3. 微积分-全美经典学习指导系列-施皮格尔,6.9m,[预览/下载链接](https://image.xjq.icu/books/%E5%BE%AE%E7%A7%AF%E5%88%86-%E5%85%A8%E7%BE%8E%E7%BB%8F%E5%85%B8%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC%E7%B3%BB%E5%88%97-%E6%96%BD%E7%9A%AE%E6%A0%BC%E5%B0%94.pdf)
+
+4. 统计学习方法,18.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
+
+5. 统计学习理论的本质 ,4.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA%E7%9A%84%E6%9C%AC%E8%B4%A8%20.pdf)
 
 ## 掘金小册
 
