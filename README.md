@@ -84,6 +84,8 @@
 
 3. 数据结构与抽象 Java 语言描述 第 4 版,138.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E6%8A%BD%E8%B1%A1%20Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%20%E7%AC%AC4%E7%89%88.pdf)
 
+4. 数据结构与算法 Java 版,157.4m,[预览/下载链接](https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%20Java%E7%89%88.pdf)
+
 ### 设计模式
 
 1. 大话设计模式,72.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
@@ -119,6 +121,10 @@
 7. 啊哈！算法 啊哈磊,79.6m,[预览/下载链接](https://image.xjq.icu/books/%E5%95%8A%E5%93%88%EF%BC%81%E7%AE%97%E6%B3%95%20%E5%95%8A%E5%93%88%E7%A3%8A.pdf)
 
 8. 算法图解,17.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf)
+
+9. 趣学算法,100.4m,[预览/下载链接](https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E8%B6%A3%E5%AD%A6%E7%AE%97%E6%B3%95.pdf)
+
+10. 算法 第 4 版,191.3m,[预览/下载链接](https://xjq-img.oss-cn-shenzhen.aliyuncs.com/books/%E7%AE%97%E6%B3%95%20%7%AC%AC4%E7%89%88.pdf)
 
 ## AI
 
