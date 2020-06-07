@@ -28,7 +28,7 @@
 
 11. JavaScript 异步编程,6.9m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.pdf)
 
-12. JavaScript 函数式编程,[预览/下载链接](https://image.xjq.icu/books/JavaScript%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)
+12. JavaScript 函数式编程,37.5m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)
 
 13. JS 函数式编程指南,2.5m,[预览/下载链接](https://image.xjq.icu/books/JS%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 
@@ -36,7 +36,7 @@
 
 1. Head First Java(第 2 版),59.9m,[预览/下载链接](https://image.xjq.icu/books/java/Head%20First%20Java%28%E7%AC%AC2%E7%89%88%29.pdf)
 
-2. Java 核心技术*卷 1*基础知识*原书第 10 版,169.7m,[预览/下载链接](https://image.xjq.icu/books/java/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF*%E5%8D%B71*%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86*%E5%8E%9F%E4%B9%A6%E7%AC%AC10%E7%89%88.pdf)
+2. Java 核心技术卷 1 基础知识原书第 10 版,169.7m,[预览/下载链接](https://image.xjq.icu/books/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B71%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%8E%9F%E4%B9%A6%E7%AC%AC10%E7%89%88.pdf)
 
 3. Java 核心技术 卷 2 高级特性 原书第 10 版,205.2m,[预览/下载链接](https://image.xjq.icu/books/java/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%20%E5%8D%B72%20%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%20%E5%8E%9F%E4%B9%A6%E7%AC%AC10%E7%89%88.pdf)
 
@@ -78,7 +78,7 @@
 
 ### 数据结构
 
-1. 数据结构(C 语言版).严蔚敏\*吴伟民,30.5m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%E8%AF%AD%E8%A8%80%E7%89%88%29%5D.%E4%B8%A5%E8%94%9A%E6%95%8F_%E5%90%B4%E4%BC%9F%E6%B0%91.pdf)
+1. 数据结构(C 语言版).严蔚敏吴伟民,30.5m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%E8%AF%AD%E8%A8%80%E7%89%88%29%5D.%E4%B8%A5%E8%94%9A%E6%95%8F_%E5%90%B4%E4%BC%9F%E6%B0%91.pdf)
 
 2. 大话数据结构,53.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%A4%A7%E8%AF%9D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28%E5%B8%A6%E7%9B%AE%E5%BD%95%29.pdf)
 
