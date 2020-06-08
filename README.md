@@ -1,9 +1,3 @@
----
-title: books
-sidebar: auto
-sidebarDepth: 3
----
-
 # books
 
 程序员学习资源,计算机书籍、博客,需要什么就添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
@@ -110,6 +104,10 @@ sidebarDepth: 3
 
 5. 数据结构与算法 Python 语言描述裘宗燕,77.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95Python%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E8%A3%98%E5%AE%97%E7%87%95.pdf)
 
+6. C++数据结构-邓俊辉,37.3m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
+
+7. C++数据结构习题解析-邓俊辉,12.1m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90-%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
+
 ### 设计模式
 
 1. 大话设计模式,72.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
@@ -176,7 +174,29 @@ sidebarDepth: 3
 
 6. 斯坦福大学-深度学习基础教程,9.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
 
+7. 深度学习 TensorFlow 实战,90.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0TensorFlow%E5%AE%9E%E6%88%98.pdf)
+
+8. 深度学习-花书,32.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E8%8A%B1%E4%B9%A6.pdf)
+
+9. 深度学习框架 Pytorch 入门与实践,43.7m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6Pytorch%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
+
+10. TensorFlow 机器学习实战指南,74.9m,[预览/下载链接](https://image.xjq.icu/books/TensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97.pdf)
+
+## 大数据
+
+1. 推荐系统实践,13m,[预览/下载链接](https://image.xjq.icu/books/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5.pdf)
+
+2. Spark 快速大数据分析,16.6m,[预览/下载链接](https://image.xjq.icu/books/Spark%E5%BF%AB%E9%80%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
+
+## 爬虫
+
+1. Python 网络数据采集,17.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
+
 ## 前端
+
+1. Web 性能权威指南,19.8m,[预览/下载链接](https://image.xjq.icu/books/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
+2. HTML5 权威指南,27.1m,[预览/下载链接](https://image.xjq.icu/books/HTML5%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 ### 正则表达式
 
@@ -239,6 +259,14 @@ sidebarDepth: 3
 3. 前端面试之道,[下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E4%B9%8B%E9%81%93%202%202.zip)
 
 4. 前端性能优化原理与实践,[下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5.zip)
+
+5. React+实战：设计模式和最佳实践,[下载链接](https://image.xjq.icu/books/React%20%E7%BB%84%E5%90%88%E5%BC%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%89%93%E9%80%A0%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BA%94%E5%A4%A7%E6%A0%B8%E5%BF%83%E6%A8%A1%E5%9D%97.zip)
+
+6. React 组合式开发实践：打造企业管理系统五大核心模块,[下载链接](https://image.xjq.icu/books/React%20%E7%BB%84%E5%90%88%E5%BC%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%89%93%E9%80%A0%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BA%94%E5%A4%A7%E6%A0%B8%E5%BF%83%E6%A8%A1%E5%9D%97.zip)
+
+7. Taro 多端开发实现原理与项目实战,[下载链接](https://image.xjq.icu/books/Taro%20%E5%A4%9A%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98.zip)
+
+8. Web 前端面试指南与高频考题解析,[下载链接](https://image.xjq.icu/books/Web%20%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97%E4%B8%8E%E9%AB%98%E9%A2%91%E8%80%83%E9%A2%98%E8%A7%A3%E6%9E%90.zip)
 
 ## 博客
 
