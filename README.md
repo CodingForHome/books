@@ -1,6 +1,6 @@
 # books
 
-程序员学习资源,计算机书籍、博客,需要什么就添加 issue
+程序员学习资源,计算机书籍、博客,需要什么就添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
 ## 编程语言
 
@@ -51,6 +51,10 @@
 4. The C Programming Language 中文版,2.4m,[预览/下载链接](https://image.xjq.icu/books/cpp/The%20C%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 5. C++ Primer Plus(第 6 版),264.8m,[预览/下载链接](https://image.xjq.icu/books/cpp/C%2B%2B%20Primer%20Plus%28%E7%AC%AC6%E7%89%88%29.pdf)
+
+### python
+
+1. Python3-廖雪峰,5.4m,[预览/下载链接](https://image.xjq.icu/books/Python3-%E5%BB%96%E9%9B%AA%E5%B3%B0.pdf)
 
 ## 计算机综合
 
@@ -134,6 +138,8 @@
 
 13. 算法设计与分析基础第 3 版,21.2m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E7%AC%AC3%E7%89%88.pdf)
 
+14. 算法竞赛入门经典(第 2 版),11.5m,[预览/下载链接](<https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8(%E7%AC%AC2%E7%89%88).pdf>)
+
 ## AI
 
 1. 机器学习十大算法,3.1m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
@@ -145,6 +151,8 @@
 4. 机器学习实战,21.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98.pdf)
 
 5. 统计自然语言处理（第二版）,21.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+
+6. 斯坦福大学-深度学习基础教程,9.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
 
 ## 前端
 
@@ -185,6 +193,10 @@
 4. 统计学习方法,18.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
 
 5. 统计学习理论的本质 ,4.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA%E7%9A%84%E6%9C%AC%E8%B4%A8%20.pdf)
+
+6. 古今数学思想(克莱因)第二册,15.1m,[预览/下载链接](<https://image.xjq.icu/books/%E5%8F%A4%E4%BB%8A%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3(%E5%85%8B%E8%8E%B1%E5%9B%A0)%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf>)
+
+7. 古今数学思想(克莱因)第四册,14.6m,[预览/下载链接](<https://image.xjq.icu/books/%E5%8F%A4%E4%BB%8A%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3(%E5%85%8B%E8%8E%B1%E5%9B%A0)%E7%AC%AC%E5%9B%9B%E5%86%8C.pdf>)
 
 ## 掘金小册
 
