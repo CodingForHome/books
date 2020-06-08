@@ -1,3 +1,9 @@
+---
+title: books
+sidebar: auto
+sidebarDepth: 3
+---
+
 # books
 
 程序员学习资源,计算机书籍、博客,需要什么就添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
@@ -68,6 +74,8 @@
 
 4. 计算机网络(第 7 版) 谢希仁,70.8m,[预览/下载链接](<https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E7%AC%AC7%E7%89%88)%20%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf>)
 
+5. 图解 TCPIP(第 5 版),50.1m,[预览/下载链接](<https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3TCPIP(%E7%AC%AC5%E7%89%88).pdf>)
+
 ### 计算机基础
 
 1. 计算机科学导论.佛罗赞,56.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E4%BD%9B%E7%BD%97%E8%B5%9E.pdf)
@@ -76,9 +84,19 @@
 
 3. 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版,42.8m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF%20%E7%AC%AC1%E5%8D%B7%EF%BC%9A%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E9%AB%98%E6%B8%85%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
+4. 大话计算机,20.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%A4%A7%E8%AF%9D%E8%AE%A1%E7%AE%97%E6%9C%BA.pdf)
+
 ### 操作系统
 
 1. 计算机操作系统 第三版,5.8m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+
+#### Linux
+
+1. 鸟哥的 Linux 私房菜服务器架设篇 第三版,17.9m,[预览/下载链接](https://image.xjq.icu/books/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87%20%E7%AC%AC%E4%B8%89%E7%89%88%20.pdf)
+
+2. 鸟哥的 LINUX 私房菜-基础学习篇(第三版),158.6m,[预览/下载链接](<https://image.xjq.icu/books/%E9%B8%9F%E5%93%A5%E7%9A%84LINUX%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87(%E7%AC%AC%E4%B8%89%E7%89%88).pdf>)
+
+3. UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,[预览/下载链接](<https://image.xjq.icu/books/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B71%EF%BC%9A%E5%A5%97%E6%8E%A5%E5%AD%97%E8%81%94%E7%BD%91API(%E7%AC%AC3%E7%89%88).pdf>)
 
 ### 数据结构
 
@@ -140,6 +158,10 @@
 
 14. 算法竞赛入门经典(第 2 版),11.5m,[预览/下载链接](<https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8(%E7%AC%AC2%E7%89%88).pdf>)
 
+15. 挑战程序设计竞赛(第 2 版),92.6m,[预览/下载链接](<https://image.xjq.icu/books/%E6%8C%91%E6%88%98%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B(%E7%AC%AC2%E7%89%88).pdf>)
+
+16. 算法图解(Python 语言),17.7m,[预览/下载链接](<https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3(Python%E8%AF%AD%E8%A8%80).pdf>)
+
 ## AI
 
 1. 机器学习十大算法,3.1m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
@@ -197,6 +219,14 @@
 6. 古今数学思想(克莱因)第二册,15.1m,[预览/下载链接](<https://image.xjq.icu/books/%E5%8F%A4%E4%BB%8A%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3(%E5%85%8B%E8%8E%B1%E5%9B%A0)%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf>)
 
 7. 古今数学思想(克莱因)第四册,14.6m,[预览/下载链接](<https://image.xjq.icu/books/%E5%8F%A4%E4%BB%8A%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3(%E5%85%8B%E8%8E%B1%E5%9B%A0)%E7%AC%AC%E5%9B%9B%E5%86%8C.pdf>)
+
+8. 线性代数及其应用中文版(美)David CLay2005,48.6m,[预览/下载链接](<https://image.xjq.icu/books/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88(%E7%BE%8E)David%20CLay2005.pdf>)
+
+9. 数学之美-第 2 版,51.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E7%AC%AC2%E7%89%88.pdf)
+
+10. 概率论与数理统计-第四版-盛骤,39.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E7%AC%AC%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
+
+11. 概率论与数理统计习题全解指南-浙大四版-盛骤,48.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97-%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
 
 ## 掘金小册
 
