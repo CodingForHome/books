@@ -1,5 +1,7 @@
 # books
 
+我不生产知识,我只是知识的搬运工
+
 程序员学习资源,计算机书籍、博客,需要什么就添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
 ## 编程语言
@@ -40,6 +42,8 @@
 
 3. Java 核心技术 卷 2 高级特性 原书第 10 版,205.2m,[预览/下载链接](https://image.xjq.icu/books/java/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%20%E5%8D%B72%20%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%20%E5%8E%9F%E4%B9%A6%E7%AC%AC10%E7%89%88.pdf)
 
+4. Java 编辑思想-第四版,6.7m,[预览/下载链接](https://image.xjq.icu/books/Java%E7%BC%96%E8%BE%91%E6%80%9D%E6%83%B3-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
+
 ### cpp
 
 1. C Primer Plus 第六版,226.5m,[预览/下载链接](https://image.xjq.icu/books/cpp/C%20Primer%20Plus%20%E7%AC%AC%E5%85%AD%E7%89%88.pdf)
@@ -56,6 +60,18 @@
 
 1. Python3-廖雪峰,5.4m,[预览/下载链接](https://image.xjq.icu/books/Python3-%E5%BB%96%E9%9B%AA%E5%B3%B0.pdf)
 
+2. Python 数据处理,14.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)
+
+3. Python 高级编程第 2 版-张亮,80.6m,[预览/下载链接](https://image.xjq.icu/books/Python%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E7%AC%AC2%E7%89%88-%E5%BC%A0%E4%BA%AE.pdf)
+
+4. Python 数据分析实战,55.3m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98.pdf)
+
+5. Python 数据科学手册,13.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
+
+6. Python 数据可视化编程实战,43.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
+
+7. Python 编程入门经典,61.9m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)
+
 ## 计算机综合
 
 ### 网络
@@ -69,6 +85,10 @@
 4. 计算机网络(第 7 版) 谢希仁,70.8m,[预览/下载链接](<https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E7%AC%AC7%E7%89%88)%20%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf>)
 
 5. 图解 TCPIP(第 5 版),50.1m,[预览/下载链接](<https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3TCPIP(%E7%AC%AC5%E7%89%88).pdf>)
+
+6. 网络是怎样连接的,18.2m,[预览/下载链接](https://image.xjq.icu/books/%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84.pdf)
+
+7. 计算机网络-自顶向下方法,59.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95.pdf)
 
 ### 计算机基础
 
@@ -114,6 +134,10 @@
 
 2. 设计模式之禅（第 2 版）,16.2m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 
+3. 图解设计模式,63.9m,[预览/下载链接](https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+
+4. HeadFirst 设计模式-中文版,133.6m,[预览/下载链接](https://image.xjq.icu/books/HeadFirst%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
 ### coding
 
 1. 编译原理(中文第二版),16.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%28%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf)
@@ -125,6 +149,8 @@
 4. 代码大全中文第二版,21.2m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
 5. 人月神话,2.7m,[预览/下载链接](https://image.xjq.icu/books/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.pdf)
+
+6. 代码整洁之道,15.7m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)
 
 ### 算法
 
@@ -182,6 +208,8 @@
 
 10. TensorFlow 机器学习实战指南,74.9m,[预览/下载链接](https://image.xjq.icu/books/TensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97.pdf)
 
+11. 数据科学入门,14m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
+
 ## 大数据
 
 1. 推荐系统实践,13m,[预览/下载链接](https://image.xjq.icu/books/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5.pdf)
@@ -191,6 +219,8 @@
 ## 爬虫
 
 1. Python 网络数据采集,17.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
+
+2. 用 Python 写网络爬虫,10.5m,[预览/下载链接](https://image.xjq.icu/books/%E7%94%A8Python%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.pdf)
 
 ## 前端
 
