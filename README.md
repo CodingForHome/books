@@ -278,7 +278,7 @@
 
 11. 概率论与数理统计习题全解指南-浙大四版-盛骤,48.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97-%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
 
-## 掘金小册
+<!-- ## 掘金小册
 
 ### 前端
 
@@ -296,7 +296,7 @@
 
 7. Taro 多端开发实现原理与项目实战,[下载链接](https://image.xjq.icu/books/Taro%20%E5%A4%9A%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98.zip)
 
-8. Web 前端面试指南与高频考题解析,[下载链接](https://image.xjq.icu/books/Web%20%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97%E4%B8%8E%E9%AB%98%E9%A2%91%E8%80%83%E9%A2%98%E8%A7%A3%E6%9E%90.zip)
+8. Web 前端面试指南与高频考题解析,[下载链接](https://image.xjq.icu/books/Web%20%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97%E4%B8%8E%E9%AB%98%E9%A2%91%E8%80%83%E9%A2%98%E8%A7%A3%E6%9E%90.zip) -->
 
 ## 博客
 
