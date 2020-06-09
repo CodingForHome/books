@@ -1,8 +1,8 @@
-# books
+计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
 我不生产知识,我只是知识的搬运工
 
-程序员学习资源,计算机书籍、博客,需要什么就添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
+如有侵权,联系我删除,email->lebnizjoan@gmail.com
 
 ## 编程语言
 
@@ -72,25 +72,7 @@
 
 7. Python 编程入门经典,61.9m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)
 
-## 计算机综合
-
-### 网络
-
-1. 图解 HTTP,13.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTTP/%E5%9B%BE%E8%A7%A3HTTP.pdf)
-
-2. HTTP 权威指南,89.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTTP/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
-
-3. TCP-IP 详解(卷一、二、三),41.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP-IP%E8%AF%A6%E8%A7%A3%28%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%29.pdf)
-
-4. 计算机网络(第 7 版) 谢希仁,70.8m,[预览/下载链接](<https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E7%AC%AC7%E7%89%88)%20%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf>)
-
-5. 图解 TCPIP(第 5 版),50.1m,[预览/下载链接](<https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3TCPIP(%E7%AC%AC5%E7%89%88).pdf>)
-
-6. 网络是怎样连接的,18.2m,[预览/下载链接](https://image.xjq.icu/books/%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84.pdf)
-
-7. 计算机网络-自顶向下方法,59.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95.pdf)
-
-### 计算机基础
+## 计算机基础
 
 1. 计算机科学导论.佛罗赞,56.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E4%BD%9B%E7%BD%97%E8%B5%9E.pdf)
 
@@ -100,11 +82,29 @@
 
 4. 大话计算机,20.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%A4%A7%E8%AF%9D%E8%AE%A1%E7%AE%97%E6%9C%BA.pdf)
 
-### 操作系统
+## 计算机网络
+
+1. TCP-IP 详解(卷一、二、三),41.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP-IP%E8%AF%A6%E8%A7%A3%28%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%29.pdf)
+
+2. 计算机网络(第 7 版) 谢希仁,70.8m,[预览/下载链接](<https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E7%AC%AC7%E7%89%88)%20%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf>)
+
+3. 图解 TCPIP(第 5 版),50.1m,[预览/下载链接](<https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3TCPIP(%E7%AC%AC5%E7%89%88).pdf>)
+
+4. 网络是怎样连接的,18.2m,[预览/下载链接](https://image.xjq.icu/books/%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84.pdf)
+
+5. 计算机网络-自顶向下方法,59.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95.pdf)
+
+### HTTP
+
+1. 图解 HTTP,13.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTTP/%E5%9B%BE%E8%A7%A3HTTP.pdf)
+
+2. HTTP 权威指南,89.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTTP/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
+## 操作系统
 
 1. 计算机操作系统 第三版,5.8m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
 
-#### Linux
+### Linux
 
 1. 鸟哥的 Linux 私房菜服务器架设篇 第三版,17.9m,[预览/下载链接](https://image.xjq.icu/books/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87%20%E7%AC%AC%E4%B8%89%E7%89%88%20.pdf)
 
@@ -112,7 +112,7 @@
 
 3. UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,[预览/下载链接](<https://image.xjq.icu/books/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B71%EF%BC%9A%E5%A5%97%E6%8E%A5%E5%AD%97%E8%81%94%E7%BD%91API(%E7%AC%AC3%E7%89%88).pdf>)
 
-### 数据结构
+## 数据结构
 
 1. 数据结构(C 语言版).严蔚敏吴伟民,30.5m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%E8%AF%AD%E8%A8%80%E7%89%88%29%5D.%E4%B8%A5%E8%94%9A%E6%95%8F_%E5%90%B4%E4%BC%9F%E6%B0%91.pdf)
 
@@ -128,7 +128,7 @@
 
 7. C++数据结构习题解析-邓俊辉,12.1m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90-%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
 
-### 设计模式
+## 设计模式
 
 1. 大话设计模式,72.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
 
@@ -138,7 +138,7 @@
 
 4. HeadFirst 设计模式-中文版,133.6m,[预览/下载链接](https://image.xjq.icu/books/HeadFirst%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
-### coding
+## coding
 
 1. 编译原理(中文第二版),16.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%28%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf)
 
@@ -152,7 +152,7 @@
 
 6. 代码整洁之道,15.7m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)
 
-### 算法
+## 算法
 
 1. 漫画算法-小灰的算法之旅,36.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%BC%AB%E7%94%BB%E7%AE%97%E6%B3%95-%E5%B0%8F%E7%81%B0%E7%9A%84%E7%AE%97%E6%B3%95%E4%B9%8B%E6%97%85.pdf)
 
@@ -224,9 +224,9 @@
 
 ## 前端
 
-1. Web 性能权威指南,19.8m,[预览/下载链接](https://image.xjq.icu/books/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+### HTML
 
-2. HTML5 权威指南,27.1m,[预览/下载链接](https://image.xjq.icu/books/HTML5%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+1. HTML5 权威指南,27.1m,[预览/下载链接](https://image.xjq.icu/books/HTML5%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 ### 正则表达式
 
@@ -247,6 +247,10 @@
 ### 构建工具
 
 1. 深入浅出 Webpack,113.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAWebpack.pdf)
+
+### 性能优化
+
+1. Web 性能权威指南,19.8m,[预览/下载链接](https://image.xjq.icu/books/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 ## 科普
 
