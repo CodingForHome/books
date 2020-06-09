@@ -136,6 +136,8 @@
 
 7. C++数据结构习题解析-邓俊辉,12.1m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90-%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
 
+8. JavaScrit 数据结构与算法-第 2 版,12.3m,[预览/下载链接](https://image.xjq.icu/books/JavaScrit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E7%AC%AC2%E7%89%88.pdf)
+
 ## 设计模式
 
 1. 大话设计模式,72.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
@@ -232,6 +234,12 @@
 
 2. 用 Python 写网络爬虫,10.5m,[预览/下载链接](https://image.xjq.icu/books/%E7%94%A8Python%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.pdf)
 
+## 服务器
+
+1. Nginx 高性能 Web 服务器详解,71.1m,[预览/下载链接](https://image.xjq.icu/books/Nginx%E9%AB%98%E6%80%A7%E8%83%BDWeb%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AF%A6%E8%A7%A3.pdf)
+
+2. 精通 Nginx,73.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ANginx.pdf)
+
 ## 前端
 
 ### HTML
@@ -240,7 +248,11 @@
 
 ### CSS
 
-1. CSS世界-张鑫旭,44.7m,[预览/下载链接]()
+1. CSS 世界-张鑫旭,44.7m,[预览/下载链接](https://image.xjq.icu/books/CSS%E4%B8%96%E7%95%8C-%E5%BC%A0%E9%91%AB%E6%97%AD.pdf)
+
+2. CSS 权威指南-第三版,62m,[预览/下载链接](https://image.xjq.icu/books/CSS%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+
+3. CSS3 属性速查表,0.9m,[预览/下载链接](https://image.xjq.icu/books/CSS3%E5%B1%9E%E6%80%A7%E9%80%9F%E6%9F%A5%E8%A1%A8.pdf)
 
 ### Node
 
