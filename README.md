@@ -72,6 +72,8 @@
 
 7. Python 编程入门经典,61.9m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)
 
+8. Python 源码剖析-深度探索动态语言核心技术-陈儒,31.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF-%E9%99%88%E5%84%92.pdf)
+
 ## 计算机基础
 
 1. 计算机科学导论.佛罗赞,56.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E4%BD%9B%E7%BD%97%E8%B5%9E.pdf)
