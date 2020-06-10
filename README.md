@@ -1,5 +1,7 @@
 计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
+为了节约流量,大于 80m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
+
 我不生产知识,我只是知识的搬运工
 
 如有侵权,联系我删除,email->lebnizjoan@gmail.com
@@ -36,15 +38,15 @@
 
 1. Head First Java(第 2 版),59.9m,[预览/下载链接](https://image.xjq.icu/books/java/Head%20First%20Java%28%E7%AC%AC2%E7%89%88%29.pdf)
 
-2. Java 核心技术卷 1 基础知识原书第 10 版,169.7m,[预览/下载链接](https://image.xjq.icu/books/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E5%8D%B71%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%8E%9F%E4%B9%A6%E7%AC%AC10%E7%89%88.pdf)
+2. Java 核心技术卷 1 基础知识原书第 10 版,169.7m,链接: [https://pan.baidu.com/s/1H-BWqTK1cQVvnuwmKQH8NQ](https://pan.baidu.com/s/1H-BWqTK1cQVvnuwmKQH8NQ), 提取码: 6pka
 
-3. Java 核心技术 卷 2 高级特性 原书第 10 版,205.2m,[预览/下载链接](https://image.xjq.icu/books/java/Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%20%E5%8D%B72%20%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%20%E5%8E%9F%E4%B9%A6%E7%AC%AC10%E7%89%88.pdf)
+3. Java 核心技术 卷 2 高级特性 原书第 10 版,205.2m,链接: [https://pan.baidu.com/s/1w8N9d0mOpZvXEaB-iC4Axg](https://pan.baidu.com/s/1w8N9d0mOpZvXEaB-iC4Axg), 提取码: k4xk
 
 4. Java 编辑思想-第四版,6.7m,[预览/下载链接](https://image.xjq.icu/books/Java%E7%BC%96%E8%BE%91%E6%80%9D%E6%83%B3-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
 
 ### cpp
 
-1. C Primer Plus 第六版,226.5m,[预览/下载链接](https://image.xjq.icu/books/cpp/C%20Primer%20Plus%20%E7%AC%AC%E5%85%AD%E7%89%88.pdf)
+1. C Primer Plus 第六版,226.5m,链接: [https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg](https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg), 提取码: 9j3m
 
 2. C 和指针中文版,11.6m,[预览/下载链接](https://image.xjq.icu/books/cpp/C%E5%92%8C%E6%8C%87%E9%92%88%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
@@ -52,7 +54,7 @@
 
 4. The C Programming Language 中文版,2.4m,[预览/下载链接](https://image.xjq.icu/books/cpp/The%20C%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
-5. C++ Primer Plus(第 6 版),264.8m,[预览/下载链接](https://image.xjq.icu/books/cpp/C%2B%2B%20Primer%20Plus%28%E7%AC%AC6%E7%89%88%29.pdf)
+5. C++ Primer Plus(第 6 版),264.8m,链接: [https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA](https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA), 提取码: 54kg
 
 ### python
 
@@ -104,11 +106,13 @@
 
 1. 图解 HTTP,13.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTTP/%E5%9B%BE%E8%A7%A3HTTP.pdf)
 
-2. HTTP 权威指南,89.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTTP/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+2. HTTP 权威指南,89.3m,链接: [https://pan.baidu.com/s/1V0PF_dKaylynoycYAgruEg](https://pan.baidu.com/s/1V0PF_dKaylynoycYAgruEg), 提取码: yg4k
 
 ## 操作系统
 
 1. 计算机操作系统 第三版,5.8m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+
+2. 深入理解计算机系统,500.6m,链接: [https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw](https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw), 提取码: rhrh
 
 ### Linux
 
@@ -116,7 +120,7 @@
 
 2. 鸟哥的 LINUX 私房菜-基础学习篇(第三版),158.6m,[预览/下载链接](<https://image.xjq.icu/books/%E9%B8%9F%E5%93%A5%E7%9A%84LINUX%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87(%E7%AC%AC%E4%B8%89%E7%89%88).pdf>)
 
-3. UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,[预览/下载链接](<https://image.xjq.icu/books/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B71%EF%BC%9A%E5%A5%97%E6%8E%A5%E5%AD%97%E8%81%94%E7%BD%91API(%E7%AC%AC3%E7%89%88).pdf>)
+3. UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,链接: [https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ](https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ), 提取码: y3tx
 
 4. Linux 运维之道-丁明一,84.5m,[预览/下载链接](https://image.xjq.icu/books/Linux%E8%BF%90%E7%BB%B4%E4%B9%8B%E9%81%93-%E4%B8%81%E6%98%8E%E4%B8%80.pdf)
 
@@ -126,9 +130,9 @@
 
 2. 大话数据结构,53.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%A4%A7%E8%AF%9D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28%E5%B8%A6%E7%9B%AE%E5%BD%95%29.pdf)
 
-3. 数据结构与抽象 Java 语言描述 第 4 版,138.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E6%8A%BD%E8%B1%A1%20Java%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%20%E7%AC%AC4%E7%89%88.pdf)
+3. 数据结构与抽象 Java 语言描述 第 4 版,138.2m,链接: [https://pan.baidu.com/s/1MdJMyPoy7sft-GSVg1rNeA](https://pan.baidu.com/s/1MdJMyPoy7sft-GSVg1rNeA), 提取码: 7zrr
 
-4. 数据结构与算法 Java 版,157.4m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%20Java%E7%89%88.pdf)
+4. 数据结构与算法 Java 版,157.4m,链接: [https://pan.baidu.com/s/1NQ8TTFbGtHAOChFCif3cKQ](https://pan.baidu.com/s/1NQ8TTFbGtHAOChFCif3cKQ), 提取码: uihv
 
 5. 数据结构与算法 Python 语言描述裘宗燕,77.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95Python%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E8%A3%98%E5%AE%97%E7%87%95.pdf)
 
@@ -146,7 +150,7 @@
 
 3. 图解设计模式,63.9m,[预览/下载链接](https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
 
-4. HeadFirst 设计模式-中文版,133.6m,[预览/下载链接](https://image.xjq.icu/books/HeadFirst%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+4. HeadFirst 设计模式-中文版,133.6m,链接: [https://pan.baidu.com/s/1B2iXteQTniQQuZ4PvIDUmw](https://pan.baidu.com/s/1B2iXteQTniQQuZ4PvIDUmw), 提取码: rqxd
 
 ## coding
 
@@ -176,13 +180,13 @@
 
 6. 算法导论(原书第 2 版)_中文,57.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%28%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%29_%E4%B8%AD%E6%96%87.pdf)
 
-7. 啊哈！算法 啊哈磊,79.6m,[预览/下载链接](https://image.xjq.icu/books/%E5%95%8A%E5%93%88%EF%BC%81%E7%AE%97%E6%B3%95%20%E5%95%8A%E5%93%88%E7%A3%8A.pdf)
+7. 啊哈！算法 啊哈磊,79.6m,链接: [https://pan.baidu.com/s/1-i9box3_5MDViXGKBaJBpw](https://pan.baidu.com/s/1-i9box3_5MDViXGKBaJBpw),提取码: x427
 
 8. 算法图解,17.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf)
 
 9. 趣学算法,100.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%B6%A3%E5%AD%A6%E7%AE%97%E6%B3%95.pdf)
 
-10. 算法 第 4 版,191.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%20%7%AC%AC4%E7%89%88.pdf)
+10. 算法 第 4 版,191.3m,链接: [https://pan.baidu.com/s/1O60X9ju-IURK9DNzcl4j0A](https://pan.baidu.com/s/1O60X9ju-IURK9DNzcl4j0A) 提取码: crx9
 
 11. 程序员实用算法,32.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%AE%9E%E7%94%A8%E7%AE%97%E6%B3%95.pdf)
 
@@ -192,7 +196,7 @@
 
 14. 算法竞赛入门经典(第 2 版),11.5m,[预览/下载链接](<https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8(%E7%AC%AC2%E7%89%88).pdf>)
 
-15. 挑战程序设计竞赛(第 2 版),92.6m,[预览/下载链接](<https://image.xjq.icu/books/%E6%8C%91%E6%88%98%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B(%E7%AC%AC2%E7%89%88).pdf>)
+15. 挑战程序设计竞赛(第 2 版),92.6m,链接: [https://pan.baidu.com/s/1LWnsZIEe1lWNYLhWyPjtwQ](https://pan.baidu.com/s/1LWnsZIEe1lWNYLhWyPjtwQ),提取码: 7knx
 
 16. 算法图解(Python 语言),17.7m,[预览/下载链接](<https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3(Python%E8%AF%AD%E8%A8%80).pdf>)
 
@@ -202,7 +206,7 @@
 
 1. 机器学习十大算法,3.1m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
 
-2. 周志华-机器学习,89.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%91%A8%E5%BF%97%E5%8D%8E-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
+2. 周志华-机器学习,89.8m,链接: [https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg](https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg), 提取码: yp84
 
 3. 神经⽹络与深度学习,3.7m,[预览/下载链接](https://image.xjq.icu/books/%E7%A5%9E%E7%BB%8F%E2%BD%B9%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
@@ -212,7 +216,7 @@
 
 6. 斯坦福大学-深度学习基础教程,9.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
 
-7. 深度学习 TensorFlow 实战,90.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0TensorFlow%E5%AE%9E%E6%88%98.pdf)
+7. 深度学习 TensorFlow 实战,90.9m,链接: [https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw](https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw),提取码: 38fr
 
 8. 深度学习-花书,32.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E8%8A%B1%E4%B9%A6.pdf)
 
@@ -272,7 +276,7 @@
 
 ### 框架
 
-1. Javascript 框架设计,127.1m,[预览/下载链接](https://image.xjq.icu/books/Javascript%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1.pdf)
+1. Javascript 框架设计,127.1m,链接: [https://pan.baidu.com/s/1jXFzImKNZRnnwLkSI_oeCA](https://pan.baidu.com/s/1jXFzImKNZRnnwLkSI_oeCA), 提取码: 4ug9
 
 2. 权威指南 Vue.js2,146.6m,[预览/下载链接](https://image.xjq.icu/books/%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97Vue.js2.pdf)
 
@@ -282,7 +286,7 @@
 
 1. 深入浅出 Webpack,113.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAWebpack.pdf)
 
-2. Web 前端自动化构建：Gulp、Bower 和 Yeoman 开发指南,107.9m,[预览/下载链接](https://image.xjq.icu/books/Web%E5%89%8D%E7%AB%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BA%EF%BC%9AGulp%E3%80%81Bower%E5%92%8CYeoman%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf)
+2. Web 前端自动化构建：Gulp、Bower 和 Yeoman 开发指南,107.9m,链接: [https://pan.baidu.com/s/1EmGLj85eSJ8j_fT2vtu1wA](https://pan.baidu.com/s/1EmGLj85eSJ8j_fT2vtu1wA), 提取码: fqc1
 
 ### 性能优化
 
@@ -320,7 +324,7 @@
 
 11. 概率论与数理统计习题全解指南-浙大四版-盛骤,48.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97-%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
 
-<!-- ## 掘金小册
+## 掘金小册
 
 ### 前端
 
@@ -338,7 +342,7 @@
 
 7. Taro 多端开发实现原理与项目实战,[下载链接](https://image.xjq.icu/books/Taro%20%E5%A4%9A%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98.zip)
 
-8. Web 前端面试指南与高频考题解析,[下载链接](https://image.xjq.icu/books/Web%20%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97%E4%B8%8E%E9%AB%98%E9%A2%91%E8%80%83%E9%A2%98%E8%A7%A3%E6%9E%90.zip) -->
+8. Web 前端面试指南与高频考题解析,[下载链接](https://image.xjq.icu/books/Web%20%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97%E4%B8%8E%E9%AB%98%E9%A2%91%E8%80%83%E9%A2%98%E8%A7%A3%E6%9E%90.zip)
 
 ## 博客
 
