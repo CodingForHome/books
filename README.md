@@ -58,6 +58,8 @@
 
 5. C++ Primer Plus(第 6 版),264.8m,链接: [https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA](https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA), 提取码: 54kg
 
+6. 数据结构-C++语言版邓俊辉,8m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-C%2B%2B%E8%AF%AD%E8%A8%80%E7%89%88%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
+
 ### python
 
 1. Python3-廖雪峰,5.4m,[预览/下载链接](https://image.xjq.icu/books/Python3-%E5%BB%96%E9%9B%AA%E5%B3%B0.pdf)
@@ -115,6 +117,8 @@
 1. 计算机操作系统 第三版,5.8m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
 
 2. 深入理解计算机系统,500.6m,链接: [https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw](https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw), 提取码: rhrh
+
+3. Docker 进阶与实战-华为 Docker 实践小组,42.1m,[预览/下载链接](https://image.xjq.icu/books/Docker%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%AE%9E%E6%88%98-%E5%8D%8E%E4%B8%BADocker%E5%AE%9E%E8%B7%B5%E5%B0%8F%E7%BB%84.pdf)
 
 ### Linux
 
@@ -228,6 +232,8 @@
 
 11. 数据科学入门,14m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
 
+12. TensorFlow 机器学习实战指南,74.9m,[预览/下载链接](https://image.xjq.icu/books/TensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97.pdf)
+
 ## 大数据
 
 1. 推荐系统实践,13m,[预览/下载链接](https://image.xjq.icu/books/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5.pdf)
@@ -248,9 +254,15 @@
 
 ## 前端
 
+1. 响应式 Web 设计 HTML5 和 CSS3 实战 第 2 版,12.2m,[预览/下载链接](https://image.xjq.icu/books/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1%20HTML5%E5%92%8CCSS3%E5%AE%9E%E6%88%98%20%E7%AC%AC2%E7%89%88.pdf)
+
+2. Typescript 手书,7.8m[预览/下载链接](https://image.xjq.icu/books/Typescript%E6%89%8B%E4%B9%A6.pdf)
+
 ### HTML
 
 1. HTML5 权威指南,27.1m,[预览/下载链接](https://image.xjq.icu/books/HTML5%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
+2. WEB 前端标准在各浏览器中的差异,1.6m,[预览/下载链接](https://image.xjq.icu/books/WEB%E5%89%8D%E7%AB%AF%E6%A0%87%E5%87%86%E5%9C%A8%E5%90%84%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9A%84%E5%B7%AE%E5%BC%82.pdf)
 
 ### CSS
 
@@ -259,6 +271,10 @@
 2. CSS 权威指南-第三版,62m,[预览/下载链接](https://image.xjq.icu/books/CSS%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
 
 3. CSS3 属性速查表,0.9m,[预览/下载链接](https://image.xjq.icu/books/CSS3%E5%B1%9E%E6%80%A7%E9%80%9F%E6%9F%A5%E8%A1%A8.pdf)
+
+4. 图解 css3：核心技术与案例实战,20.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3css3%EF%BC%9A%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%AE%9E%E6%88%98.pdf)
+
+5. CSS3 学习必备书籍-CSS3 实战,76.7m,[预览/下载链接](https://image.xjq.icu/books/CSS3%E5%AD%A6%E4%B9%A0%E5%BF%85%E5%A4%87%E4%B9%A6%E7%B1%8D-CSS3%20%E5%AE%9E%E6%88%98.pdf)
 
 ### Node
 
@@ -296,6 +312,10 @@
 
 2. 高性能网站建设指南,23.2m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%8D%97.pdf)
 
+### 安全
+
+1. Web 前端黑客技术揭秘,69.5m,[预览/下载链接](https://image.xjq.icu/books/Web%E5%89%8D%E7%AB%AF%E9%BB%91%E5%AE%A2%E6%8A%80%E6%9C%AF%E6%8F%AD%E7%A7%98.pdf)
+
 ## 科普
 
 1. 浪潮之巅第 4 版.吴军,9.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
@@ -325,6 +345,8 @@
 10. 概率论与数理统计-第四版-盛骤,39.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E7%AC%AC%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
 
 11. 概率论与数理统计习题全解指南-浙大四版-盛骤,48.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97-%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
+
+12. 计算机视觉中的数学方法-吴福朝,4.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95-%E5%90%B4%E7%A6%8F%E6%9C%9D.pdf)
 
 ## 掘金小册
 
