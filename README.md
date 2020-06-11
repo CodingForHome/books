@@ -1,10 +1,10 @@
 计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
-为了节约流量,大于 80m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
+大于 80m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
 
 我不生产知识,我只是知识的搬运工
 
-如有侵权,联系我删除,email->lebnizjoan@gmail.com
+如有侵权,请联系我删除,email->lebnizjoan@gmail.com
 
 ## 编程语言
 
@@ -33,6 +33,8 @@
 11. JS 函数式编程指南,2.5m,[预览/下载链接](https://image.xjq.icu/books/JS%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 
 12. es6 标准入门,5.8m,[预览/下载链接](https://image.xjq.icu/books/es6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8.pdf)
+
+13. JavaScript 面向对象编程指南,56.8m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 
 ### Java
 
@@ -118,7 +120,7 @@
 
 1. 鸟哥的 Linux 私房菜服务器架设篇 第三版,17.9m,[预览/下载链接](https://image.xjq.icu/books/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87%20%E7%AC%AC%E4%B8%89%E7%89%88%20.pdf)
 
-2. 鸟哥的 LINUX 私房菜-基础学习篇(第三版),158.6m,[预览/下载链接](<https://image.xjq.icu/books/%E9%B8%9F%E5%93%A5%E7%9A%84LINUX%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87(%E7%AC%AC%E4%B8%89%E7%89%88).pdf>)
+2. 鸟哥的 LINUX 私房菜-基础学习篇(第三版),158.6m,链接:[https://pan.baidu.com/s/1hdbB1VkltCynfQCOrHoLrA](https://pan.baidu.com/s/1hdbB1VkltCynfQCOrHoLrA),  提取码:7987
 
 3. UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,链接: [https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ](https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ), 提取码: y3tx
 
@@ -278,13 +280,13 @@
 
 1. Javascript 框架设计,127.1m,链接: [https://pan.baidu.com/s/1jXFzImKNZRnnwLkSI_oeCA](https://pan.baidu.com/s/1jXFzImKNZRnnwLkSI_oeCA), 提取码: 4ug9
 
-2. 权威指南 Vue.js2,146.6m,[预览/下载链接](https://image.xjq.icu/books/%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97Vue.js2.pdf)
+2. 权威指南 Vue.js2,146.6m,链接:[https://pan.baidu.com/s/1k3AghECvotORgJ1tUOoaOQ](https://pan.baidu.com/s/1k3AghECvotORgJ1tUOoaOQ),  提取码:g0xx
 
 3. 前端架构设计中文版,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 ### 构建工具
 
-1. 深入浅出 Webpack,113.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAWebpack.pdf)
+1. 深入浅出 Webpack,113.2m,链接:[https://pan.baidu.com/s/1WNp9YVR-qQ39emnauVpiAg](https://pan.baidu.com/s/1WNp9YVR-qQ39emnauVpiAg),  提取码:p5ir
 
 2. Web 前端自动化构建：Gulp、Bower 和 Yeoman 开发指南,107.9m,链接: [https://pan.baidu.com/s/1EmGLj85eSJ8j_fT2vtu1wA](https://pan.baidu.com/s/1EmGLj85eSJ8j_fT2vtu1wA), 提取码: fqc1
 
@@ -370,6 +372,22 @@
 
 2. 免费申请 https 证书,[https://certbot.eff.org/](https://certbot.eff.org/)
 
+## 开源
+
+1. wangEditor,功能比较丰富的富文本编辑器,[http://www.wangeditor.com/](http://www.wangeditor.com/)
+
+2. react hook,自定义 hook 大全,[https://github.com/streamich/react-use](https://github.com/streamich/react-use)
+
+3. vuepress,静态网站生成器,做博客,做文档都不错,[https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
+
 ## 知识汇总
 
 1. web 前端技能树,[https://www.processon.com/view/link/5d83308ae4b05a8b75365abd#map](https://www.processon.com/view/link/5d83308ae4b05a8b75365abd#map)
+
+## 摸鱼
+
+1. 看域名就很摸鱼,[https://mo.fish/](https://mo.fish/)
+
+2. v2ex,个人几个项目都是在这推广开的,[https://www.v2ex.com/](https://www.v2ex.com/)
+
+3. 掘金,沸点摸鱼好地方,还能看各大神的技术文章,偏前端,[https://juejin.im/timeline](https://juejin.im/timeline)
