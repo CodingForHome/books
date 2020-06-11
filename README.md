@@ -34,7 +34,7 @@
 
 12. es6 标准入门,5.8m,[预览/下载链接](https://image.xjq.icu/books/es6%E6%A0%87%E5%87%86%E5%85%A5%E9%97%A8.pdf)
 
-13. JavaScript 面向对象编程指南,56.8m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
+13. JavaScript 面向对象编程指南,56.8m,链接:[https://pan.baidu.com/s/1JEGzxaH03OWnw2-RvJUAfA](https://pan.baidu.com/s/1JEGzxaH03OWnw2-RvJUAfA), 密码:rnv0
 
 ### Java
 
@@ -66,15 +66,15 @@
 
 2. Python 数据处理,14.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)
 
-3. Python 高级编程第 2 版-张亮,80.6m,[预览/下载链接](https://image.xjq.icu/books/Python%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E7%AC%AC2%E7%89%88-%E5%BC%A0%E4%BA%AE.pdf)
+3. Python 高级编程第 2 版-张亮,80.6m,链接:[https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ](https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ), 密码:jhgj
 
-4. Python 数据分析实战,55.3m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98.pdf)
+4. Python 数据分析实战,55.3m,链接:[https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ](https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ), 密码:o027
 
 5. Python 数据科学手册,13.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
 
 6. Python 数据可视化编程实战,43.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
 
-7. Python 编程入门经典,61.9m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)
+7. Python 编程入门经典,61.9m,链接:[https://pan.baidu.com/s/1_KWbLpOVJTKCLKpNk0yqOQ](https://pan.baidu.com/s/1_KWbLpOVJTKCLKpNk0yqOQ), 密码:46g9
 
 8. Python 源码剖析-深度探索动态语言核心技术-陈儒,31.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF-%E9%99%88%E5%84%92.pdf)
 
@@ -128,13 +128,13 @@
 
 3. UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,链接: [https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ](https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ), 提取码: y3tx
 
-4. Linux 运维之道-丁明一,84.5m,[预览/下载链接](https://image.xjq.icu/books/Linux%E8%BF%90%E7%BB%B4%E4%B9%8B%E9%81%93-%E4%B8%81%E6%98%8E%E4%B8%80.pdf)
+4. Linux 运维之道-丁明一,84.5m,链接:[https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw](https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw), 密码:5h6q
 
 ## 数据结构
 
 1. 数据结构(C 语言版).严蔚敏吴伟民,30.5m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%E8%AF%AD%E8%A8%80%E7%89%88%29%5D.%E4%B8%A5%E8%94%9A%E6%95%8F_%E5%90%B4%E4%BC%9F%E6%B0%91.pdf)
 
-2. 大话数据结构,53.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%A4%A7%E8%AF%9D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28%E5%B8%A6%E7%9B%AE%E5%BD%95%29.pdf)
+2. 大话数据结构,53.8m,链接:[https://pan.baidu.com/s/1q5n0ztrsNtbikoVL7AJPUQ](https://pan.baidu.com/s/1q5n0ztrsNtbikoVL7AJPUQ), 密码:2gww
 
 3. 数据结构与抽象 Java 语言描述 第 4 版,138.2m,链接: [https://pan.baidu.com/s/1MdJMyPoy7sft-GSVg1rNeA](https://pan.baidu.com/s/1MdJMyPoy7sft-GSVg1rNeA), 提取码: 7zrr
 
@@ -232,7 +232,7 @@
 
 11. 数据科学入门,14m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
 
-12. TensorFlow 机器学习实战指南,74.9m,[预览/下载链接](https://image.xjq.icu/books/TensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97.pdf)
+12. TensorFlow 机器学习实战指南,74.9m,链接:[https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA](https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA), 密码:ycs2
 
 ## 大数据
 
@@ -248,7 +248,7 @@
 
 ## 服务器
 
-1. Nginx 高性能 Web 服务器详解,71.1m,[预览/下载链接](https://image.xjq.icu/books/Nginx%E9%AB%98%E6%80%A7%E8%83%BDWeb%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AF%A6%E8%A7%A3.pdf)
+1. Nginx 高性能 Web 服务器详解,71.1m,链接:[https://pan.baidu.com/s/1RM4-kpYPFoQj4ysxoeZETw](https://pan.baidu.com/s/1RM4-kpYPFoQj4ysxoeZETw), 密码:00f5
 
 2. 精通 Nginx,73.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ANginx.pdf)
 
@@ -257,6 +257,8 @@
 1. 响应式 Web 设计 HTML5 和 CSS3 实战 第 2 版,12.2m,[预览/下载链接](https://image.xjq.icu/books/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1%20HTML5%E5%92%8CCSS3%E5%AE%9E%E6%88%98%20%E7%AC%AC2%E7%89%88.pdf)
 
 2. Typescript 手书,7.8m[预览/下载链接](https://image.xjq.icu/books/Typescript%E6%89%8B%E4%B9%A6.pdf)
+
+3. 渐进增强的 Web 设计,89.3m,链接:[https://pan.baidu.com/s/1Mzz1Yq-0M4ftn362KKATHA](https://pan.baidu.com/s/1Mzz1Yq-0M4ftn362KKATHA), 密码:36ms
 
 ### HTML
 
@@ -274,7 +276,7 @@
 
 4. 图解 css3：核心技术与案例实战,20.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3css3%EF%BC%9A%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%AE%9E%E6%88%98.pdf)
 
-5. CSS3 学习必备书籍-CSS3 实战,76.7m,[预览/下载链接](https://image.xjq.icu/books/CSS3%E5%AD%A6%E4%B9%A0%E5%BF%85%E5%A4%87%E4%B9%A6%E7%B1%8D-CSS3%20%E5%AE%9E%E6%88%98.pdf)
+5. CSS3 学习必备书籍-CSS3 实战,76.7m,链接:[https://pan.baidu.com/s/1CsyqqBjZErJ2-YdweF9SrQ](https://pan.baidu.com/s/1CsyqqBjZErJ2-YdweF9SrQ), 密码:kpyy
 
 ### Node
 
@@ -314,7 +316,7 @@
 
 ### 安全
 
-1. Web 前端黑客技术揭秘,69.5m,[预览/下载链接](https://image.xjq.icu/books/Web%E5%89%8D%E7%AB%AF%E9%BB%91%E5%AE%A2%E6%8A%80%E6%9C%AF%E6%8F%AD%E7%A7%98.pdf)
+1. Web 前端黑客技术揭秘,69.5m,链接:[https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A](https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A), 密码:awlt
 
 ## 科普
 
