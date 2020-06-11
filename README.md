@@ -1,6 +1,6 @@
 计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
-大于 80m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
+大于 50m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
 
 我不生产知识,我只是知识的搬运工
 
