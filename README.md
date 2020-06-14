@@ -1,4 +1,4 @@
-计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
+计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,深度学习,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
 大于 50m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
 
@@ -248,17 +248,21 @@
 
 ## AI
 
+- 统计自然语言处理（第二版）,21.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+
+* 数据科学入门,14m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
+
+### 机器学习
+
 - 机器学习十大算法,3.1m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
 
 - 周志华-机器学习,89.8m,链接: [https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg](https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg), 提取码: yp84
 
-- 神经⽹络与深度学习,3.7m,[预览/下载链接](https://image.xjq.icu/books/%E7%A5%9E%E7%BB%8F%E2%BD%B9%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
-
 - 机器学习实战,21.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98.pdf)
 
-- 统计自然语言处理（第二版）,21.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+- TensorFlow 机器学习实战指南,74.9m,链接:[https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA](https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA), 密码:ycs2
 
-- 斯坦福大学-深度学习基础教程,9.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
+### 深度学习
 
 - 深度学习 TensorFlow 实战,90.9m,链接: [https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw](https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw),提取码: 38fr
 
@@ -266,15 +270,11 @@
 
 - 深度学习框架 Pytorch 入门与实践,43.7m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6Pytorch%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
 
-- TensorFlow 机器学习实战指南,74.9m,[预览/下载链接](https://image.xjq.icu/books/TensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97.pdf)
-
-- 数据科学入门,14m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
-
-- TensorFlow 机器学习实战指南,74.9m,链接:[https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA](https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA), 密码:ycs2
-
 - 深度学习入门：基于 Python 的理论与实现,11.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%EF%BC%9A%E5%9F%BA%E4%BA%8EPython%E7%9A%84%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
 
-- 数据科学入门,14m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
+- 神经⽹络与深度学习,3.7m,[预览/下载链接](https://image.xjq.icu/books/%E7%A5%9E%E7%BB%8F%E2%BD%B9%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
+
+- 斯坦福大学-深度学习基础教程,9.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
 
 ## 大数据
 
