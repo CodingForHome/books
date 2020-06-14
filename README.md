@@ -106,6 +106,10 @@
 
 - Python 深度学习,20m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
+- Python 编程金典,52.9m,链接: [https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ](https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ) 提取码: rkw1
+
+- Python 金融大数据分析,50.1m,链接: [https://pan.baidu.com/s/1YyZi8e9Zlq_yqlCKtVTqFA](https://pan.baidu.com/s/1YyZi8e9Zlq_yqlCKtVTqFA), 提取码: em2r
+
 ## 计算机基础
 
 - 计算机科学导论.佛罗赞,56.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E4%BD%9B%E7%BD%97%E8%B5%9E.pdf)
@@ -172,21 +176,17 @@
 
 - JavaScrit 数据结构与算法-第 2 版,12.3m,[预览/下载链接](https://image.xjq.icu/books/JavaScrit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E7%AC%AC2%E7%89%88.pdf)
 
-- 数据结构-C++语言版邓俊辉,8m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-C%2B%2B%E8%AF%AD%E8%A8%80%E7%89%88%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
-
 ## 设计模式
 
 - 大话设计模式,72.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
 
 - 设计模式之禅（第 2 版）,16.2m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 
-- 图解设计模式,63.9m,[预览/下载链接](https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+- 图解设计模式,63.9m,链接: [https://pan.baidu.com/s/1SRDCGJrCTiq-MkaADxDOtw](https://pan.baidu.com/s/1SRDCGJrCTiq-MkaADxDOtw), 提取码: 76p7
 
 - HeadFirst 设计模式-中文版,133.6m,链接: [https://pan.baidu.com/s/1B2iXteQTniQQuZ4PvIDUmw](https://pan.baidu.com/s/1B2iXteQTniQQuZ4PvIDUmw), 提取码: rqxd
 
 - 精通 Python 设计模式, 29.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9APython%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
-
-- Phthon 编程金典,52.9m,链接: [https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ](https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ) 提取码: rkw1
 
 ## coding
 
@@ -243,6 +243,8 @@
 - 计算几何-算法与应用-中文第三版-邓俊辉,4.8m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8-%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88-%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
 
 - 算法帝国,22.7m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%B8%9D%E5%9B%BD.pdf)
+
+- 算法设计手册第 2 版-中文版,33.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E6%89%8B%E5%86%8C%E7%AC%AC2%E7%89%88-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 ## AI
 
