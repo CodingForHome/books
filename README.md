@@ -64,15 +64,7 @@
 
 - Python3-廖雪峰,5.4m,[预览/下载链接](https://image.xjq.icu/books/Python3-%E5%BB%96%E9%9B%AA%E5%B3%B0.pdf)
 
-- Python 数据处理,14.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)
-
-- Python 高级编程第 2 版-张亮,80.6m,链接:[https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ](https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ), 密码:jhgj
-
-- Python 数据分析实战,55.3m,链接:[https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ](https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ), 密码:o027
-
-5. Python 数据科学手册,13.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
-
-- Python 数据可视化编程实战,43.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
+* Python 高级编程第 2 版-张亮,80.6m,链接:[https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ](https://pan.baidu.com/s/1PvoyZQsezy7NkIUxRw04GQ), 密码:jhgj
 
 - Python 编程入门经典,61.9m,链接:[https://pan.baidu.com/s/1_KWbLpOVJTKCLKpNk0yqOQ](https://pan.baidu.com/s/1_KWbLpOVJTKCLKpNk0yqOQ), 密码:46g9
 
@@ -98,17 +90,25 @@
 
 - Python 自动化运维 技术与最佳实践,47.9m,[预览/下载链接](https://image.xjq.icu/books/Python%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%20%20%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf)
 
-- Python 数据可视化编程实战,43.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
-
-- Python3 程序开发指南-第二版,29.7m,[预览/下载链接](https://image.xjq.icu/books/Python3%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
-
-- Python 数据分析基础教程：NumPy 学习指南（第 2 版）,5.8m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%9ANumPy%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+* Python3 程序开发指南-第二版,29.7m,[预览/下载链接](https://image.xjq.icu/books/Python3%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
 - Python 深度学习,20m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
 - Python 编程金典,52.9m,链接: [https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ](https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ) 提取码: rkw1
 
+#### Python 数据分析
+
+- Python 数据科学手册,13.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
+
+- Python 数据可视化编程实战,43.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
+
+- Python 数据分析基础教程：NumPy 学习指南（第 2 版）,5.8m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%9ANumPy%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+
 - Python 金融大数据分析,50.1m,链接: [https://pan.baidu.com/s/1YyZi8e9Zlq_yqlCKtVTqFA](https://pan.baidu.com/s/1YyZi8e9Zlq_yqlCKtVTqFA), 提取码: em2r
+
+- Python 数据分析实战,55.3m,链接:[https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ](https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ), 密码:o027
+
+- Python 数据处理,14.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)
 
 ## 计算机基础
 
