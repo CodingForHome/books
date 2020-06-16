@@ -96,6 +96,14 @@
 
 - Python 编程金典,52.9m,链接: [https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ](https://pan.baidu.com/s/1MrjFxAib8dIv-T-lhi7fjQ) 提取码: rkw1
 
+- Python 开发实战,100.3m,链接: [https://pan.baidu.com/s/1kwbLdWYiyuBrq1VvnHt5KA](https://pan.baidu.com/s/1kwbLdWYiyuBrq1VvnHt5KA), 提取码: zw3n
+
+- Python 爬虫开发与项目实战,105.5m,链接: [https://pan.baidu.com/s/1eKgKIs0jj2yneJzacbWTXw](https://pan.baidu.com/s/1eKgKIs0jj2yneJzacbWTXw), 提取码: pp9i
+
+- Python 编程-第 4 版-上册,链接: [https://pan.baidu.com/s/1PbaE5hnvvE8cNeBAakHhVQ](https://pan.baidu.com/s/1PbaE5hnvvE8cNeBAakHhVQ), 提取码: wjrz
+
+- Python 编程-第 4 版-下册,264m,链接: [https://pan.baidu.com/s/1bz-59vSSLVeKE1C9A3lpDA](https://pan.baidu.com/s/1bz-59vSSLVeKE1C9A3lpDA), 提取码: p6ii
+
 #### Python 数据分析
 
 - Python 数据科学手册,13.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
@@ -157,6 +165,10 @@
 - Linux 运维之道-丁明一,84.5m,链接:[https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw](https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw), 密码:5h6q
 
 - Linux Shell 脚本攻略-第 2 版,33.6m,[预览/下载链接](https://image.xjq.icu/books/Linux%20Shell%E8%84%9A%E6%9C%AC%E6%94%BB%E7%95%A5-%E7%AC%AC2%E7%89%88.pdf)
+
+- Linux shell 编程从初学到精通,81.4m,链接: [https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg](https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg), 提取码: abjx
+
+- Linux 命令详解词典,74.9m,链接: [https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA](https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA), 提取码: bvfx
 
 ## 数据结构
 
@@ -266,6 +278,10 @@
 
 - TensorFlow 机器学习实战指南,74.9m,链接:[https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA](https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA), 密码:ycs2
 
+- 机器学习导论-第 2 版,77.8m,链接: [https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ](https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ), 提取码: gtj6
+
+- 图解机器学习,59.4m,链接: [https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA](https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA), 提取码: j3g1
+
 ### 深度学习
 
 - 深度学习 TensorFlow 实战,90.9m,链接: [https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw](https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw),提取码: 38fr
@@ -340,6 +356,8 @@
 
 - 正则表达式手册,[https://tool.oschina.net/uploads/apidocs/jquery/regexp.html](https://tool.oschina.net/uploads/apidocs/jquery/regexp.html)
 
+- 精通正则表达式-第三版-美-佛瑞德,54.9m,链接: [https://pan.baidu.com/s/1VMe7DDffgYwKde7-JJXtlg](https://pan.baidu.com/s/1VMe7DDffgYwKde7-JJXtlg), 提取码: ci3d
+
 ### 框架
 
 - Javascript 框架设计,127.1m,链接: [https://pan.baidu.com/s/1jXFzImKNZRnnwLkSI_oeCA](https://pan.baidu.com/s/1jXFzImKNZRnnwLkSI_oeCA), 提取码: 4ug9
@@ -395,6 +413,8 @@
 - 概率论与数理统计-第四版-盛骤,39.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E7%AC%AC%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
 
 - 概率论与数理统计习题全解指南-浙大四版-盛骤,48.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97-%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
+
+- 概率论基础教程-第 9 版-美-罗斯,90.3m,链接: [https://pan.baidu.com/s/1cm_vVO8NSiRBZlK18LqLzg](https://pan.baidu.com/s/1cm_vVO8NSiRBZlK18LqLzg), 提取码: w1ah
 
 ### 线性代数
 
