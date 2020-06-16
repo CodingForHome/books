@@ -118,6 +118,10 @@
 
 - Python 数据处理,14.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)
 
+### Scala
+
+- Scala 程序设计-第 2 版,18.5m,[预览/下载链接](https://image.xjq.icu/books/Scala%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E7%AC%AC2%E7%89%88.pdf)
+
 ## 计算机基础
 
 - 计算机科学导论.佛罗赞,56.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E4%BD%9B%E7%BD%97%E8%B5%9E.pdf)
@@ -220,6 +224,8 @@
 
 - 编程原本,32m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E5%8E%9F%E6%9C%AC.pdf)
 
+- 编写可读代码的艺术,12.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E5%86%99%E5%8F%AF%E8%AF%BB%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)
+
 ## 算法
 
 - 漫画算法-小灰的算法之旅,36.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%BC%AB%E7%94%BB%E7%AE%97%E6%B3%95-%E5%B0%8F%E7%81%B0%E7%9A%84%E7%AE%97%E6%B3%95%E4%B9%8B%E6%97%85.pdf)
@@ -262,6 +268,8 @@
 
 - 算法设计手册第 2 版-中文版,33.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E6%89%8B%E5%86%8C%E7%AC%AC2%E7%89%88-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
+- 垃圾回收的算法与实现,29.4m,[预览/下载链接](https://image.xjq.icu/books/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%9A%84%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+
 ## AI
 
 - 统计自然语言处理（第二版）,21.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
@@ -281,6 +289,8 @@
 - 机器学习导论-第 2 版,77.8m,链接: [https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ](https://pan.baidu.com/s/1Q8VRCurcO89U2LO6B8ymdQ), 提取码: gtj6
 
 - 图解机器学习,59.4m,链接: [https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA](https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA), 提取码: j3g1
+
+- 实用机器学习,
 
 ### 深度学习
 
@@ -316,6 +326,16 @@
 
 ## 前端
 
+- 精通 D3.js 交互式数据可视化高级编程,52.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9AD3.js%E4%BA%A4%E4%BA%92%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf)
+
+- Web 开发权威指南,30.7m,[预览/下载链接](https://image.xjq.icu/books/Web%E5%BC%80%E5%8F%91%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
+- 同构 JavaScript 应用开发,9.2m,[预览/下载链接](https://image.xjq.icu/books/%E5%90%8C%E6%9E%84JavaScript%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91.pdf)
+
+- 现代前端技术解析 2019,47.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%902019.pdf)
+
+- Three_js 入门指南,3.4m,[预览/下载链接](https://image.xjq.icu/books/Three_js%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
+
 - 响应式 Web 设计 HTML5 和 CSS3 实战 第 2 版,12.2m,[预览/下载链接](https://image.xjq.icu/books/%E5%93%8D%E5%BA%94%E5%BC%8FWeb%E8%AE%BE%E8%AE%A1%20HTML5%E5%92%8CCSS3%E5%AE%9E%E6%88%98%20%E7%AC%AC2%E7%89%88.pdf)
 
 - Typescript 手书,7.8m[预览/下载链接](https://image.xjq.icu/books/Typescript%E6%89%8B%E4%B9%A6.pdf)
@@ -348,6 +368,8 @@
 
 - 深入浅出 Node.js,6.1m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
 
+- Node 即学即用,10.4m,[预览/下载链接](https://image.xjq.icu/books/Node%E5%8D%B3%E5%AD%A6%E5%8D%B3%E7%94%A8.pdf)
+
 ### 正则表达式
 
 - JavaScript 正则表达式迷你书（1.1 版）,3.6m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%BF%B7%E4%BD%A0%E4%B9%A6%EF%BC%881.1%E7%89%88%EF%BC%89.pdf)
@@ -378,15 +400,25 @@
 
 - 高性能网站建设指南,23.2m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%8D%97.pdf)
 
+- 构建高性能 WEB 站点,50.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%9E%84%E5%BB%BA%E9%AB%98%E6%80%A7%E8%83%BDWEB%E7%AB%99%E7%82%B9.pdf)
+
 ### 安全
 
 - Web 前端黑客技术揭秘,69.5m,链接:[https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A](https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A), 密码:awlt
+
+## 效率、习惯
+
+- 高效程序员的 45 个习惯-敏捷开发修炼之道-苏帕拉马尼亚姆-钱安川等,18.3m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF-%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93-%E8%8B%8F%E5%B8%95%E6%8B%89%E9%A9%AC%E5%B0%BC%E4%BA%9A%E5%A7%86-%E9%92%B1%E5%AE%89%E5%B7%9D%E7%AD%89.pdf)
 
 ## 科普
 
 - 浪潮之巅第 4 版.吴军,9.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
 
 - 看见未来：改变互联网世界的人们(余晨),57.2m,[预览/下载链接](<https://image.xjq.icu/books/%E7%9C%8B%E8%A7%81%E6%9C%AA%E6%9D%A5%EF%BC%9A%E6%94%B9%E5%8F%98%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%96%E7%95%8C%E7%9A%84%E4%BA%BA%E4%BB%AC(%E4%BD%99%E6%99%A8).pdf>)
+
+- 代码的未来,9.4m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.pdf)
+
+- 程序员的思维修炼-崔康,47.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC-%E5%B4%94%E5%BA%B7.pdf)
 
 ## 数学
 
