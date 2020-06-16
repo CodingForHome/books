@@ -188,9 +188,13 @@
 
 - 精通 Python 设计模式, 29.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9APython%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
 
-## coding
+## 编译原理
 
-- 编译原理(中文第二版),16.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%28%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf)
+- 编译原理-龙书-第二版,25.5m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86-%E9%BE%99%E4%B9%A6-%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
+
+- 现代编译原理-虎书,15.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%8E%B0%E4%BB%A3%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86-%E8%99%8E%E4%B9%A6.pdf)
+
+## coding
 
 - 编程珠玑(第 2 版),45.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%28%E7%AC%AC2%E7%89%88%29.pdf)
 
