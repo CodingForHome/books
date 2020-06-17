@@ -290,7 +290,7 @@
 
 - 图解机器学习,59.4m,链接: [https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA](https://pan.baidu.com/s/1zBRsLgZsArQ1-8uzXVr2vA), 提取码: j3g1
 
-- 实用机器学习,
+- 实用机器学习,175.7m,链接: [https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA](https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA), 提取码: dpze
 
 ### 深度学习
 
