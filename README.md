@@ -104,6 +104,8 @@
 
 - Python 编程-第 4 版-下册,264m,链接: [https://pan.baidu.com/s/1bz-59vSSLVeKE1C9A3lpDA](https://pan.baidu.com/s/1bz-59vSSLVeKE1C9A3lpDA), 提取码: p6ii
 
+- Python 编程导论-第 2 版,14.7m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA-%E7%AC%AC2%E7%89%88.pdf)
+
 #### Python 数据分析
 
 - Python 数据科学手册,13.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
@@ -174,6 +176,10 @@
 
 - Linux 命令详解词典,74.9m,链接: [https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA](https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA), 提取码: bvfx
 
+- 精通 Linux-第 2 版,10.7 码,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ALinux-%E7%AC%AC2%E7%89%88.pdf)
+
+- 循序渐进 Linux-第 2 版-服务器搭建系统,44.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%BE%AA%E5%BA%8F%E6%B8%90%E8%BF%9BLinux-%E7%AC%AC2%E7%89%88-%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E7%B3%BB%E7%BB%9F.pdf)
+
 ## 数据结构
 
 - 数据结构(C 语言版).严蔚敏吴伟民,30.5m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%E8%AF%AD%E8%A8%80%E7%89%88%29%5D.%E4%B8%A5%E8%94%9A%E6%95%8F_%E5%90%B4%E4%BC%9F%E6%B0%91.pdf)
@@ -210,6 +216,8 @@
 
 - 现代编译原理-虎书,15.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%8E%B0%E4%BB%A3%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86-%E8%99%8E%E4%B9%A6.pdf)
 
+- 自制编译器,14.3m,[预览/下载链接](https://image.xjq.icu/books/%E8%87%AA%E5%88%B6%E7%BC%96%E8%AF%91%E5%99%A8.pdf)
+
 ## coding
 
 - 编程珠玑(第 2 版),45.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%28%E7%AC%AC2%E7%89%88%29.pdf)
@@ -225,6 +233,8 @@
 - 编程原本,32m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E5%8E%9F%E6%9C%AC.pdf)
 
 - 编写可读代码的艺术,12.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E5%86%99%E5%8F%AF%E8%AF%BB%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)
+
+- 函数式编程思维,14.4m,[预览/下载链接](https://image.xjq.icu/books/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E7%BB%B4.pdf)
 
 ## 算法
 
@@ -269,6 +279,10 @@
 - 算法设计手册第 2 版-中文版,33.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E6%89%8B%E5%86%8C%E7%AC%AC2%E7%89%88-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 - 垃圾回收的算法与实现,29.4m,[预览/下载链接](https://image.xjq.icu/books/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%9A%84%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
+
+- 剑指 offer 名企面试官精讲典型编程题,23.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%91%E6%8C%87offer%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E5%AE%98%E7%B2%BE%E8%AE%B2%E5%85%B8%E5%9E%8B%E7%BC%96%E7%A8%8B%E9%A2%98.pdf)
+
+- 算法的乐趣,9.5m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3.pdf)
 
 ## AI
 
@@ -410,6 +424,8 @@
 
 - 高效程序员的 45 个习惯-敏捷开发修炼之道-苏帕拉马尼亚姆-钱安川等,18.3m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF-%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93-%E8%8B%8F%E5%B8%95%E6%8B%89%E9%A9%AC%E5%B0%BC%E4%BA%9A%E5%A7%86-%E9%92%B1%E5%AE%89%E5%B7%9D%E7%AD%89.pdf)
 
+- 学习敏捷-构建高效团队,16.2m,[预览/下载链接]()
+
 ## 科普
 
 - 浪潮之巅第 4 版.吴军,9.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
@@ -419,6 +435,8 @@
 - 代码的未来,9.4m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.pdf)
 
 - 程序员的思维修炼-崔康,47.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC-%E5%B4%94%E5%BA%B7.pdf)
+
+- 黑客与画家,31.1m,[预览/下载链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
 
 ## 数学
 
