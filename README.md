@@ -176,7 +176,7 @@
 
 - Linux 命令详解词典,74.9m,链接: [https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA](https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA), 提取码: bvfx
 
-- 精通 Linux-第 2 版,10.7 码,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ALinux-%E7%AC%AC2%E7%89%88.pdf)
+- 精通 Linux-第 2 版,10.7 m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ALinux-%E7%AC%AC2%E7%89%88.pdf)
 
 - 循序渐进 Linux-第 2 版-服务器搭建系统,44.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%BE%AA%E5%BA%8F%E6%B8%90%E8%BF%9BLinux-%E7%AC%AC2%E7%89%88-%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E7%B3%BB%E7%BB%9F.pdf)
 
@@ -355,6 +355,16 @@
 - Typescript 手书,7.8m[预览/下载链接](https://image.xjq.icu/books/Typescript%E6%89%8B%E4%B9%A6.pdf)
 
 - 渐进增强的 Web 设计,89.3m,链接:[https://pan.baidu.com/s/1Mzz1Yq-0M4ftn362KKATHA](https://pan.baidu.com/s/1Mzz1Yq-0M4ftn362KKATHA), 密码:36ms
+
+- 深入浅出 RxJS,18.4m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BARxJS.pdf)
+
+### 可视化
+
+- WebGL 编程指南,85.2m,[预览/下载链接](https://image.xjq.icu/books/WebGL%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
+
+- Three.js 开发指南-第 2 版,50.7m,[预览/下载链接](https://image.xjq.icu/books/Three.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97-%E7%AC%AC2%E7%89%88.pdf)
+
+- 计算机图形学几何工具算法详解,35.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.pdf)
 
 ### HTML
 
