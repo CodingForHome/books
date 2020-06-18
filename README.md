@@ -60,6 +60,16 @@
 
 - C++ Primer Plus(第 6 版),264.8m,链接: [https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA](https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA), 提取码: 54kg
 
+- C++编程规范 101 条规则、准则最佳实践,37.9m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83101%E6%9D%A1%E8%A7%84%E5%88%99%E3%80%81%E5%87%86%E5%88%99%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf)
+
+- C++编程思想(第 2 版)-第 1 卷,35.9m,[预览/下载链接](<https://image.xjq.icu/books/C%2B%2B%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3(%E7%AC%AC2%E7%89%88)-%E7%AC%AC1%E5%8D%B7.pdf>)
+
+- C++编程思想第 2 卷,17m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%AC%AC2%E5%8D%B7.pdf)
+
+- C++程序设计原理与实践,35.3m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
+
+- C++语言的设计和演化,15.4m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E8%AF%AD%E8%A8%80%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%92%8C%E6%BC%94%E5%8C%96.pdf)
+
 ### python
 
 - Python3-廖雪峰,5.4m,[预览/下载链接](https://image.xjq.icu/books/Python3-%E5%BB%96%E9%9B%AA%E5%B3%B0.pdf)
