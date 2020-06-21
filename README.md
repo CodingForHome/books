@@ -1,4 +1,4 @@
-计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,深度学习,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
+计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,机器学习,深度学习,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
 大于 50m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
 
@@ -329,6 +329,16 @@
 - 神经⽹络与深度学习,3.7m,[预览/下载链接](https://image.xjq.icu/books/%E7%A5%9E%E7%BB%8F%E2%BD%B9%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
 - 斯坦福大学-深度学习基础教程,9.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
+
+## 数据库
+
+- 深入学习 MongoDB,11.6m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
+
+## 架构
+
+- 分布式系统概念与设计,7m,[预览/下载链接](https://image.xjq.icu/books/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%BE%E8%AE%A1.pdf)
+
+- 软件架构设计：程序员向架构师转型必备(第二版)-温昱,24.8m,[预览/下载链接](<https://image.xjq.icu/books/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%EF%BC%9A%E7%A8%8B%E5%BA%8F%E5%91%98%E5%90%91%E6%9E%B6%E6%9E%84%E5%B8%88%E8%BD%AC%E5%9E%8B%E5%BF%85%E5%A4%87(%E7%AC%AC%E4%BA%8C%E7%89%88)-%E6%B8%A9%E6%98%B1.pdf>)
 
 ## 大数据
 
