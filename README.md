@@ -70,6 +70,8 @@
 
 - C++语言的设计和演化,15.4m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E8%AF%AD%E8%A8%80%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%92%8C%E6%BC%94%E5%8C%96.pdf)
 
+- C++语言程序设计第四版-郑莉,24m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%9B%9B%E7%89%88-%E9%83%91%E8%8E%89.pdf)
+
 ### python
 
 - Python3-廖雪峰,5.4m,[预览/下载链接](https://image.xjq.icu/books/Python3-%E5%BB%96%E9%9B%AA%E5%B3%B0.pdf)
@@ -316,6 +318,8 @@
 
 - 实用机器学习,175.7m,链接: [https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA](https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA), 提取码: dpze
 
+- 百面机器学习：算法工程师带你去面试,26.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%99%BE%E9%9D%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%B8%A6%E4%BD%A0%E5%8E%BB%E9%9D%A2%E8%AF%95.pdf)
+
 ### 深度学习
 
 - 深度学习 TensorFlow 实战,90.9m,链接: [https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw](https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw),提取码: 38fr
@@ -333,6 +337,8 @@
 ## 数据库
 
 - 深入学习 MongoDB,11.6m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
+
+- Redis 设计与实现第二版,14.4m,[预览/下载链接](https://image.xjq.icu/books/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
 ## 架构
 
@@ -468,6 +474,10 @@
 
 - 黑客与画家,31.1m,[预览/下载链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
 
+## 区块链
+
+- 去中心化应用-区块链技术概述,6.9m,[预览/下载链接](https://image.xjq.icu/books/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%BA%94%E7%94%A8-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0.pdf)
+
 ## 数学
 
 - 20 世纪数学思想(胡作玄+邓明立),10.2m,[预览/下载链接](<https://image.xjq.icu/books/20%E4%B8%96%E7%BA%AA%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3(%E8%83%A1%E4%BD%9C%E7%8E%84%2B%E9%82%93%E6%98%8E%E7%AB%8B).pdf>)
@@ -553,6 +563,8 @@
 - react hook,自定义 hook 大全,[https://github.com/streamich/react-use](https://github.com/streamich/react-use)
 
 - vuepress,静态网站生成器,做博客,做文档都不错,[https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
+
+- airbnb 前端指南, [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
 ## 知识汇总
 
