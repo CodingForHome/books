@@ -548,6 +548,8 @@
 
 - airbnb 前端指南, [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
+- es6 入门教程,[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
+
 ### 开源
 
 #### 组件库
@@ -560,11 +562,15 @@
 
 #### 工具库
 
-- Underscore ,[https://underscorejs.bootcss.com/](https://underscorejs.bootcss.com/)
+- Underscore,js 工具库,[https://underscorejs.bootcss.com/](https://underscorejs.bootcss.com/)
 
-- Lodash,[https://www.lodashjs.com/](https://www.lodashjs.com/)
+- Lodash,js 工具库,[https://www.lodashjs.com/](https://www.lodashjs.com/)
 
 - react 自定义 hook ,[https://github.com/streamich/react-use](https://github.com/streamich/react-use)
+
+- momentjs,日期处理类库,[http://momentjs.cn/](http://momentjs.cn/)
+
+- dayjs,Moment.js 的 2kB 轻量化方案, [https://day.js.org/zh-CN/](https://day.js.org/zh-CN/)
 
 #### 框架
 
