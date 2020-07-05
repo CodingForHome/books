@@ -538,6 +538,8 @@
 
 - 机器学习实战教程,[https://cuijiahua.com/blog/ml/](https://cuijiahua.com/blog/ml/)
 
+- 你不知道的 Web Workers （上）,[https://juejin.im/post/5ef2a554f265da02e47d952b](https://juejin.im/post/5ef2a554f265da02e47d952b)
+
 ### 个人博客
 
 - 高级前端进阶.木易杨,[https://muyiy.cn/](https://muyiy.cn/)
@@ -555,6 +557,8 @@
 #### 组件库
 
 - vant,轻量、可靠的移动端 Vue 组件库,[https://youzan.github.io/vant/#/](https://youzan.github.io/vant/#/)
+
+- Ant Design,react 组件库,[https://ant.design/components/overview-cn/](https://ant.design/components/overview-cn/)
 
 #### 富文本编辑器
 
@@ -576,11 +580,19 @@
 
 - vuepress,静态网站生成器,做博客,做文档都不错,[https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
 
+- Three.js,3d js 库,[http://www.webgl3d.cn/](http://www.webgl3d.cn/)
+
 ## 工具
 
 - 图片编辑工具 🔧[https://www.iloveimg.com/zh-cn](https://www.iloveimg.com/zh-cn)
 
 - 免费申请 https 证书,[https://certbot.eff.org/](https://certbot.eff.org/)
+
+- 文件压缩,[https://www.compresss.com](https://www.compresss.com/)
+
+- 音频编辑,[https://www.bearaudiotool.com/zh](https://www.bearaudiotool.com/zh)
+
+- 图片格式转换,[https://jinaconvert.com/cn/](https://jinaconvert.com/cn/)
 
 ## 摸鱼
 
