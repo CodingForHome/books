@@ -138,7 +138,7 @@
 
 ## 计算机基础
 
-- 计算机科学导论.佛罗赞,56.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA_%E4%BD%9B%E7%BD%97%E8%B5%9E.pdf)
+- 计算机科学导论.佛罗赞,56.5m,链接: [https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew](https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew) 提取码: mb6r
 
 - 计算机科学概论(第 11 版),39.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA%28%E7%AC%AC11%E7%89%88%29.pdf)
 
@@ -150,13 +150,13 @@
 
 - TCP-IP 详解(卷一、二、三),41.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP-IP%E8%AF%A6%E8%A7%A3%28%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%29.pdf)
 
-- 计算机网络(第 7 版) 谢希仁,70.8m,[预览/下载链接](<https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E7%AC%AC7%E7%89%88)%20%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf>)
+- 计算机网络(第 7 版) 谢希仁,70.8m,链接: [https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw](https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw) 提取码: sa65
 
-- 图解 TCPIP(第 5 版),50.1m,[预览/下载链接](<https://image.xjq.icu/books/%E5%9B%BE%E8%A7%A3TCPIP(%E7%AC%AC5%E7%89%88).pdf>)
+- 图解 TCPIP(第 5 版),50.1m,链接: [https://pan.baidu.com/s/1snLoNQv5GYGH9MVYeMCKYQ](https://pan.baidu.com/s/1snLoNQv5GYGH9MVYeMCKYQ) 提取码: qvrx
 
 - 网络是怎样连接的,18.2m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B-%E7%AC%AC3%E7%89%88.pdf)
 
-- 计算机网络-自顶向下方法,59.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95.pdf)
+- 计算机网络-自顶向下方法,59.4m,链接: [https://pan.baidu.com/s/1IiR7rk9tHA47ZYF8NkBacQ](https://pan.baidu.com/s/1IiR7rk9tHA47ZYF8NkBacQ) 提取码: j6vr
 
 ### HTTP
 
@@ -202,7 +202,7 @@
 
 - 数据结构与算法 Java 版,157.4m,链接: [https://pan.baidu.com/s/1NQ8TTFbGtHAOChFCif3cKQ](https://pan.baidu.com/s/1NQ8TTFbGtHAOChFCif3cKQ), 提取码: uihv
 
-- 数据结构与算法 Python 语言描述裘宗燕,77.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95Python%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E8%A3%98%E5%AE%97%E7%87%95.pdf)
+- 数据结构与算法 Python 语言描述裘宗燕,77.9m,链接: [https://pan.baidu.com/s/18-gJ-7exil9Vv5cg7NruoA](https://pan.baidu.com/s/18-gJ-7exil9Vv5cg7NruoA) 提取码: i4gy
 
 - C++数据结构-邓俊辉,37.3m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
 
