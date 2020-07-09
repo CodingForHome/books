@@ -266,7 +266,7 @@
 
 - 算法图解,17.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf)
 
-- 趣学算法,100.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%B6%A3%E5%AD%A6%E7%AE%97%E6%B3%95.pdf)
+- 趣学算法,100.4m,链接: [https://pan.baidu.com/s/1orHPk2DCvklAs0Ll6-klJA](https://pan.baidu.com/s/1orHPk2DCvklAs0Ll6-klJA) 提取码: 2uhe
 
 - 算法 第 4 版,191.3m,链接: [https://pan.baidu.com/s/1O60X9ju-IURK9DNzcl4j0A](https://pan.baidu.com/s/1O60X9ju-IURK9DNzcl4j0A) 提取码: crx9
 
