@@ -154,9 +154,9 @@
 
 - Go 并发编程实战-第 2 版,167.8m,链接: [https://pan.baidu.com/s/1scRZ80voaICHtSh-RPYKrA](https://pan.baidu.com/s/1scRZ80voaICHtSh-RPYKrA) 提取码: xdjt
 
-<!-- - Go 语言程序设计-Mark,176.9m,
+- Go 语言程序设计-Mark,176.9m,链接: [https://pan.baidu.com/s/1Sr95VtU_ta9yTcWuaAeSCA](https://pan.baidu.com/s/1Sr95VtU_ta9yTcWuaAeSCA) 提取码: sc9e
 
-- Go 语言程序设计-王鹏,394.3m, -->
+- Go 语言程序设计-王鹏,394.3m,链接: [https://pan.baidu.com/s/1n23FISWS6TL1W-u_LddwOg](https://pan.baidu.com/s/1n23FISWS6TL1W-u_LddwOg) 提取码: x4vn
 
 ### _C#_
 
