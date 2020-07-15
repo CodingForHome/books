@@ -136,6 +136,32 @@
 
 - Scala 程序设计-第 2 版,18.5m,[预览/下载链接](https://image.xjq.icu/books/Scala%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E7%AC%AC2%E7%89%88.pdf)
 
+### go
+
+- Go 语言实战,9.8m,[预览/下载链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%20.pdf)
+
+- Go 程序设计语言,99.7m,链接: [https://pan.baidu.com/s/1c0gC8RFB9_Jspx-x1ozHtw](https://pan.baidu.com/s/1c0gC8RFB9_Jspx-x1ozHtw) 提取码: 3pu7
+
+- Go 语言圣经,4m,[预览/下载链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.pdf)
+
+- Go 语言高级编程,3.7m,[预览/下载链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf)
+
+- Go Web 编程,160.3m,链接: [https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA](https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA) 提取码: xghf
+
+- Go 语言编程,11.1m,[预览/下载链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B.pdf)
+
+- Go 语言核心编程-李文塔,172.3m,链接: [https://pan.baidu.com/s/1\_\_ipvTZQLae84hI9Cigk3A](https://pan.baidu.com/s/1__ipvTZQLae84hI9Cigk3A) 提取码: 3eqx
+
+- Go 并发编程实战-第 2 版,167.8m,链接: [https://pan.baidu.com/s/1scRZ80voaICHtSh-RPYKrA](https://pan.baidu.com/s/1scRZ80voaICHtSh-RPYKrA) 提取码: xdjt
+
+<!-- - Go 语言程序设计-Mark,176.9m,
+
+- Go 语言程序设计-王鹏,394.3m, -->
+
+### _C#_
+
+- C#图解教程第 4 版,124.7m,链接: [https://pan.baidu.com/s/1wkI6FelAcwz_75ZUSw-71g](https://pan.baidu.com/s/1wkI6FelAcwz_75ZUSw-71g) 提取码: i492
+
 ## 计算机基础
 
 - 计算机科学导论.佛罗赞,56.5m,链接: [https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew](https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew) 提取码: mb6r
