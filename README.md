@@ -566,6 +566,10 @@
 
 - 你不知道的 Web Workers （上）,[https://juejin.im/post/5ef2a554f265da02e47d952b](https://juejin.im/post/5ef2a554f265da02e47d952b)
 
+- 谈谈 DSL 以及 DSL 的应用（以 CocoaPods 为例）,[https://draveness.me/dsl/](https://draveness.me/dsl/)
+
+- 一个合格(优秀)的前端都应该阅读这些文章,[https://juejin.im/post/5d387f696fb9a07eeb13ea60](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
+
 ### 个人博客
 
 - 高级前端进阶.木易杨,[https://muyiy.cn/](https://muyiy.cn/)
