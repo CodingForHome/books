@@ -366,6 +366,14 @@
 
 - Redis 设计与实现第二版,14.4m,[预览/下载链接](https://image.xjq.icu/books/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
+### Hbase
+
+- HBase 实战,25.4m,[预览/下载链接](https://image.xjq.icu/books/HBase%E5%AE%9E%E6%88%98.pdf)
+
+- HBase 权威指南,45.1m,[预览/下载链接](https://image.xjq.icu/books/HBase%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
+- HBase 不睡觉书,262.3m,链接: [https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w](https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w) 提取码: xy3w
+
 ## 架构
 
 - 分布式系统概念与设计,7m,[预览/下载链接](https://image.xjq.icu/books/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%BE%E8%AE%A1.pdf)
