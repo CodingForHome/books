@@ -586,6 +586,8 @@
 
 - Ant Design,react 组件库,[https://ant.design/components/overview-cn/](https://ant.design/components/overview-cn/)
 
+- antv,数据可视化库,[https://antv.vision/zh](https://antv.vision/zh)
+
 #### 富文本编辑器
 
 - wangEditor,功能比较丰富的富文本编辑器,[http://www.wangeditor.com/](http://www.wangeditor.com/)
@@ -602,6 +604,8 @@
 
 - dayjs,Moment.js 的 2kB 轻量化方案, [https://day.js.org/zh-CN/](https://day.js.org/zh-CN/)
 
+- bignumber.js,数值计算处理,[https://mikemcl.github.io/bignumber.js](https://mikemcl.github.io/bignumber.js)
+
 #### 框架
 
 - vuepress,静态网站生成器,做博客,做文档都不错,[https://vuepress.vuejs.org/zh/](https://vuepress.vuejs.org/zh/)
@@ -613,6 +617,8 @@
 - 图片编辑工具 🔧[https://www.iloveimg.com/zh-cn](https://www.iloveimg.com/zh-cn)
 
 - 免费申请 https 证书,[https://certbot.eff.org/](https://certbot.eff.org/)
+
+- acme.sh,管理 letsencrypt 证书的脚本工具,[https://github.com/acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 
 - 文件压缩,[https://www.compresss.com](https://www.compresss.com/)
 
@@ -627,3 +633,5 @@
 - v2ex,个人几个项目都是在这推广开的,[https://www.v2ex.com/](https://www.v2ex.com/)
 
 - 掘金,沸点摸鱼好地方,还能看各大神的技术文章,偏前端,[https://juejin.im/timeline](https://juejin.im/timeline)
+
+- 毒鸡汤,[https://3www.top/](https://3www.top/)
