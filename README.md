@@ -560,15 +560,17 @@
 
 ### 博客
 
-- React Fiber 原理介绍,[https://segmentfault.com/a/1190000018250127?utm_source=tag-newest](https://segmentfault.com/a/1190000018250127?utm_source=tag-newest)
+- [React Fiber 原理介绍](https://segmentfault.com/a/1190000018250127?utm_source=tag-newest)
 
-- 机器学习实战教程,[https://cuijiahua.com/blog/ml/](https://cuijiahua.com/blog/ml/)
+- [机器学习实战教程](https://cuijiahua.com/blog/ml/)
 
-- 你不知道的 Web Workers （上）,[https://juejin.im/post/5ef2a554f265da02e47d952b](https://juejin.im/post/5ef2a554f265da02e47d952b)
+- [你不知道的 Web Workers （上）](https://juejin.im/post/5ef2a554f265da02e47d952b)
 
-- 谈谈 DSL 以及 DSL 的应用（以 CocoaPods 为例）,[https://draveness.me/dsl/](https://draveness.me/dsl/)
+- [谈谈 DSL 以及 DSL 的应用（以 CocoaPods 为例）](https://draveness.me/dsl/)
 
-- 一个合格(优秀)的前端都应该阅读这些文章,[https://juejin.im/post/5d387f696fb9a07eeb13ea60](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
+- [一个合格(优秀)的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
+
+- [如何避开 JavaScript 浮点数计算精度问题（如 0.1+0.2!==0.3](https://wjw465150.github.io/blog/blog/my_data/%E5%BC%80%E5%8F%91/JavaScript/%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80JavaScript%E6%B5%AE%E7%82%B9%E6%95%B0%E8%AE%A1%E7%AE%97%E7%B2%BE%E5%BA%A6%E9%97%AE%E9%A2%98.html)
 
 ### 个人博客
 
@@ -608,7 +610,7 @@
 
 - dayjs,Moment.js 的 2kB 轻量化方案, [https://day.js.org/zh-CN/](https://day.js.org/zh-CN/)
 
-- bignumber.js,数值计算处理,[https://mikemcl.github.io/bignumber.js](https://mikemcl.github.io/bignumber.js)
+- bignumber.js,一个用于任意精度运算的 JavaScript 库。,[https://mikemcl.github.io/bignumber.js](https://mikemcl.github.io/bignumber.js)
 
 #### 框架
 
