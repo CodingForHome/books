@@ -18,7 +18,7 @@
 
 - JavaScript 权威指南(第六版)(美),22m,[预览/下载链接](<https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97(%E7%AC%AC%E5%85%AD%E7%89%88)(%E7%BE%8E).pdf>)
 
-- JavaScript 设计模式,47.9m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+- JavaScript 设计模式,47.9m,链接: [https://pan.baidu.com/s/1sH_RecxN7Bz2CtpA5MK9yg](https://pan.baidu.com/s/1sH_RecxN7Bz2CtpA5MK9yg), 提取码: c65h
 
 - JavaScript 高级程序设计(第 3 版),27.2m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%28%E7%AC%AC3%E7%89%88%29.pdf)
 
@@ -174,7 +174,7 @@
 
 ## 计算机网络
 
-- TCP-IP 详解(卷一、二、三),41.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP-IP%E8%AF%A6%E8%A7%A3%28%E5%8D%B7%E4%B8%80%E3%80%81%E4%BA%8C%E3%80%81%E4%B8%89%29.pdf)
+- TCP-IP 详解(卷一、二、三),41.4m,链接: [https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA](https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA), 提取码: dmse
 
 - 计算机网络(第 7 版) 谢希仁,70.8m,链接: [https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw](https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw) 提取码: sa65
 
@@ -196,7 +196,7 @@
 
 - 深入理解计算机系统,500.6m,链接: [https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw](https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw), 提取码: rhrh
 
-- Docker 进阶与实战-华为 Docker 实践小组,42.1m,[预览/下载链接](https://image.xjq.icu/books/Docker%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%AE%9E%E6%88%98-%E5%8D%8E%E4%B8%BADocker%E5%AE%9E%E8%B7%B5%E5%B0%8F%E7%BB%84.pdf)
+- Docker 进阶与实战-华为 Docker 实践小组,42.1m,链接: [https://pan.baidu.com/s/1Zg-Da-l0-M6t4srPxLINbw](https://pan.baidu.com/s/1Zg-Da-l0-M6t4srPxLINbw), 提取码: hxdn
 
 ### Linux
 
@@ -216,7 +216,7 @@
 
 - 精通 Linux-第 2 版,10.7 m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ALinux-%E7%AC%AC2%E7%89%88.pdf)
 
-- 循序渐进 Linux-第 2 版-服务器搭建系统,44.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%BE%AA%E5%BA%8F%E6%B8%90%E8%BF%9BLinux-%E7%AC%AC2%E7%89%88-%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E7%B3%BB%E7%BB%9F.pdf)
+- 循序渐进 Linux-第 2 版-服务器搭建系统,44.3m,链接: [https://pan.baidu.com/s/1E6xNbwE_FdRM33Ysk96zQA](https://pan.baidu.com/s/1E6xNbwE_FdRM33Ysk96zQA), 提取码: c25i
 
 ## 数据结构
 
@@ -258,7 +258,7 @@
 
 ## coding
 
-- 编程珠玑(第 2 版),45.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%28%E7%AC%AC2%E7%89%88%29.pdf)
+- 编程珠玑(第 2 版),45.9m,链接: [https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ](https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ), 提取码: ds23
 
 - 编程之美,38.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.pdf)
 
@@ -370,7 +370,7 @@
 
 - HBase 实战,25.4m,[预览/下载链接](https://image.xjq.icu/books/HBase%E5%AE%9E%E6%88%98.pdf)
 
-- HBase 权威指南,45.1m,[预览/下载链接](https://image.xjq.icu/books/HBase%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+- HBase 权威指南,45.1m,链接: [https://pan.baidu.com/s/1lGFtwxD7FGfeYihUHm-EyQ](https://pan.baidu.com/s/1lGFtwxD7FGfeYihUHm-EyQ), 提取码: 9eyd
 
 - HBase 不睡觉书,262.3m,链接: [https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w](https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w) 提取码: xy3w
 
@@ -396,17 +396,17 @@
 
 - Nginx 高性能 Web 服务器详解,71.1m,链接:[https://pan.baidu.com/s/1RM4-kpYPFoQj4ysxoeZETw](https://pan.baidu.com/s/1RM4-kpYPFoQj4ysxoeZETw), 密码:00f5
 
-- 精通 Nginx,73.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ANginx.pdf)
+- 精通 Nginx,73.8m,链接: [https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA](https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA), 提取码: ni66
 
 ## 前端
 
-- 精通 D3.js 交互式数据可视化高级编程,52.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9AD3.js%E4%BA%A4%E4%BA%92%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf)
+- 精通 D3.js 交互式数据可视化高级编程,52.4m,链接: [https://pan.baidu.com/s/1Hu-sJQaKD8ueZPam7gcvMw](https://pan.baidu.com/s/1Hu-sJQaKD8ueZPam7gcvMw), 提取码: ut8x
 
 - Web 开发权威指南,30.7m,[预览/下载链接](https://image.xjq.icu/books/Web%E5%BC%80%E5%8F%91%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 - 同构 JavaScript 应用开发,9.2m,[预览/下载链接](https://image.xjq.icu/books/%E5%90%8C%E6%9E%84JavaScript%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91.pdf)
 
-- 现代前端技术解析 2019,47.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%902019.pdf)
+- 现代前端技术解析 2019,47.9m,链接: [https://pan.baidu.com/s/1F4mCQeczkG0Qjlhpm1nfRg](https://pan.baidu.com/s/1F4mCQeczkG0Qjlhpm1nfRg), 提取码: rtzp
 
 - Three_js 入门指南,3.4m,[预览/下载链接](https://image.xjq.icu/books/Three_js%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
 
@@ -420,9 +420,9 @@
 
 ### 可视化
 
-- WebGL 编程指南,85.2m,[预览/下载链接](https://image.xjq.icu/books/WebGL%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
+- WebGL 编程指南,85.2m,链接: [https://pan.baidu.com/s/1F8IYjGeouzp2NODQ4cfCXQ](https://pan.baidu.com/s/1F8IYjGeouzp2NODQ4cfCXQ), 提取码: i9nv
 
-- Three.js 开发指南-第 2 版,50.7m,[预览/下载链接](https://image.xjq.icu/books/Three.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97-%E7%AC%AC2%E7%89%88.pdf)
+- Three.js 开发指南-第 2 版,50.7m,链接: [https://pan.baidu.com/s/1dnsv2if_VmBLMm3Hy4uJkg](https://pan.baidu.com/s/1dnsv2if_VmBLMm3Hy4uJkg), 提取码: xgvx
 
 - 计算机图形学几何工具算法详解,35.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%87%A0%E4%BD%95%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3.pdf)
 
@@ -434,7 +434,7 @@
 
 ### CSS
 
-- CSS 世界-张鑫旭,44.7m,[预览/下载链接](https://image.xjq.icu/books/CSS%E4%B8%96%E7%95%8C-%E5%BC%A0%E9%91%AB%E6%97%AD.pdf)
+- CSS 世界-张鑫旭,44.7m,链接: [https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA](https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA), 提取码: yk6b
 
 - CSS 权威指南-第三版,62m,[预览/下载链接](https://image.xjq.icu/books/CSS%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
 
@@ -446,7 +446,7 @@
 
 ### Node
 
-- Node.js 进阶之路,44m,[预览/下载链接](https://image.xjq.icu/books/Node.js%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.pdf)
+- Node.js 进阶之路,44m,链接: [https://pan.baidu.com/s/1gUgqb8Ca5JFNVAEEAa6U4A](https://pan.baidu.com/s/1gUgqb8Ca5JFNVAEEAa6U4A), 提取码: rea9
 
 - 了不起的 Node js 将 JavaScript 进行到底,49.7m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20%20js%20%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95.pdf)
 
@@ -484,7 +484,7 @@
 
 - 高性能网站建设指南,23.2m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%8C%87%E5%8D%97.pdf)
 
-- 构建高性能 WEB 站点,50.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%9E%84%E5%BB%BA%E9%AB%98%E6%80%A7%E8%83%BDWEB%E7%AB%99%E7%82%B9.pdf)
+- 构建高性能 WEB 站点,50.8m,链接: [https://pan.baidu.com/s/1oDKeXTt_jc-z4J9luiYTVw](https://pan.baidu.com/s/1oDKeXTt_jc-z4J9luiYTVw), 提取码: x1ub
 
 ### 安全
 
@@ -500,11 +500,11 @@
 
 - 浪潮之巅第 4 版.吴军,9.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
 
-- 看见未来：改变互联网世界的人们(余晨),57.2m,[预览/下载链接](<https://image.xjq.icu/books/%E7%9C%8B%E8%A7%81%E6%9C%AA%E6%9D%A5%EF%BC%9A%E6%94%B9%E5%8F%98%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%96%E7%95%8C%E7%9A%84%E4%BA%BA%E4%BB%AC(%E4%BD%99%E6%99%A8).pdf>)
+- 看见未来：改变互联网世界的人们(余晨),57.2m,链接: [https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw](https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw), 提取码: 2w6a
 
 - 代码的未来,9.4m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.pdf)
 
-- 程序员的思维修炼-崔康,47.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC-%E5%B4%94%E5%BA%B7.pdf)
+- 程序员的思维修炼-崔康,47.9m,链接: [https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA](https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA), 提取码: 2qmj
 
 - 黑客与画家,31.1m,[预览/下载链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
 
@@ -591,6 +591,8 @@
 - airbnb 前端指南, [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
 - es6 入门教程,[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
+
+- nodejs 技术栈,[https://www.nodejs.red/#/](https://www.nodejs.red/#/)
 
 ### 开源
 
