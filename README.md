@@ -1,6 +1,6 @@
 计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,机器学习,深度学习,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
-大于 50m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
+大于 40m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
 
 我不生产知识,我只是知识的搬运工
 
@@ -88,7 +88,7 @@
 
 - Python 数据挖掘入门与实践-中文,9.3m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E4%B8%AD%E6%96%87.pdf)
 
-- Head First Python-中文版,40.9m,[预览/下载链接](https://image.xjq.icu/books/Head%20First%20Python-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+- Head First Python-中文版,40.9m,链接: [https://pan.baidu.com/s/1M7RQSckA51Ujki5wDJivUQ](https://pan.baidu.com/s/1M7RQSckA51Ujki5wDJivUQ), 提取码: n5fm
 
 - Python3 程序开发指南-第二版,29.7m,[预览/下载链接](https://image.xjq.icu/books/Python3%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
@@ -100,7 +100,7 @@
 
 - Python 网络编程基础,27.3m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80.pdf)
 
-- Python 自动化运维 技术与最佳实践,47.9m,[预览/下载链接](https://image.xjq.icu/books/Python%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%20%20%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf)
+- Python 自动化运维 技术与最佳实践,47.9m,链接: [https://pan.baidu.com/s/1jYuB-RhW8GAhkVaMF_iyJw](https://pan.baidu.com/s/1jYuB-RhW8GAhkVaMF_iyJw), 提取码: vyme
 
 * Python3 程序开发指南-第二版,29.7m,[预览/下载链接](https://image.xjq.icu/books/Python3%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
@@ -122,7 +122,7 @@
 
 - Python 数据科学手册,13.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
 
-- Python 数据可视化编程实战,43.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
+- Python 数据可视化编程实战,43.5m,链接: [https://pan.baidu.com/s/1lcvtEa1pONwbIKBrWpj_nA](https://pan.baidu.com/s/1lcvtEa1pONwbIKBrWpj_nA), 提取码: 68r9
 
 - Python 数据分析基础教程：NumPy 学习指南（第 2 版）,5.8m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%9ANumPy%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 
@@ -168,7 +168,7 @@
 
 - 计算机科学概论(第 11 版),39.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA%28%E7%AC%AC11%E7%89%88%29.pdf)
 
-- 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版,42.8m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF%20%E7%AC%AC1%E5%8D%B7%EF%BC%9A%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E9%AB%98%E6%B8%85%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+- 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版,42.8m,链接: [https://pan.baidu.com/s/1zllu_1Kh2UlvoJ4Zc8zAMQ](https://pan.baidu.com/s/1zllu_1Kh2UlvoJ4Zc8zAMQ), 提取码: 9ejj
 
 - 大话计算机,20.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%A4%A7%E8%AF%9D%E8%AE%A1%E7%AE%97%E6%9C%BA.pdf)
 
@@ -282,11 +282,11 @@
 
 - 算法概论,2m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E6%A6%82%E8%AE%BA.pdf)
 
-- 算法基础.打开算法之门,42m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80.%E6%89%93%E5%BC%80%E7%AE%97%E6%B3%95%E4%B9%8B%E9%97%A8.pdf)
+- 算法基础.打开算法之门,42m,链接: [https://pan.baidu.com/s/10il-Rq8Ro7NrM16N93QsSQ](https://pan.baidu.com/s/10il-Rq8Ro7NrM16N93QsSQ), 提取码: a4cb
 
-- 算法导论(原书第 3 版)_中文,48.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%28%E5%8E%9F%E4%B9%A6%E7%AC%AC3%E7%89%88%29_%E4%B8%AD%E6%96%87.pdf)
+- 算法导论(原书第 3 版)\_中文,48.8m,链接:[https://pan.baidu.com/s/1dPRj6DYsqwh4tvUc4QY4hw](https://pan.baidu.com/s/1dPRj6DYsqwh4tvUc4QY4hw), 提取码: hgpd
 
-- 算法导论(原书第 2 版)_中文,57.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%28%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%29_%E4%B8%AD%E6%96%87.pdf)
+- 算法导论(原书第 2 版)\_中文,57.9m,链接: [https://pan.baidu.com/s/1NCDo1U8Z8c78z5wEzPUqEg](https://pan.baidu.com/s/1NCDo1U8Z8c78z5wEzPUqEg), 提取码: eqn1
 
 - 啊哈！算法 啊哈磊,79.6m,链接: [https://pan.baidu.com/s/1-i9box3_5MDViXGKBaJBpw](https://pan.baidu.com/s/1-i9box3_5MDViXGKBaJBpw),提取码: x427
 
