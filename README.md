@@ -386,6 +386,8 @@
 
 - Spark 快速大数据分析,16.6m,[预览/下载链接](https://image.xjq.icu/books/Spark%E5%BF%AB%E9%80%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
 
+- 数据密集型应用系统设计,297m,链接: [https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw](https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw), 提取码: nr4k
+
 ## 爬虫
 
 - Python 网络数据采集,17.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
