@@ -36,6 +36,8 @@
 
 - JavaScript 面向对象编程指南,56.8m,链接:[https://pan.baidu.com/s/1JEGzxaH03OWnw2-RvJUAfA](https://pan.baidu.com/s/1JEGzxaH03OWnw2-RvJUAfA), 密码:rnv0
 
+- 编写可维护的 JavaScript 中文版,21.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JavaScript%E4%B8%AD%E6%96%87%E7%89%88%20.pdf)
+
 ### Java
 
 - Head First Java(第 2 版),59.9m,[预览/下载链接](https://image.xjq.icu/books/java/Head%20First%20Java%28%E7%AC%AC2%E7%89%88%29.pdf)
@@ -419,6 +421,8 @@
 - 渐进增强的 Web 设计,89.3m,链接:[https://pan.baidu.com/s/1Mzz1Yq-0M4ftn362KKATHA](https://pan.baidu.com/s/1Mzz1Yq-0M4ftn362KKATHA), 密码:36ms
 
 - 深入浅出 RxJS,18.4m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BARxJS.pdf)
+
+- 2020 前端工程师必读手册-阿里巴巴,22.6m,[预览/下载链接](https://image.xjq.icu/books/2020%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E8%AF%BB%E6%89%8B%E5%86%8C-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.pdf)
 
 ### 可视化
 
