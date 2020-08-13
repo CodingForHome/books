@@ -1,4 +1,4 @@
-计算机电子书 pdf,[编程语言(js、c、c++、python、java...),操作系统,计算机网络,设计模式,算法,机器学习,深度学习,前端相关],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
+计算机电子书 pdf,[编程语言(js、c、c++、python、java、go...),计算机,设计模式,算法,前端相关、数学],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
 大于 40m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
 
@@ -173,6 +173,8 @@
 - 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版,42.8m,链接: [https://pan.baidu.com/s/1zllu_1Kh2UlvoJ4Zc8zAMQ](https://pan.baidu.com/s/1zllu_1Kh2UlvoJ4Zc8zAMQ), 提取码: 9ejj
 
 - 大话计算机,20.8m,[预览/下载链接](https://image.xjq.icu/books/%E5%A4%A7%E8%AF%9D%E8%AE%A1%E7%AE%97%E6%9C%BA.pdf)
+
+- 软件设计师教程第 5 版,59.4m,链接: [https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg](https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg), 提取码: sj7p
 
 ## 计算机网络
 
