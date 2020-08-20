@@ -522,6 +522,8 @@ qq 群:779871173,分享交流
 
 - 黑客与画家,31.1m,[预览/下载链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
 
+- 不要让我思考 Don'tMakeMeThink-克鲁格,13m,[预览/下载链接](https://image.xjq.icu/books/%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%88%91%E6%80%9D%E8%80%83Don'tMakeMeThink-%E5%85%8B%E9%B2%81%E6%A0%BC.pdf)
+
 ## 区块链
 
 - 去中心化应用-区块链技术概述,6.9m,[预览/下载链接](https://image.xjq.icu/books/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%BA%94%E7%94%A8-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0.pdf)
@@ -557,3 +559,7 @@ qq 群:779871173,分享交流
 ### 线性代数
 
 - 线性代数及其应用中文版(美)David CLay2005,48.6m,[预览/下载链接](<https://image.xjq.icu/books/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88(%E7%BE%8E)David%20CLay2005.pdf>)
+
+### 经济学
+
+- 经济学原理,16m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86.pdf)
