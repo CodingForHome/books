@@ -6,8 +6,6 @@
 
 如有侵权,请联系我删除,email->lebnizjoan@gmail.com
 
-qq 群:779871173,分享交流
-
 ## 编程语言
 
 ### JavaScript
@@ -214,15 +212,21 @@ qq 群:779871173,分享交流
 
 - Linux 运维之道-丁明一,84.5m,链接:[https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw](https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw), 密码:5h6q
 
-- Linux Shell 脚本攻略-第 2 版,33.6m,[预览/下载链接](https://image.xjq.icu/books/Linux%20Shell%E8%84%9A%E6%9C%AC%E6%94%BB%E7%95%A5-%E7%AC%AC2%E7%89%88.pdf)
-
-- Linux shell 编程从初学到精通,81.4m,链接: [https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg](https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg), 提取码: abjx
-
 - Linux 命令详解词典,74.9m,链接: [https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA](https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA), 提取码: bvfx
 
 - 精通 Linux-第 2 版,10.7 m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ALinux-%E7%AC%AC2%E7%89%88.pdf)
 
 - 循序渐进 Linux-第 2 版-服务器搭建系统,44.3m,链接: [https://pan.baidu.com/s/1E6xNbwE_FdRM33Ysk96zQA](https://pan.baidu.com/s/1E6xNbwE_FdRM33Ysk96zQA), 提取码: c25i
+
+### Shell
+
+- Linux shell 编程从初学到精通,81.4m,链接: [https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg](https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg), 提取码: abjx
+
+- Linux Shell 脚本攻略-第 2 版,33.6m,[预览/下载链接](https://image.xjq.icu/books/Linux%20Shell%E8%84%9A%E6%9C%AC%E6%94%BB%E7%95%A5-%E7%AC%AC2%E7%89%88.pdf)
+
+- Linux 命令行与 shell 脚本编程大全.第 3 版,22m,[预览/下载链接](https://image.xjq.icu/books/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%8Eshell%E8%84%9A%E6%9C%AC%E7%BC%96%E7%A8%8B%E5%A4%A7%E5%85%A8.%E7%AC%AC3%E7%89%88.pdf)
+
+- AWK 程序设计语言,1.2m,[预览/下载链接](https://image.xjq.icu/books/AWK%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80.pdf)
 
 ## 数据结构
 
