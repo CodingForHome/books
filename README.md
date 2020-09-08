@@ -38,6 +38,8 @@
 
 - 编写可维护的 JavaScript 中文版,21.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JavaScript%E4%B8%AD%E6%96%87%E7%89%88%20.pdf)
 
+- JavaScript+DOM 编程艺术（清晰中文版）,[预览/下载链接](https://image.xjq.icu/books/JavaScript%2BDOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%EF%BC%88%E6%B8%85%E6%99%B0%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
+
 ### Java
 
 - Head First Java(第 2 版),59.9m,[预览/下载链接](https://image.xjq.icu/books/java/Head%20First%20Java%28%E7%AC%AC2%E7%89%88%29.pdf)
@@ -336,7 +338,21 @@
 
 - 统计自然语言处理（第二版）,21.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 
-* 数据科学入门,14m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
+- 数据科学入门,14m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%85%A5%E9%97%A8.pdf)
+
+- 无人机技术概论,120.9m,链接: [https://pan.baidu.com/s/1b4WILCBuHq1mmDJfjpeUFA](https://pan.baidu.com/s/1b4WILCBuHq1mmDJfjpeUFA), 提取码: pvyc
+
+- 机器智能：人工情感,54m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%83%85%E6%84%9F.pdf)
+
+- 人工智能技术,36m,[预览/下载链接](https://image.xjq.icu/books/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF.pdf)
+
+- 机器智能：人工心理,22m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E6%99%BA%E8%83%BD%EF%BC%9A%E4%BA%BA%E5%B7%A5%E5%BF%83%E7%90%86.pdf)
+
+- 工业机器人及其应用,30m,[预览/下载链接](https://image.xjq.icu/books/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.pdf)
+
+- 决策用强化与系统性机器学习,8m,[预览/下载链接](https://image.xjq.icu/books/%E5%86%B3%E7%AD%96%E7%94%A8%E5%BC%BA%E5%8C%96%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%80%A7%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
+
+- 实感交互：人工智能下的人机交互技术,29m,[预览/下载链接](https://image.xjq.icu/books/%E5%AE%9E%E6%84%9F%E4%BA%A4%E4%BA%92%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8B%E7%9A%84%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E6%8A%80%E6%9C%AF.pdf)
 
 ### 机器学习
 
@@ -356,6 +372,8 @@
 
 - 百面机器学习：算法工程师带你去面试,26.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%99%BE%E9%9D%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%B8%A6%E4%BD%A0%E5%8E%BB%E9%9D%A2%E8%AF%95.pdf)
 
+- 多智能体机器学习：强化学习方法,9m,[预览/下载链接](https://image.xjq.icu/books/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
+
 ### 深度学习
 
 - 深度学习 TensorFlow 实战,90.9m,链接: [https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw](https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw),提取码: 38fr
@@ -369,6 +387,10 @@
 - 神经⽹络与深度学习,3.7m,[预览/下载链接](https://image.xjq.icu/books/%E7%A5%9E%E7%BB%8F%E2%BD%B9%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
 - 斯坦福大学-深度学习基础教程,9.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf)
+
+- 深度学习：方法及应用,22m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%EF%BC%9A%E6%96%B9%E6%B3%95%E5%8F%8A%E5%BA%94%E7%94%A8.pdf)
+
+- Python*深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,43m,[预览/下载链接](https://image.xjq.icu/books/Python*%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%EF%BC%9A75%E4%B8%AA%E6%9C%89%E5%85%B3%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%BB%BA%E6%A8%A1%E3%80%81%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
 
 ## 数据库
 
@@ -545,6 +567,8 @@
 - 数学之美-第 2 版,51.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E7%AC%AC2%E7%89%88.pdf)
 
 - 计算机视觉中的数学方法-吴福朝,4.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95-%E5%90%B4%E7%A6%8F%E6%9C%9D.pdf)
+
+- 数学思维导论 学会像数学家一样思考 [美] Keith Devlin,18m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E8%AE%BA%20%E5%AD%A6%E4%BC%9A%E5%83%8F%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%20%5B%E7%BE%8E%5D%20Keith%20Devlin.pdf)
 
 ### 统计学
 
