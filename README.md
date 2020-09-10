@@ -248,6 +248,8 @@
 
 - JavaScrit 数据结构与算法-第 2 版,12.3m,[预览/下载链接](https://image.xjq.icu/books/JavaScrit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E7%AC%AC2%E7%89%88.pdf)
 
+- 数据结构与算法 JavaScript 描述,13m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95JavaScript%E6%8F%8F%E8%BF%B0.pdf)
+
 ## 设计模式
 
 - 大话设计模式,72.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
