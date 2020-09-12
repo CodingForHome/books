@@ -50,6 +50,8 @@
 
 - Java 编辑思想-第四版,6.7m,[预览/下载链接](https://image.xjq.icu/books/Java%E7%BC%96%E8%BE%91%E6%80%9D%E6%83%B3-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
 
+- Java 面试手册(公众号:JavaAmazing),10m,[预览/下载链接](https://image.xjq.icu/books/%E3%80%8AJava%E9%9D%A2%E8%AF%95%E6%89%8B%E5%86%8C%E3%80%8B.pdf)
+
 ### C
 
 - C Primer Plus 第六版,226.5m,链接: [https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg](https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg), 提取码: 9j3m
@@ -335,6 +337,8 @@
 - 剑指 offer 名企面试官精讲典型编程题,23.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%91%E6%8C%87offer%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E5%AE%98%E7%B2%BE%E8%AE%B2%E5%85%B8%E5%9E%8B%E7%BC%96%E7%A8%8B%E9%A2%98.pdf)
 
 - 算法的乐趣,9.5m,[预览/下载链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3.pdf)
+
+- cookbook-LeetCode,18m,[预览/下载链接](https://image.xjq.icu/books/cookbook-LeetCode.pdf)
 
 ## AI
 
