@@ -40,6 +40,8 @@
 
 - JavaScript+DOM 编程艺术（清晰中文版）,[预览/下载链接](https://image.xjq.icu/books/JavaScript%2BDOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%EF%BC%88%E6%B8%85%E6%99%B0%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
 
+- JavaScript 基础教程第 9 版 ,14m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E7%AC%AC9%E7%89%88%20.pdf)
+
 ### Java
 
 - Head First Java(第 2 版),59.9m,[预览/下载链接](https://image.xjq.icu/books/java/Head%20First%20Java%28%E7%AC%AC2%E7%89%88%29.pdf)
@@ -180,6 +182,8 @@
 
 - 软件设计师教程第 5 版,59.4m,链接: [https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg](https://pan.baidu.com/s/1xZ5GZ64i5yXOFqT9z9QYDg), 提取码: sj7p
 
+- 计算机组成原理(第二版),19m,[预览/下载链接](<https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf>)
+
 ## 计算机网络
 
 - TCP-IP 详解(卷一、二、三),41.4m,链接: [https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA](https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA), 提取码: dmse
@@ -221,6 +225,10 @@
 - 精通 Linux-第 2 版,10.7 m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9ALinux-%E7%AC%AC2%E7%89%88.pdf)
 
 - 循序渐进 Linux-第 2 版-服务器搭建系统,44.3m,链接: [https://pan.baidu.com/s/1E6xNbwE_FdRM33Ysk96zQA](https://pan.baidu.com/s/1E6xNbwE_FdRM33Ysk96zQA), 提取码: c25i
+
+- Linux 内核修炼之道,1m,[预览/下载链接](https://image.xjq.icu/books/Linux%E5%86%85%E6%A0%B8%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)
+
+- Linux 就该这么学,19m,[预览/下载链接](https://image.xjq.icu/books/Linux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6.pdf)
 
 ### Shell
 
@@ -380,6 +388,8 @@
 
 - 多智能体机器学习：强化学习方法,9m,[预览/下载链接](https://image.xjq.icu/books/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
 
+- 机器学习及其应用,32m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.pdf)
+
 ### 深度学习
 
 - 深度学习 TensorFlow 实战,90.9m,链接: [https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw](https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw),提取码: 38fr
@@ -408,6 +418,10 @@
 
 - 数据库系统概念（中文第六版）,34.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E5%85%AD%E7%89%88%EF%BC%89.pdf)
 
+- 深入理解 MySQL 核心技术（中文）,60m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3MySQL%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89.pdf)
+
+- MySQL 排错指南,41m,[预览/下载链接](https://image.xjq.icu/books/MySQL%E6%8E%92%E9%94%99%E6%8C%87%E5%8D%97.pdf)
+
 ### Hbase
 
 - HBase 实战,25.4m,[预览/下载链接](https://image.xjq.icu/books/HBase%E5%AE%9E%E6%88%98.pdf)
@@ -430,6 +444,8 @@
 
 - 数据密集型应用系统设计,297m,链接: [https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw](https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw), 提取码: nr4k
 
+- Kafka 权威指南,17m,[预览/下载链接](https://image.xjq.icu/books/Kafka%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
 ## 爬虫
 
 - Python 网络数据采集,17.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
@@ -441,6 +457,8 @@
 - Nginx 高性能 Web 服务器详解,71.1m,链接:[https://pan.baidu.com/s/1RM4-kpYPFoQj4ysxoeZETw](https://pan.baidu.com/s/1RM4-kpYPFoQj4ysxoeZETw), 密码:00f5
 
 - 精通 Nginx,73.8m,链接: [https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA](https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA), 提取码: ni66
+
+- 深入理解 Nginx 模块开发与架构解析第 2 版 LinuxUnix 技术丛书,35m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%E7%AC%AC2%E7%89%88LinuxUnix%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6.pdf)
 
 ## 前端
 
