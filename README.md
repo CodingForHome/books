@@ -64,6 +64,8 @@
 
 - The C Programming Language 中文版,2.4m,[预览/下载链接](https://image.xjq.icu/books/cpp/The%20C%20Programming%20Language%20%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
+- C 语言程序设计（第四版） 谭浩强,18m,[预览/下载链接](https://image.xjq.icu/books/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89%20%E8%B0%AD%E6%B5%A9%E5%BC%BA.PDF)
+
 ### C++
 
 - C++ Primer Plus(第 6 版),264.8m,链接: [https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA](https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA), 提取码: 54kg
