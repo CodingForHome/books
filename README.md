@@ -610,6 +610,10 @@
 
 - 概率论基础教程-第 9 版-美-罗斯,90.3m,链接: [https://pan.baidu.com/s/1cm_vVO8NSiRBZlK18LqLzg](https://pan.baidu.com/s/1cm_vVO8NSiRBZlK18LqLzg), 提取码: w1ah
 
+- 统计学习基础 数据挖掘、推理与预测,94m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%20%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E3%80%81%E6%8E%A8%E7%90%86%E4%B8%8E%E9%A2%84%E6%B5%8B.pdf)
+
+- 概率论与数理统计-陈希孺,12m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E9%99%88%E5%B8%8C%E5%AD%BA.pdf)
+
 ### 线性代数
 
 - 线性代数及其应用中文版(美)David CLay2005,48.6m,[预览/下载链接](<https://image.xjq.icu/books/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88(%E7%BE%8E)David%20CLay2005.pdf>)
@@ -617,3 +621,7 @@
 ### 经济学
 
 - 经济学原理,16m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86.pdf)
+
+- 经济学原理第 7 版微观经济学分册,103m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86%E7%AC%AC7%E7%89%88%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%88%86%E5%86%8C.pdf)
+
+- 经济学原理第 7 版宏观经济学分册,147m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86%E7%AC%AC7%E7%89%88%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%88%86%E5%86%8C.pdf)
