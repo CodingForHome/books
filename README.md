@@ -172,6 +172,8 @@
 
 - C#图解教程第 4 版,124.7m,链接: [https://pan.baidu.com/s/1wkI6FelAcwz_75ZUSw-71g](https://pan.baidu.com/s/1wkI6FelAcwz_75ZUSw-71g) 提取码: i492
 
+- C#高级编程,96.7m,链接: [https://pan.baidu.com/s/1Hn6A-hQsV8-BJ6Dc60S6kg](https://pan.baidu.com/s/1Hn6A-hQsV8-BJ6Dc60S6kg) 提取码: 4qed
+
 ## 计算机基础
 
 - 计算机科学导论.佛罗赞,56.5m,链接: [https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew](https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew) 提取码: mb6r
@@ -281,6 +283,8 @@
 - 现代编译原理-虎书,15.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%8E%B0%E4%BB%A3%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86-%E8%99%8E%E4%B9%A6.pdf)
 
 - 自制编译器,14.3m,[预览/下载链接](https://image.xjq.icu/books/%E8%87%AA%E5%88%B6%E7%BC%96%E8%AF%91%E5%99%A8.pdf)
+
+- 编译原理及实践,11m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AE%9E%E8%B7%B5.pdf)
 
 ## coding
 
@@ -432,6 +436,10 @@
 
 - HBase 不睡觉书,262.3m,链接: [https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w](https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w) 提取码: xy3w
 
+## 安全
+
+- 深入浅出密码学 常用加密技术原理与应用,41m,链接: [https://pan.baidu.com/s/1sQZNPUIhx3B8fAhsBTlNSA](https://pan.baidu.com/s/1sQZNPUIhx3B8fAhsBTlNSA) 提取码: crk5
+
 ## 架构
 
 - 分布式系统概念与设计,7m,[预览/下载链接](https://image.xjq.icu/books/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%BE%E8%AE%A1.pdf)
@@ -498,6 +506,8 @@
 
 - WEB 前端标准在各浏览器中的差异,1.6m,[预览/下载链接](https://image.xjq.icu/books/WEB%E5%89%8D%E7%AB%AF%E6%A0%87%E5%87%86%E5%9C%A8%E5%90%84%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9A%84%E5%B7%AE%E5%BC%82.pdf)
 
+- HTML5 揭秘,23m,[预览/下载链接](https://image.xjq.icu/books/HTML5%E6%8F%AD%E7%A7%98.pdf)
+
 ### CSS
 
 - CSS 世界-张鑫旭,44.7m,链接: [https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA](https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA), 提取码: yk6b
@@ -556,11 +566,21 @@
 
 - Web 前端黑客技术揭秘,69.5m,链接:[https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A](https://pan.baidu.com/s/13yr6SnCDcvS94SnFcEDY8A), 密码:awlt
 
-## 效率、习惯
+## code
+
+- 架构整洁之道,99m,链接: [https://pan.baidu.com/s/1kx6tY2qPXqDk8toQWivuRw](https://pan.baidu.com/s/1kx6tY2qPXqDk8toQWivuRw) 提取码: ibec
 
 - 高效程序员的 45 个习惯-敏捷开发修炼之道-苏帕拉马尼亚姆-钱安川等,18.3m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF-%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93-%E8%8B%8F%E5%B8%95%E6%8B%89%E9%A9%AC%E5%B0%BC%E4%BA%9A%E5%A7%86-%E9%92%B1%E5%AE%89%E5%B7%9D%E7%AD%89.pdf)
 
-- 学习敏捷-构建高效团队,16.2m,[预览/下载链接]()
+## 程序员
+
+- 程序员的自我修养,30m,[预览/下载链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.pdf)
+
+- 程序员的思维修炼-崔康,47.9m,链接: [https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA](https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA), 提取码: 2qmj
+
+- 黑客与画家,31.1m,[预览/下载链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
+
+- 不要让我思考 Don'tMakeMeThink-克鲁格,13m,[预览/下载链接](https://image.xjq.icu/books/%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%88%91%E6%80%9D%E8%80%83Don'tMakeMeThink-%E5%85%8B%E9%B2%81%E6%A0%BC.pdf)
 
 ## 科普
 
@@ -569,12 +589,6 @@
 - 看见未来：改变互联网世界的人们(余晨),57.2m,链接: [https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw](https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw), 提取码: 2w6a
 
 - 代码的未来,9.4m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.pdf)
-
-- 程序员的思维修炼-崔康,47.9m,链接: [https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA](https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA), 提取码: 2qmj
-
-- 黑客与画家,31.1m,[预览/下载链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
-
-- 不要让我思考 Don'tMakeMeThink-克鲁格,13m,[预览/下载链接](https://image.xjq.icu/books/%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%88%91%E6%80%9D%E8%80%83Don'tMakeMeThink-%E5%85%8B%E9%B2%81%E6%A0%BC.pdf)
 
 ## 区块链
 
