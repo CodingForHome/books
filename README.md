@@ -176,7 +176,7 @@
 
 - 计算机科学导论.佛罗赞,56.5m,链接: [https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew](https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew) 提取码: mb6r
 
-- 计算机科学概论(第 11 版),39.4m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA%28%E7%AC%AC11%E7%89%88%29.pdf)
+- 计算机科学概论(第 11 版),39.4m,链接: [https://pan.baidu.com/s/13uHmdp81Q-CKdsDehc-gdA](https://pan.baidu.com/s/13uHmdp81Q-CKdsDehc-gdA) 提取码: kfha
 
 - 计算机程序设计艺术 第 1 卷：基本算法（第三版）高清中文版,42.8m,链接: [https://pan.baidu.com/s/1zllu_1Kh2UlvoJ4Zc8zAMQ](https://pan.baidu.com/s/1zllu_1Kh2UlvoJ4Zc8zAMQ), 提取码: 9ejj
 
@@ -254,7 +254,7 @@
 
 - 数据结构与算法 Python 语言描述裘宗燕,77.9m,链接: [https://pan.baidu.com/s/18-gJ-7exil9Vv5cg7NruoA](https://pan.baidu.com/s/18-gJ-7exil9Vv5cg7NruoA) 提取码: i4gy
 
-- C++数据结构-邓俊辉,37.3m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
+- C++数据结构-邓俊辉,37.3m,链接: [https://pan.baidu.com/s/1n5hjrbncIYHtt_6eXI3gyg](https://pan.baidu.com/s/1n5hjrbncIYHtt_6eXI3gyg) 提取码: imte
 
 - C++数据结构习题解析-邓俊辉,12.1m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90-%E9%82%93%E4%BF%8A%E8%BE%89.pdf)
 
@@ -604,24 +604,24 @@
 
 - 统计学习理论的本质 ,4.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E7%90%86%E8%AE%BA%E7%9A%84%E6%9C%AC%E8%B4%A8%20.pdf)
 
-- 概率论与数理统计-第四版-盛骤,39.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E7%AC%AC%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
+- 概率论与数理统计-第四版-盛骤,39.3m,链接: [https://pan.baidu.com/s/1vUafJPCVyBpFDqfOaqkPBg](https://pan.baidu.com/s/1vUafJPCVyBpFDqfOaqkPBg), 提取码: ddup
 
-- 概率论与数理统计习题全解指南-浙大四版-盛骤,48.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E4%B9%A0%E9%A2%98%E5%85%A8%E8%A7%A3%E6%8C%87%E5%8D%97-%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88-%E7%9B%9B%E9%AA%A4.pdf)
+- 概率论与数理统计习题全解指南-浙大四版-盛骤,48.3m,链接: [https://pan.baidu.com/s/1QfnnuzNoCAKYN_RT6rY0Sg](https://pan.baidu.com/s/1QfnnuzNoCAKYN_RT6rY0Sg), 提取码: kaz7
 
 - 概率论基础教程-第 9 版-美-罗斯,90.3m,链接: [https://pan.baidu.com/s/1cm_vVO8NSiRBZlK18LqLzg](https://pan.baidu.com/s/1cm_vVO8NSiRBZlK18LqLzg), 提取码: w1ah
 
-- 统计学习基础 数据挖掘、推理与预测,94m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%20%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E3%80%81%E6%8E%A8%E7%90%86%E4%B8%8E%E9%A2%84%E6%B5%8B.pdf)
+- 统计学习基础 数据挖掘、推理与预测,94m,链接: [https://pan.baidu.com/s/1KPykkxmFm4qxMtkyXVArMA](https://pan.baidu.com/s/1KPykkxmFm4qxMtkyXVArMA), 提取码: mt3h
 
 - 概率论与数理统计-陈希孺,12m,[预览/下载链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E9%99%88%E5%B8%8C%E5%AD%BA.pdf)
 
 ### 线性代数
 
-- 线性代数及其应用中文版(美)David CLay2005,48.6m,[预览/下载链接](<https://image.xjq.icu/books/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88(%E7%BE%8E)David%20CLay2005.pdf>)
+- 线性代数及其应用中文版(美)David CLay2005,48.6m,链接: [https://pan.baidu.com/s/1Kn9YuAc7UbKycGMjPljPGQ](https://pan.baidu.com/s/1Kn9YuAc7UbKycGMjPljPGQ), 提取码: x62a
 
 ### 经济学
 
 - 经济学原理,16m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86.pdf)
 
-- 经济学原理第 7 版微观经济学分册,103m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86%E7%AC%AC7%E7%89%88%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%88%86%E5%86%8C.pdf)
+- 经济学原理第 7 版微观经济学分册,103m,链接: [https://pan.baidu.com/s/1MPueu2Z5uJcej0cXLPNiyg](https://pan.baidu.com/s/1MPueu2Z5uJcej0cXLPNiyg), 提取码: 2fhj
 
-- 经济学原理第 7 版宏观经济学分册,147m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86%E7%AC%AC7%E7%89%88%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%88%86%E5%86%8C.pdf)
+- 经济学原理第 7 版宏观经济学分册,147m,链接: [https://pan.baidu.com/s/1pzgeE9rc2uSUB4sEe_IqYg](https://pan.baidu.com/s/1pzgeE9rc2uSUB4sEe_IqYg), 提取码: b1js
