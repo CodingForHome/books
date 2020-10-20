@@ -1,7 +1,5 @@
 计算机电子书 pdf,[编程语言(js、c、c++、python、java、go...),计算机,设计模式,算法,前端相关、数学],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
 
-大于 40m 的文件都存放在百度云,其他文件都可以网页预览/直接下载
-
 我不生产知识,我只是知识的搬运工
 
 如有侵权,请联系我删除,email->lebnizjoan@gmail.com
@@ -12,23 +10,23 @@
 
 - 你不知道的 JavaScript (上卷),17.1m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%E4%B8%8A%E5%8D%B7.pdf)
 
-- 你不知道的 JavaScript (中卷),36.7m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%AD%E5%8D%B7%EF%BC%89.pdf)
+- 你不知道的 JavaScript (中卷),36.7m,链接: [https://pan.baidu.com/s/1-LkvlxwGjpLGstpQipyhhA](https://pan.baidu.com/s/1-LkvlxwGjpLGstpQipyhhA) 提取码: vh1h
 
 - 你不知道的 JavaScript (下卷),7.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%20JavaScript%EF%BC%88%E4%B8%8B%E5%8D%B7%EF%BC%89.pdf)
 
-- JavaScript 权威指南(第六版)(美),22m,[预览/下载链接](<https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97(%E7%AC%AC%E5%85%AD%E7%89%88)(%E7%BE%8E).pdf>)
+- JavaScript 权威指南(第六版)(美),21m,链接: [https://pan.baidu.com/s/1T7zEW7Nz3jfV3NuKdmRh7w](https://pan.baidu.com/s/1T7zEW7Nz3jfV3NuKdmRh7w) 提取码: n2ky
 
 - JavaScript 设计模式,47.9m,链接: [https://pan.baidu.com/s/1sH_RecxN7Bz2CtpA5MK9yg](https://pan.baidu.com/s/1sH_RecxN7Bz2CtpA5MK9yg), 提取码: c65h
 
-- JavaScript 高级程序设计(第 3 版),27.2m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%28%E7%AC%AC3%E7%89%88%29.pdf)
+- JavaScript 高级程序设计(第 3 版),26m,链接: [https://pan.baidu.com/s/1Dtg8SXynPVKbrQuDA6g5qA](https://pan.baidu.com/s/1Dtg8SXynPVKbrQuDA6g5qA) 提取码: y8j5
 
 - 高性能 JavaScript 编程,3.6m,[预览/下载链接](https://image.xjq.icu/books/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript_%E7%BC%96%E7%A8%8B.pdf)
 
-- JavaScript 语言精粹,20.2m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9.pdf)
+- JavaScript 语言精粹,20.2m,链接: [https://pan.baidu.com/s/15kr1SlpedUz2aC3eKNSQnw](https://pan.baidu.com/s/15kr1SlpedUz2aC3eKNSQnw) 提取码: u238
 
 - JavaScript 异步编程,6.9m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.pdf)
 
-- JavaScript 函数式编程,37.5m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)
+- JavaScript 函数式编程,37.5m,链接: [https://pan.baidu.com/s/1Ug4zDf1u5ua3pe5wBrEDLA](https://pan.baidu.com/s/1Ug4zDf1u5ua3pe5wBrEDLA) 提取码: ig95
 
 - JS 函数式编程指南,2.5m,[预览/下载链接](https://image.xjq.icu/books/JS%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 
@@ -36,9 +34,9 @@
 
 - JavaScript 面向对象编程指南,56.8m,链接:[https://pan.baidu.com/s/1JEGzxaH03OWnw2-RvJUAfA](https://pan.baidu.com/s/1JEGzxaH03OWnw2-RvJUAfA), 密码:rnv0
 
-- 编写可维护的 JavaScript 中文版,21.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JavaScript%E4%B8%AD%E6%96%87%E7%89%88%20.pdf)
+- 编写可维护的 JavaScript 中文版,21.3m,链接: [https://pan.baidu.com/s/17SoqqhN7u_mrdIqit9PeEA](https://pan.baidu.com/s/17SoqqhN7u_mrdIqit9PeEA) 提取码: qjat
 
-- JavaScript+DOM 编程艺术（清晰中文版）,[预览/下载链接](https://image.xjq.icu/books/JavaScript%2BDOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%EF%BC%88%E6%B8%85%E6%99%B0%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
+- JavaScript+DOM 编程艺术（清晰中文版）,23m,链接: [https://pan.baidu.com/s/1Rcv9aqS5e1WbaoEqkqJe1g](https://pan.baidu.com/s/1Rcv9aqS5e1WbaoEqkqJe1g) 提取码: igt7
 
 - JavaScript 基础教程第 9 版 ,14m,[预览/下载链接](https://image.xjq.icu/books/JavaScript%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E7%AC%AC9%E7%89%88%20.pdf)
 
@@ -70,17 +68,17 @@
 
 - C++ Primer Plus(第 6 版),264.8m,链接: [https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA](https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA), 提取码: 54kg
 
-- C++编程规范 101 条规则、准则最佳实践,37.9m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83101%E6%9D%A1%E8%A7%84%E5%88%99%E3%80%81%E5%87%86%E5%88%99%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf)
+- C++编程规范 101 条规则、准则最佳实践,37.9m,链接: [https://pan.baidu.com/s/1ahxs-8AleM9GQjNxImvjJw](https://pan.baidu.com/s/1ahxs-8AleM9GQjNxImvjJw), 提取码: cbsz
 
-- C++编程思想(第 2 版)-第 1 卷,35.9m,[预览/下载链接](<https://image.xjq.icu/books/C%2B%2B%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3(%E7%AC%AC2%E7%89%88)-%E7%AC%AC1%E5%8D%B7.pdf>)
+- C++编程思想(第 2 版)-第 1 卷,35.9m,链接: [https://pan.baidu.com/s/1nL0i-7CTSo2HpqqC-uIccg](https://pan.baidu.com/s/1nL0i-7CTSo2HpqqC-uIccg) 提取码: w6ay
 
 - C++编程思想第 2 卷,17m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%AC%AC2%E5%8D%B7.pdf)
 
-- C++程序设计原理与实践,35.3m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
+- C++程序设计原理与实践,33.7m,链接: [https://pan.baidu.com/s/11WBOIOzEu5QpiQoQRrggyw](https://pan.baidu.com/s/11WBOIOzEu5QpiQoQRrggyw) 提取码: 9x1a
 
 - C++语言的设计和演化,15.4m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E8%AF%AD%E8%A8%80%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%92%8C%E6%BC%94%E5%8C%96.pdf)
 
-- C++语言程序设计第四版-郑莉,24m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AC%AC%E5%9B%9B%E7%89%88-%E9%83%91%E8%8E%89.pdf)
+- C++语言程序设计第四版-郑莉,23.9m,链接: [https://pan.baidu.com/s/1D5Bxv2UY29pdB6Y-OlKJ4g](https://pan.baidu.com/s/1D5Bxv2UY29pdB6Y-OlKJ4g) 提取码: 9wsu
 
 ### python
 
@@ -90,7 +88,7 @@
 
 - Python 编程入门经典,61.9m,链接:[https://pan.baidu.com/s/1_KWbLpOVJTKCLKpNk0yqOQ](https://pan.baidu.com/s/1_KWbLpOVJTKCLKpNk0yqOQ), 密码:46g9
 
-- Python 源码剖析-深度探索动态语言核心技术-陈儒,31.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF-%E9%99%88%E5%84%92.pdf)
+- Python 源码剖析-深度探索动态语言核心技术-陈儒,30m,链接: [https://pan.baidu.com/s/1sph8dD3acLyujO45EYI_wQ](https://pan.baidu.com/s/1sph8dD3acLyujO45EYI_wQ) 提取码: jg7x
 
 - Python 核心编程第 3 版,22.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B%E7%AC%AC3%E7%89%88.pdf)
 
@@ -100,19 +98,17 @@
 
 - Head First Python-中文版,40.9m,链接: [https://pan.baidu.com/s/1M7RQSckA51Ujki5wDJivUQ](https://pan.baidu.com/s/1M7RQSckA51Ujki5wDJivUQ), 提取码: n5fm
 
-- Python3 程序开发指南-第二版,29.7m,[预览/下载链接](https://image.xjq.icu/books/Python3%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
+- Python3 程序开发指南-第二版,29.7m,链接: [https://pan.baidu.com/s/17q4ErlowbKbofzk59M_eFA](https://pan.baidu.com/s/17q4ErlowbKbofzk59M_eFA) 提取码: u69u
 
 - Python 高性能编程,23.4m,[预览/下载链接](https://image.xjq.icu/books/Python%E9%AB%98%E6%80%A7%E8%83%BD%E7%BC%96%E7%A8%8B.pdf)
 
 - Python 核心编程-第 3 版,23.4m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B-%E7%AC%AC3%E7%89%88.pdf)
 
-- Python 高级编程-Luke Sneeringer,38.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B-Luke%20Sneeringer.pdf)
+- Python 高级编程-Luke Sneeringer,38.1m,链接: [https://pan.baidu.com/s/1K90X5Ry0vvZwC3IeFP5e1g](https://pan.baidu.com/s/1K90X5Ry0vvZwC3IeFP5e1g) 提取码: ggpq
 
-- Python 网络编程基础,27.3m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80.pdf)
+- Python 网络编程基础,26m,链接: [https://pan.baidu.com/s/1ZM161MKCPXjaEukR9hxZMA](https://pan.baidu.com/s/1ZM161MKCPXjaEukR9hxZMA) 提取码: cwq6
 
 - Python 自动化运维 技术与最佳实践,47.9m,链接: [https://pan.baidu.com/s/1jYuB-RhW8GAhkVaMF_iyJw](https://pan.baidu.com/s/1jYuB-RhW8GAhkVaMF_iyJw), 提取码: vyme
-
-* Python3 程序开发指南-第二版,29.7m,[预览/下载链接](https://image.xjq.icu/books/Python3%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
 - Python 深度学习,20m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)
 
@@ -238,7 +234,7 @@
 
 - Linux shell 编程从初学到精通,81.4m,链接: [https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg](https://pan.baidu.com/s/1rSm2WjLKYL7M12AIwrPqyg), 提取码: abjx
 
-- Linux Shell 脚本攻略-第 2 版,33.6m,[预览/下载链接](https://image.xjq.icu/books/Linux%20Shell%E8%84%9A%E6%9C%AC%E6%94%BB%E7%95%A5-%E7%AC%AC2%E7%89%88.pdf)
+- Linux Shell 脚本攻略-第 2 版,33.6m,链接: [https://pan.baidu.com/s/1NtYwTfgQyjvPR-k_bjdoHg](https://pan.baidu.com/s/1NtYwTfgQyjvPR-k_bjdoHg) 提取码: 2mh6
 
 - Linux 命令行与 shell 脚本编程大全.第 3 版,22m,[预览/下载链接](https://image.xjq.icu/books/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%8Eshell%E8%84%9A%E6%9C%AC%E7%BC%96%E7%A8%8B%E5%A4%A7%E5%85%A8.%E7%AC%AC3%E7%89%88.pdf)
 
@@ -246,7 +242,7 @@
 
 ## 数据结构
 
-- 数据结构(C 语言版).严蔚敏吴伟民,30.5m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%28C%E8%AF%AD%E8%A8%80%E7%89%88%29%5D.%E4%B8%A5%E8%94%9A%E6%95%8F_%E5%90%B4%E4%BC%9F%E6%B0%91.pdf)
+- 数据结构(C 语言版).严蔚敏吴伟民,29m,链接: [https://pan.baidu.com/s/1GqdAhjQ7YasmBw49PW02gA](https://pan.baidu.com/s/1GqdAhjQ7YasmBw49PW02gA) 提取码: qa9e
 
 - 大话数据结构,53.8m,链接:[https://pan.baidu.com/s/1q5n0ztrsNtbikoVL7AJPUQ](https://pan.baidu.com/s/1q5n0ztrsNtbikoVL7AJPUQ), 密码:2gww
 
@@ -274,7 +270,7 @@
 
 - HeadFirst 设计模式-中文版,133.6m,链接: [https://pan.baidu.com/s/1B2iXteQTniQQuZ4PvIDUmw](https://pan.baidu.com/s/1B2iXteQTniQQuZ4PvIDUmw), 提取码: rqxd
 
-- 精通 Python 设计模式, 29.4m,[预览/下载链接](https://image.xjq.icu/books/%E7%B2%BE%E9%80%9APython%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+- 精通 Python 设计模式, 28m,链接: [https://pan.baidu.com/s/1Vn4GgP201IlG5BKsAXVfyw](https://pan.baidu.com/s/1Vn4GgP201IlG5BKsAXVfyw) 提取码: 3mvz
 
 ## 编译原理
 
@@ -290,7 +286,7 @@
 
 - 编程珠玑(第 2 版),45.9m,链接: [https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ](https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ), 提取码: ds23
 
-- 编程之美,38.8m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.pdf)
+- 编程之美,37m,链接: [https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ](https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ) 提取码: cibw
 
 - 代码大全中文第二版,21.2m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
@@ -298,7 +294,7 @@
 
 - 代码整洁之道,15.7m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)
 
-- 编程原本,32m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E5%8E%9F%E6%9C%AC.pdf)
+- 编程原本,30m,链接: [https://pan.baidu.com/s/1hu2xwiIzLLquHqhcV0BduQ](https://pan.baidu.com/s/1hu2xwiIzLLquHqhcV0BduQ) 提取码: 2p5c
 
 - 编写可读代码的艺术,12.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E5%86%99%E5%8F%AF%E8%AF%BB%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)
 
@@ -306,7 +302,7 @@
 
 ## 算法
 
-- 漫画算法-小灰的算法之旅,36.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%BC%AB%E7%94%BB%E7%AE%97%E6%B3%95-%E5%B0%8F%E7%81%B0%E7%9A%84%E7%AE%97%E6%B3%95%E4%B9%8B%E6%97%85.pdf)
+- 漫画算法-小灰的算法之旅,34.6m,链接: [https://pan.baidu.com/s/1pWp-dY6QpA0H4CGA6WQGtA](https://pan.baidu.com/s/1pWp-dY6QpA0H4CGA6WQGtA) 提取码: cupq
 
 - 排序算法汇总,0.3m,[预览/下载链接](https://image.xjq.icu/books/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%B1%87%E6%80%BB.pdf)
 
@@ -424,7 +420,7 @@
 
 - 数据库系统概念（中文第六版）,34.9m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E5%85%AD%E7%89%88%EF%BC%89.pdf)
 
-- 深入理解 MySQL 核心技术（中文）,60m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3MySQL%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%EF%BC%88%E4%B8%AD%E6%96%87%EF%BC%89.pdf)
+- 深入理解 MySQL 核心技术（中文）,60m,链接: [https://pan.baidu.com/s/1SW8rbJYu3W6MFfHy9KOmZA](https://pan.baidu.com/s/1SW8rbJYu3W6MFfHy9KOmZA) 提取码: 53mf
 
 - MySQL 排错指南,41m,[预览/下载链接](https://image.xjq.icu/books/MySQL%E6%8E%92%E9%94%99%E6%8C%87%E5%8D%97.pdf)
 
@@ -512,7 +508,7 @@
 
 - CSS 世界-张鑫旭,44.7m,链接: [https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA](https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA), 提取码: yk6b
 
-- CSS 权威指南-第三版,62m,[预览/下载链接](https://image.xjq.icu/books/CSS%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+- CSS 权威指南-第三版,62m,链接: [https://pan.baidu.com/s/1jtZR8nri1XNmKBpsaDx65g](https://pan.baidu.com/s/1jtZR8nri1XNmKBpsaDx65g) 提取码: wqmd
 
 - CSS3 属性速查表,0.9m,[预览/下载链接](https://image.xjq.icu/books/CSS3%E5%B1%9E%E6%80%A7%E9%80%9F%E6%9F%A5%E8%A1%A8.pdf)
 
@@ -524,7 +520,7 @@
 
 - Node.js 进阶之路,44m,链接: [https://pan.baidu.com/s/1gUgqb8Ca5JFNVAEEAa6U4A](https://pan.baidu.com/s/1gUgqb8Ca5JFNVAEEAa6U4A), 提取码: rea9
 
-- 了不起的 Node js 将 JavaScript 进行到底,49.7m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20%20js%20%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95.pdf)
+- 了不起的 Node js 将 JavaScript 进行到底,49.7m,链接: [https://pan.baidu.com/s/1nSdtJmDBoFuYNw6lFYHvZw](https://pan.baidu.com/s/1nSdtJmDBoFuYNw6lFYHvZw) 提取码: r98n
 
 - 深入浅出 Node.js,6.1m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
 
@@ -604,7 +600,7 @@
 
 - 古今数学思想(克莱因)第四册,14.6m,[预览/下载链接](<https://image.xjq.icu/books/%E5%8F%A4%E4%BB%8A%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3(%E5%85%8B%E8%8E%B1%E5%9B%A0)%E7%AC%AC%E5%9B%9B%E5%86%8C.pdf>)
 
-- 数学之美-第 2 版,51.8m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E-%E7%AC%AC2%E7%89%88.pdf)
+- 数学之美-第 2 版,51.8m,链接: [https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ](https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ) 提取码: 9rhx
 
 - 计算机视觉中的数学方法-吴福朝,4.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95-%E5%90%B4%E7%A6%8F%E6%9C%9D.pdf)
 
