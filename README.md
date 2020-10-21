@@ -1,4 +1,8 @@
-计算机电子书 pdf,[编程语言(js、c、c++、python、java、go...),计算机,设计模式,算法,前端相关、数学],有问题&需要->添加 issue,地址:[https://github.com/SummerJoan3/books](https://github.com/SummerJoan3/books)
+计算机电子书 pdf、epub
+
+编程语言,算法,数据库,大数据,机器学习,深度学习,设计模式,算法,前端，数学...
+
+有问题&需要->添加 issue
 
 我不生产知识,我只是知识的搬运工
 
