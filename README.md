@@ -184,6 +184,8 @@
 
 - 计算机组成原理(第二版),19m,[预览/下载链接](<https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf>)
 
+- 编程的奥秘,12.9m,链接: [https://pan.baidu.com/s/1USBlhFSXZgCdwyT0XmAIxA](https://pan.baidu.com/s/1USBlhFSXZgCdwyT0XmAIxA) 提取码: mn4w
+
 ## 计算机网络
 
 - TCP-IP 详解(卷一、二、三),41.4m,链接: [https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA](https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA), 提取码: dmse
@@ -229,6 +231,8 @@
 - Linux 内核修炼之道,1m,[预览/下载链接](https://image.xjq.icu/books/Linux%E5%86%85%E6%A0%B8%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)
 
 - Linux 就该这么学,19m,[预览/下载链接](https://image.xjq.icu/books/Linux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6.pdf)
+
+- Linux 内核设计与实现，38.2m,链接: [https://pan.baidu.com/s/1qr9Gwp-yOw4GV4YEJKVXGw](https://pan.baidu.com/s/1qr9Gwp-yOw4GV4YEJKVXGw) 提取码: uwkb
 
 ### Shell
 
@@ -350,6 +354,8 @@
 
 - cookbook-LeetCode,18m,[预览/下载链接](https://image.xjq.icu/books/cookbook-LeetCode.pdf)
 
+- 剑指 offer 纪念版，54m,链接: [https://pan.baidu.com/s/16LO86S0vbr-nSoLXOTLdZA](https://pan.baidu.com/s/16LO86S0vbr-nSoLXOTLdZA) 提取码: bu3f
+
 ## AI
 
 - 统计自然语言处理（第二版）,21.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
@@ -424,6 +430,8 @@
 
 - MySQL 排错指南,41m,[预览/下载链接](https://image.xjq.icu/books/MySQL%E6%8E%92%E9%94%99%E6%8C%87%E5%8D%97.pdf)
 
+- MySQL 技术内幕：SQL 编程-姜承尧,13.8m,链接: [https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg](https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg) 提取码: xqm7
+
 ### Hbase
 
 - HBase 实战,25.4m,[预览/下载链接](https://image.xjq.icu/books/HBase%E5%AE%9E%E6%88%98.pdf)
@@ -487,6 +495,8 @@
 - 深入浅出 RxJS,18.4m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BARxJS.pdf)
 
 - 2020 前端工程师必读手册-阿里巴巴,22.6m,[预览/下载链接](https://image.xjq.icu/books/2020%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E8%AF%BB%E6%89%8B%E5%86%8C-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.pdf)
+
+- HTML5 移动 Web 开发指南-唐俊开,52.2m,链接:[https://pan.baidu.com/s/1yzFW7Xqwe61WdFLarmwPZA](https://pan.baidu.com/s/1yzFW7Xqwe61WdFLarmwPZA) 提取码: bigi
 
 ### 可视化
 
