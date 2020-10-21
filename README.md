@@ -164,6 +164,12 @@
 
 - Python 数据处理,14.1m,[预览/下载链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)
 
+#### 爬虫
+
+- Python 网络数据采集,17.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
+
+- 用 Python 写网络爬虫,10.5m,[预览/下载链接](https://image.xjq.icu/books/%E7%94%A8Python%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.pdf)
+
 ### Scala
 
 - Scala 程序设计-第 2 版,18.5m,[预览/下载链接](https://image.xjq.icu/books/Scala%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E7%AC%AC2%E7%89%88.pdf)
@@ -503,12 +509,6 @@
 - 数据密集型应用系统设计,297m,链接: [https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw](https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw), 提取码: nr4k
 
 - Kafka 权威指南,17m,[预览/下载链接](https://image.xjq.icu/books/Kafka%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
-
-## 爬虫
-
-- Python 网络数据采集,17.5m,[预览/下载链接](https://image.xjq.icu/books/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
-
-- 用 Python 写网络爬虫,10.5m,[预览/下载链接](https://image.xjq.icu/books/%E7%94%A8Python%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.pdf)
 
 ## 服务器
 
