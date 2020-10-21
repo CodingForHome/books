@@ -52,6 +52,28 @@
 
 - Java 面试手册(公众号:JavaAmazing),10m,[预览/下载链接](https://image.xjq.icu/books/%E3%80%8AJava%E9%9D%A2%E8%AF%95%E6%89%8B%E5%86%8C%E3%80%8B.pdf)
 
+- Java 并发编程的艺术 (Java 核心技术系列)
+
+  - 4m,[epub 链接](https://image.xjq.icu/books/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF%20%28Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97%29.epub)
+
+- 深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 2 版）
+
+  - 9.2m,[epub 链接](https://image.xjq.icu/books/java/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.epub)
+
+- 深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 3 版）
+
+  - 12.8m,[epub 链接](https://image.xjq.icu/books/java/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.epub)
+
+#### Spring
+
+- Spring 实战第 4 版
+
+  - 34.8m,epub 链接: [https://pan.baidu.com/s/1Lg00OgIMNWnVh5gZVmvTxg](https://pan.baidu.com/s/1Lg00OgIMNWnVh5gZVmvTxg) 提取码: 155m
+
+- spring 源码深度解析第 2 版
+
+  - 9.2m,[epub 链接](https://image.xjq.icu/books/java/spring%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%AC%AC2%E7%89%88.epub)
+
 ### C
 
 - C Primer Plus 第六版,226.5m,链接: [https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg](https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg), 提取码: 9j3m
@@ -144,7 +166,11 @@
 
 ### go
 
-- Go 语言实战,9.8m,[预览/下载链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%20.pdf)
+- Go 语言实战
+
+  - 4.8m,[epub 链接](https://image.xjq.icu/books/go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.epub)
+
+  - 9.8m,[pdf 链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%20.pdf)
 
 - Go 程序设计语言,99.7m,链接: [https://pan.baidu.com/s/1c0gC8RFB9_Jspx-x1ozHtw](https://pan.baidu.com/s/1c0gC8RFB9_Jspx-x1ozHtw) 提取码: 3pu7
 
@@ -264,6 +290,8 @@
 
 - 数据结构与算法 JavaScript 描述,13m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95JavaScript%E6%8F%8F%E8%BF%B0.pdf)
 
+- 数据结构与算法（第四版）廖明宏，11.5m，链接: [https://pan.baidu.com/s/1qCk-pyFWKDPJSuZw7mxF5g](https://pan.baidu.com/s/1qCk-pyFWKDPJSuZw7mxF5g) 提取码: h6j3
+
 ## 设计模式
 
 - 大话设计模式,72.9m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
@@ -303,6 +331,10 @@
 - 编写可读代码的艺术,12.3m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E5%86%99%E5%8F%AF%E8%AF%BB%E4%BB%A3%E7%A0%81%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)
 
 - 函数式编程思维,14.4m,[预览/下载链接](https://image.xjq.icu/books/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E7%BB%B4.pdf)
+
+- 重构改善既有代码的设计第 2 版
+
+  - 1.6m,[epub 链接](https://image.xjq.icu/books/code/%E9%87%8D%E6%9E%84%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%AC%AC2%E7%89%88.epub)
 
 ## 算法
 
@@ -357,6 +389,8 @@
 - 剑指 offer 纪念版，54m,链接: [https://pan.baidu.com/s/16LO86S0vbr-nSoLXOTLdZA](https://pan.baidu.com/s/16LO86S0vbr-nSoLXOTLdZA) 提取码: bu3f
 
 - 计算几何-算法设计与分析-周培德(第 3 版)，44.5m，链接: [https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ](https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ) 提取码: wnwd
+
+- labuladong 的算法小抄,101.5m,链接: [https://pan.baidu.com/s/1BaYL03R6Der3AvhLsuCa4Q](https://pan.baidu.com/s/1BaYL03R6Der3AvhLsuCa4Q) 提取码: ftam
 
 ## AI
 
@@ -478,7 +512,11 @@
 
 - 精通 Nginx,73.8m,链接: [https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA](https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA), 提取码: ni66
 
-- 深入理解 Nginx 模块开发与架构解析第 2 版 LinuxUnix 技术丛书,35m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%E7%AC%AC2%E7%89%88LinuxUnix%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6.pdf)
+- 深入理解 Nginx 模块开发与架构解析第 2 版 LinuxUnix 技术丛书
+
+  - 35m,[pdf 链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%E7%AC%AC2%E7%89%88LinuxUnix%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6.pdf)
+
+  - 19.4m,[epub 链接](https://image.xjq.icu/books/%E6%9C%8D%E5%8A%A1%E5%99%A8/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%EF%BC%9A%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.epub)
 
 ## 前端
 
@@ -605,6 +643,10 @@
 ## 区块链
 
 - 去中心化应用-区块链技术概述,6.9m,[预览/下载链接](https://image.xjq.icu/books/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%BA%94%E7%94%A8-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0.pdf)
+
+- 区块链技术驱动金融
+
+  - 7.6m,[epub 链接](https://image.xjq.icu/books/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E9%A9%B1%E5%8A%A8%E9%87%91%E8%9E%8D.epub)
 
 ## 数学
 
