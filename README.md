@@ -356,6 +356,8 @@
 
 - 剑指 offer 纪念版，54m,链接: [https://pan.baidu.com/s/16LO86S0vbr-nSoLXOTLdZA](https://pan.baidu.com/s/16LO86S0vbr-nSoLXOTLdZA) 提取码: bu3f
 
+- 计算几何-算法设计与分析-周培德(第 3 版)，44.5m，链接: [https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ](https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ) 提取码: wnwd
+
 ## AI
 
 - 统计自然语言处理（第二版）,21.9m,[预览/下载链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
@@ -432,6 +434,8 @@
 
 - MySQL 技术内幕：SQL 编程-姜承尧,13.8m,链接: [https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg](https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg) 提取码: xqm7
 
+- MySQL 必知必会，29.8m，链接: [https://pan.baidu.com/s/184IdSEJpN45krW3obmFSUw](https://pan.baidu.com/s/184IdSEJpN45krW3obmFSUw) 提取码: n87r
+
 ### Hbase
 
 - HBase 实战,25.4m,[预览/下载链接](https://image.xjq.icu/books/HBase%E5%AE%9E%E6%88%98.pdf)
@@ -440,9 +444,11 @@
 
 - HBase 不睡觉书,262.3m,链接: [https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w](https://pan.baidu.com/s/1IlQ9zJwsLGKft3nDGERk8w) 提取码: xy3w
 
-## 安全
+## 网络安全
 
 - 深入浅出密码学 常用加密技术原理与应用,41m,链接: [https://pan.baidu.com/s/1sQZNPUIhx3B8fAhsBTlNSA](https://pan.baidu.com/s/1sQZNPUIhx3B8fAhsBTlNSA) 提取码: crk5
+
+- 密码编码学与网络安全 原理与实践 第 7 版-威廉·斯托林斯，207.8m，链接: [https://pan.baidu.com/s/1s89FXuOAXWdwXXoWqw50lA](https://pan.baidu.com/s/1s89FXuOAXWdwXXoWqw50lA) 提取码: gxhq
 
 ## 架构
 
@@ -615,6 +621,8 @@
 - 计算机视觉中的数学方法-吴福朝,4.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95-%E5%90%B4%E7%A6%8F%E6%9C%9D.pdf)
 
 - 数学思维导论 学会像数学家一样思考 [美] Keith Devlin,18m,[预览/下载链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E8%AE%BA%20%E5%AD%A6%E4%BC%9A%E5%83%8F%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%20%5B%E7%BE%8E%5D%20Keith%20Devlin.pdf)
+
+<!-- - 具体数学 计算机科学基础(第2版),79.6m, -->
 
 ### 统计学
 
