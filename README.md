@@ -18,7 +18,11 @@
 
 - 你不知道的 JavaScript (下卷),7.3m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%20JavaScript%EF%BC%88%E4%B8%8B%E5%8D%B7%EF%BC%89.pdf)
 
-- JavaScript 权威指南(第六版)(美),21m,链接: [https://pan.baidu.com/s/1T7zEW7Nz3jfV3NuKdmRh7w](https://pan.baidu.com/s/1T7zEW7Nz3jfV3NuKdmRh7w) 提取码: n2ky
+- JavaScript 权威指南(第六版)(美)
+
+  - 21m,pdf 链接: [https://pan.baidu.com/s/1T7zEW7Nz3jfV3NuKdmRh7w](https://pan.baidu.com/s/1T7zEW7Nz3jfV3NuKdmRh7w) 提取码: n2ky
+
+  - 5.7m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/js/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.epub)
 
 - JavaScript 设计模式,47.9m,链接: [https://pan.baidu.com/s/1sH_RecxN7Bz2CtpA5MK9yg](https://pan.baidu.com/s/1sH_RecxN7Bz2CtpA5MK9yg), 提取码: c65h
 
@@ -478,6 +482,10 @@
 
 - Python*深度学习实战：75 个有关神经网络建模、强化学习与迁移学习的解决方案,43m,[预览/下载链接](https://image.xjq.icu/books/Python*%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%EF%BC%9A75%E4%B8%AA%E6%9C%89%E5%85%B3%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%BB%BA%E6%A8%A1%E3%80%81%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.pdf)
 
+- Tensorflow 教程
+
+  - 96.7m,pdf 链接: [https://pan.baidu.com/s/103k4TF7imFavbXROIYzTRQ](https://pan.baidu.com/s/103k4TF7imFavbXROIYzTRQ) 提取码: 1g62
+
 ## 数据库
 
 - 深入学习 MongoDB,11.6m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
@@ -562,7 +570,9 @@
 
 - 深入浅出 RxJS,18.4m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BARxJS.pdf)
 
-- 2020 前端工程师必读手册-阿里巴巴,22.6m,[预览/下载链接](https://image.xjq.icu/books/2020%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E8%AF%BB%E6%89%8B%E5%86%8C-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.pdf)
+- 2020 前端工程师必读手册-阿里巴巴
+
+  - 21.5m,[pdf 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/2020%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E8%AF%BB%E6%89%8B%E5%86%8C-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.pdf)
 
 - HTML5 移动 Web 开发指南-唐俊开,52.2m,链接:[https://pan.baidu.com/s/1yzFW7Xqwe61WdFLarmwPZA](https://pan.baidu.com/s/1yzFW7Xqwe61WdFLarmwPZA) 提取码: bigi
 
@@ -603,6 +613,10 @@
 - 深入浅出 Node.js,6.1m,[预览/下载链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
 
 - Node 即学即用,10.4m,[预览/下载链接](https://image.xjq.icu/books/Node%E5%8D%B3%E5%AD%A6%E5%8D%B3%E7%94%A8.pdf)
+
+- Node.js 开发指南
+
+  - 5.2m,[epub 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/node/Node.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.epub)
 
 ### 正则表达式
 
@@ -662,7 +676,11 @@
 
 - 看见未来：改变互联网世界的人们(余晨),57.2m,链接: [https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw](https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw), 提取码: 2w6a
 
-- 代码的未来,9.4m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.pdf)
+- 代码的未来
+
+  - 9.4m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.pdf)
+
+  - 0.3m,[epub 链接](https://image.xjq.icu/books/code/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.epub)
 
 - 风口上的猪 - 一本书看懂互联网金融
 
