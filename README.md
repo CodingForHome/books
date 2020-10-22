@@ -56,7 +56,11 @@
 
 - Java 核心技术 卷 2 高级特性 原书第 10 版,205.2m,链接: [https://pan.baidu.com/s/1w8N9d0mOpZvXEaB-iC4Axg](https://pan.baidu.com/s/1w8N9d0mOpZvXEaB-iC4Axg), 提取码: k4xk
 
-- Java 编辑思想-第四版,6.7m,[预览/下载链接](https://image.xjq.icu/books/Java%E7%BC%96%E8%BE%91%E6%80%9D%E6%83%B3-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
+- Java 编程思想-第四版,6.7m,[预览/下载链接](https://image.xjq.icu/books/Java%E7%BC%96%E8%BE%91%E6%80%9D%E6%83%B3-%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
+
+- Java 编程思想
+
+  - 1.1m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/java/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3.epub)
 
 - Java 面试手册(公众号:JavaAmazing),10m,[预览/下载链接](https://image.xjq.icu/books/%E3%80%8AJava%E9%9D%A2%E8%AF%95%E6%89%8B%E5%86%8C%E3%80%8B.pdf)
 
@@ -270,8 +274,6 @@
 
 - 鸟哥的 LINUX 私房菜-基础学习篇(第三版),158.6m,链接:[https://pan.baidu.com/s/1hdbB1VkltCynfQCOrHoLrA](https://pan.baidu.com/s/1hdbB1VkltCynfQCOrHoLrA),  提取码:7987
 
-- UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,链接: [https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ](https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ), 提取码: y3tx
-
 - Linux 运维之道-丁明一,84.5m,链接:[https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw](https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw), 密码:5h6q
 
 - Linux 命令详解词典,74.9m,链接: [https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA](https://pan.baidu.com/s/1V2TkpUSkE65cQvb2zJWxFA), 提取码: bvfx
@@ -285,6 +287,22 @@
 - Linux 就该这么学,19m,[预览/下载链接](https://image.xjq.icu/books/Linux%E5%B0%B1%E8%AF%A5%E8%BF%99%E4%B9%88%E5%AD%A6.pdf)
 
 - Linux 内核设计与实现，38.2m,链接: [https://pan.baidu.com/s/1qr9Gwp-yOw4GV4YEJKVXGw](https://pan.baidu.com/s/1qr9Gwp-yOw4GV4YEJKVXGw) 提取码: uwkb
+
+- 深入 Linux 内核架构
+
+  - 23.6m, pdf 链接: [https://pan.baidu.com/s/1DAHnWYLYnhEqqsa2Jx9lIA](https://pan.baidu.com/s/1DAHnWYLYnhEqqsa2Jx9lIA) 提取码: texz
+
+### UNIX
+
+- UNIX 环境高级编程（第三版）
+
+  - 22.2m, pdf 链接: [https://pan.baidu.com/s/1reQDo6chTY4Vx-SDlTAONg](https://pan.baidu.com/s/1reQDo6chTY4Vx-SDlTAONg) 提取码: csfn
+
+- UNIX 网络编程卷 1：套接字联网 API(第 3 版),89.5m,链接: [https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ](https://pan.baidu.com/s/1Y64Joz3QH72capG80Z6uZQ), 提取码: y3tx
+
+- UNIX 编程艺术
+
+  - 23.6m, pdf 链接: [https://pan.baidu.com/s/1PXzKqDBeGqzaQXW54gHDww](https://pan.baidu.com/s/1PXzKqDBeGqzaQXW54gHDww) 提取码: fx4t
 
 ### Shell
 
@@ -344,7 +362,11 @@
 
 - 编程珠玑(第 2 版),45.9m,链接: [https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ](https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ), 提取码: ds23
 
-- 编程之美,37m,链接: [https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ](https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ) 提取码: cibw
+- 编程之美
+
+  - 37m,链接: [https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ](https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ) 提取码: cibw
+
+  - 0.6m,[epub 链接](https://image.xjq.icu/books/code/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.epub)
 
 - 代码大全中文第二版,21.2m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
@@ -488,8 +510,6 @@
 
 ## 数据库
 
-- 深入学习 MongoDB,11.6m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
-
 - Redis 设计与实现第二版,14.4m,[预览/下载链接](https://image.xjq.icu/books/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
 - SQL 必知必会-中文-第 4 版,7m,[预览/下载链接](https://image.xjq.icu/books/SQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A-%E4%B8%AD%E6%96%87-%E7%AC%AC4%E7%89%88.pdf)
@@ -503,6 +523,14 @@
 - MySQL 技术内幕：SQL 编程-姜承尧,13.8m,链接: [https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg](https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg) 提取码: xqm7
 
 - MySQL 必知必会，29.8m，链接: [https://pan.baidu.com/s/184IdSEJpN45krW3obmFSUw](https://pan.baidu.com/s/184IdSEJpN45krW3obmFSUw) 提取码: n87r
+
+### MongoDB
+
+- MongoDB 权威指南
+
+  - 10.0m,[epub 链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
+- 深入学习 MongoDB,11.6m,[预览/下载链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
 
 ### Hbase
 
@@ -592,6 +620,10 @@
 
 - HTML5 揭秘,23m,[预览/下载链接](https://image.xjq.icu/books/HTML5%E6%8F%AD%E7%A7%98.pdf)
 
+- HTML5_Canvas
+
+  - 4.9m,[epub 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTML/HTML5_Canvas.epub)
+
 ### CSS
 
 - CSS 世界-张鑫旭,44.7m,链接: [https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA](https://pan.baidu.com/s/1qDqWpxJS6Yl3BlN61fPzoA), 提取码: yk6b
@@ -664,7 +696,11 @@
 
 - 程序员的自我修养,30m,[预览/下载链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.pdf)
 
-- 程序员的思维修炼-崔康,47.9m,链接: [https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA](https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA), 提取码: 2qmj
+- 程序员的思维修炼-崔康
+
+  - 47.9m,链接: [https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA](https://pan.baidu.com/s/1JvV8Ysf2h0VsMB8VDqjhZA), 提取码: 2qmj
+
+  - 2.3m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC.epub)
 
 - 黑客与画家,31.1m,[预览/下载链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
 
