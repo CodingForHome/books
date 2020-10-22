@@ -78,6 +78,14 @@
 
   - 9.2m,[epub 链接](https://image.xjq.icu/books/java/spring%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%AC%AC2%E7%89%88.epub)
 
+- Spring 技术内幕：深入解析 Spring 架构与设计原理(第 2 版)
+
+  - 40.2m,pdf 链接: [https://pan.baidu.com/s/1ZPblmsK5FdNwytHR2Se3pQ](https://pan.baidu.com/s/1ZPblmsK5FdNwytHR2Se3pQ) 提取码: yq56
+
+- 重新定义 Spring Cloud 实战
+
+  - 62.6m,pdf 链接: [https://pan.baidu.com/s/1s3-SvG2K7w9GLiK21rg-vg](https://pan.baidu.com/s/1s3-SvG2K7w9GLiK21rg-vg) 提取码: af7p
+
 ### C
 
 - C Primer Plus 第六版,226.5m,链接: [https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg](https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg), 提取码: 9j3m
@@ -105,6 +113,10 @@
 - C++语言的设计和演化,15.4m,[预览/下载链接](https://image.xjq.icu/books/C%2B%2B%E8%AF%AD%E8%A8%80%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%92%8C%E6%BC%94%E5%8C%96.pdf)
 
 - C++语言程序设计第四版-郑莉,23.9m,链接: [https://pan.baidu.com/s/1D5Bxv2UY29pdB6Y-OlKJ4g](https://pan.baidu.com/s/1D5Bxv2UY29pdB6Y-OlKJ4g) 提取码: 9wsu
+
+- C++标准程序库 简体中文版
+
+  - 21.3m,pdf 链接: [https://pan.baidu.com/s/1IuhPfwnhm6t0GjumKtvBgQ](https://pan.baidu.com/s/1IuhPfwnhm6t0GjumKtvBgQ) 提取码: zjuv
 
 ### python
 
@@ -324,7 +336,7 @@
 
 - 编译原理及实践,11m,[预览/下载链接](https://image.xjq.icu/books/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AE%9E%E8%B7%B5.pdf)
 
-## coding
+## code
 
 - 编程珠玑(第 2 版),45.9m,链接: [https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ](https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ), 提取码: ds23
 
@@ -345,6 +357,10 @@
 - 重构改善既有代码的设计第 2 版
 
   - 1.6m,[epub 链接](https://image.xjq.icu/books/code/%E9%87%8D%E6%9E%84%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%AC%AC2%E7%89%88.epub)
+
+- 软技能 代码之外的生存指南
+
+  - 3.5m,[epub 链接](https://image.xjq.icu/books/code/%E8%BD%AF%E6%8A%80%E8%83%BD-%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97.epub)
 
 ## 算法
 
@@ -494,6 +510,10 @@
 
 - 密码编码学与网络安全 原理与实践 第 7 版-威廉·斯托林斯，207.8m，链接: [https://pan.baidu.com/s/1s89FXuOAXWdwXXoWqw50lA](https://pan.baidu.com/s/1s89FXuOAXWdwXXoWqw50lA) 提取码: gxhq
 
+- 黑客攻防技术宝典：Web 实战篇(第 2 版 )
+
+  - 10.7m,[epub 链接](<https://image.xjq.icu/books/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8%EF%BC%9AWeb%E5%AE%9E%E6%88%98%E7%AF%87(%E7%AC%AC2%E7%89%88%20).epub>)
+
 ## 架构
 
 - 分布式系统概念与设计,7m,[预览/下载链接](https://image.xjq.icu/books/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%BE%E8%AE%A1.pdf)
@@ -636,13 +656,17 @@
 
 - 不要让我思考 Don'tMakeMeThink-克鲁格,13m,[预览/下载链接](https://image.xjq.icu/books/%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%88%91%E6%80%9D%E8%80%83Don'tMakeMeThink-%E5%85%8B%E9%B2%81%E6%A0%BC.pdf)
 
-## 科普
+## 互联网
 
 - 浪潮之巅第 4 版.吴军,9.2m,[预览/下载链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
 
 - 看见未来：改变互联网世界的人们(余晨),57.2m,链接: [https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw](https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw), 提取码: 2w6a
 
 - 代码的未来,9.4m,[预览/下载链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.pdf)
+
+- 风口上的猪 - 一本书看懂互联网金融
+
+  - 1.4m,[epub 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E9%A3%8E%E5%8F%A3%E4%B8%8A%E7%9A%84%E7%8C%AA%20-%20%E4%B8%80%E6%9C%AC%E4%B9%A6%E7%9C%8B%E6%87%82%E4%BA%92%E8%81%94%E7%BD%91%E9%87%91%E8%9E%8D.epub)
 
 ## 区块链
 
@@ -663,6 +687,10 @@
 - 古今数学思想(克莱因)第四册,14.6m,[预览/下载链接](<https://image.xjq.icu/books/%E5%8F%A4%E4%BB%8A%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3(%E5%85%8B%E8%8E%B1%E5%9B%A0)%E7%AC%AC%E5%9B%9B%E5%86%8C.pdf>)
 
 - 数学之美-第 2 版,51.8m,链接: [https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ](https://pan.baidu.com/s/1H3w9eR9F5npqD_27v96HUQ) 提取码: 9rhx
+
+- 谷歌吴军：数学之美
+
+  - 0.2m,[epub 链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6/%E8%B0%B7%E6%AD%8C%E5%90%B4%E5%86%9B%EF%BC%9A%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.epub)
 
 - 计算机视觉中的数学方法-吴福朝,4.5m,[预览/下载链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95-%E5%90%B4%E7%A6%8F%E6%9C%9D.pdf)
 
