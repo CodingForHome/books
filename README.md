@@ -230,6 +230,12 @@
 
 - C#高级编程,96.7m,链接: [https://pan.baidu.com/s/1Hn6A-hQsV8-BJ6Dc60S6kg](https://pan.baidu.com/s/1Hn6A-hQsV8-BJ6Dc60S6kg) 提取码: 4qed
 
+### R
+
+- R 语言编程艺术
+
+  - 22.4m,pdf 链接: [https://pan.baidu.com/s/1zYGfaF7g1fTxXt7pY3RRfA](https://pan.baidu.com/s/1zYGfaF7g1fTxXt7pY3RRfA) 提取码: 2ngu
+
 ## 计算机基础
 
 - 计算机科学导论.佛罗赞,56.5m,链接: [https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew](https://pan.baidu.com/s/1fEdvjM4hnVPsbQMG_eKSew) 提取码: mb6r
@@ -451,6 +457,10 @@
 - 计算几何-算法设计与分析-周培德(第 3 版)，44.5m，链接: [https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ](https://pan.baidu.com/s/1oKtRybqR5BIVdXP-a5f-iQ) 提取码: wnwd
 
 - labuladong 的算法小抄,101.5m,链接: [https://pan.baidu.com/s/1BaYL03R6Der3AvhLsuCa4Q](https://pan.baidu.com/s/1BaYL03R6Der3AvhLsuCa4Q) 提取码: ftam
+
+- 算法设计与应用
+
+  - 88.8m,pdf 链接: [https://pan.baidu.com/s/1tbFw9YNd4IRWZ4ec3so1Yw](https://pan.baidu.com/s/1tbFw9YNd4IRWZ4ec3so1Yw) 提取码: c14i
 
 ## AI
 
