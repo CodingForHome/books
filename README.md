@@ -142,6 +142,10 @@
 
 - C 语言程序设计（第四版） 谭浩强,18m,[pdf 链接](https://image.xjq.icu/books/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89%20%E8%B0%AD%E6%B5%A9%E5%BC%BA.PDF)
 
+- 嗨翻 C 语言 (图灵程序设计丛书)
+
+  - 22.9m,epub 链接: [https://pan.baidu.com/s/1eO_ii9ZJ2X68Cc1wEnizJw](https://pan.baidu.com/s/1eO_ii9ZJ2X68Cc1wEnizJw) 提取码: msbk
+
 ### C++
 
 - C++ Primer Plus(第 6 版),264.8m,链接: [https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA](https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA), 提取码: 54kg
@@ -394,7 +398,9 @@
 
 - 编译原理-龙书-第二版,25.5m,[pdf 链接](https://image.xjq.icu/books/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86-%E9%BE%99%E4%B9%A6-%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
-- 现代编译原理-虎书,15.9m,[pdf 链接](https://image.xjq.icu/books/%E7%8E%B0%E4%BB%A3%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86-%E8%99%8E%E4%B9%A6.pdf)
+- 现代编译原理-虎书
+
+  - 15.9m,[pdf 链接](https://image.xjq.icu/books/%E7%8E%B0%E4%BB%A3%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86-%E8%99%8E%E4%B9%A6.pdf)
 
 - 自制编译器,14.3m,[pdf 链接](https://image.xjq.icu/books/%E8%87%AA%E5%88%B6%E7%BC%96%E8%AF%91%E5%99%A8.pdf)
 
