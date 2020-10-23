@@ -76,6 +76,10 @@
 
   - 12.8m,[epub 链接](https://image.xjq.icu/books/java/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.epub)
 
+- Java 编程的逻辑
+
+  - 42.5m,pdf 链接: [https://pan.baidu.com/s/1qVidhJd9ov3T2oAXC4B7Kg](https://pan.baidu.com/s/1qVidhJd9ov3T2oAXC4B7Kg) 提取码: imgi
+
 #### Spring
 
 - Spring 实战第 4 版
@@ -388,6 +392,10 @@
 
   - 3.5m,[epub 链接](https://image.xjq.icu/books/code/%E8%BD%AF%E6%8A%80%E8%83%BD-%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97.epub)
 
+- 代码阅读方法与实践-中文版
+
+  - 14.1m,[epub 链接](https://image.xjq.icu/books/code/%E4%BB%A3%E7%A0%81%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
 ## 算法
 
 - 漫画算法-小灰的算法之旅,34.6m,链接: [https://pan.baidu.com/s/1pWp-dY6QpA0H4CGA6WQGtA](https://pan.baidu.com/s/1pWp-dY6QpA0H4CGA6WQGtA) 提取码: cupq
@@ -527,6 +535,14 @@
 - MySQL 技术内幕：SQL 编程-姜承尧,13.8m,链接: [https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg](https://pan.baidu.com/s/1VPnPBPukb5jMwtkD53NQyg) 提取码: xqm7
 
 - MySQL 必知必会，29.8m，链接: [https://pan.baidu.com/s/184IdSEJpN45krW3obmFSUw](https://pan.baidu.com/s/184IdSEJpN45krW3obmFSUw) 提取码: n87r
+
+- SQL 基础教程-第 2 版
+
+  - 22.1m,pdf 链接: [https://pan.baidu.com/s/1_OKyrEe57rDjkDG-EJrB4g](https://pan.baidu.com/s/1_OKyrEe57rDjkDG-EJrB4g) 提取码: hwkp
+
+- SQL 解惑（第 2 版）
+
+  - 13.3m,[pdf 链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%E8%A7%A3%E6%83%91%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 
 ### MongoDB
 
