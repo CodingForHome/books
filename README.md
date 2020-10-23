@@ -464,6 +464,10 @@
 
 - 实感交互：人工智能下的人机交互技术,29m,[预览/下载链接](https://image.xjq.icu/books/%E5%AE%9E%E6%84%9F%E4%BA%A4%E4%BA%92%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8B%E7%9A%84%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E6%8A%80%E6%9C%AF.pdf)
 
+- 人工智能的未来-霍金斯
+
+  - 28.9m,pdf 链接: [https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg](https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg) 提取码: xrte
+
 ### 机器学习
 
 - 机器学习十大算法,3.1m,[预览/下载链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
@@ -636,6 +640,10 @@
 
 - CSS3 学习必备书籍-CSS3 实战,76.7m,链接:[https://pan.baidu.com/s/1CsyqqBjZErJ2-YdweF9SrQ](https://pan.baidu.com/s/1CsyqqBjZErJ2-YdweF9SrQ), 密码:kpyy
 
+- CSS 那些事儿
+
+  - 72.6m,pdf 链接: [https://pan.baidu.com/s/19GT9rrDd73d8IcA2s6adcQ](https://pan.baidu.com/s/19GT9rrDd73d8IcA2s6adcQ) 提取码: hdje
+
 ### Node
 
 - Node.js 进阶之路,44m,链接: [https://pan.baidu.com/s/1gUgqb8Ca5JFNVAEEAa6U4A](https://pan.baidu.com/s/1gUgqb8Ca5JFNVAEEAa6U4A), 提取码: rea9
@@ -705,6 +713,18 @@
 - 黑客与画家,31.1m,[预览/下载链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
 
 - 不要让我思考 Don'tMakeMeThink-克鲁格,13m,[预览/下载链接](https://image.xjq.icu/books/%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%88%91%E6%80%9D%E8%80%83Don'tMakeMeThink-%E5%85%8B%E9%B2%81%E6%A0%BC.pdf)
+
+- 硅谷禁书
+
+  - 0.4m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%A1%85%E8%B0%B7%E7%A6%81%E4%B9%A6.epub)
+
+- 文明之光-吴军
+
+  - 18.8m,pdf 链接: [https://pan.baidu.com/s/1rj31MdBgd5eNYBAZBQc6yQ](https://pan.baidu.com/s/1rj31MdBgd5eNYBAZBQc6yQ) 提取码: tbm8
+
+- 陈波-逻辑学十五讲
+
+  - 7.6m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E9%99%88%E6%B3%A2-%E9%80%BB%E8%BE%91%E5%AD%A6%E5%8D%81%E4%BA%94%E8%AE%B2.pdf)
 
 ## 互联网
 
