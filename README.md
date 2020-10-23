@@ -642,6 +642,14 @@
 
 ## 前端
 
+- 深入浅出 React 和 Redux-程墨
+
+  - 93.4m,pdf 链接: [https://pan.baidu.com/s/19Qks-Z57WlOoVIOQJVyL7g](https://pan.baidu.com/s/19Qks-Z57WlOoVIOQJVyL7g) 提取码: etci
+
+- 深入 React 技术栈
+
+  - 9.6m,[pdf 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/%E6%B7%B1%E5%85%A5React%E6%8A%80%E6%9C%AF%E6%A0%88.pdf)
+
 - 精通 D3.js 交互式数据可视化高级编程,52.4m,链接: [https://pan.baidu.com/s/1Hu-sJQaKD8ueZPam7gcvMw](https://pan.baidu.com/s/1Hu-sJQaKD8ueZPam7gcvMw), 提取码: ut8x
 
 - Web 开发权威指南,30.7m,[pdf 链接](https://image.xjq.icu/books/Web%E5%BC%80%E5%8F%91%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
@@ -758,6 +766,10 @@
 
 - 高效程序员的 45 个习惯-敏捷开发修炼之道-苏帕拉马尼亚姆-钱安川等,18.3m,[pdf 链接](https://image.xjq.icu/books/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF-%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93-%E8%8B%8F%E5%B8%95%E6%8B%89%E9%A9%AC%E5%B0%BC%E4%BA%9A%E5%A7%86-%E9%92%B1%E5%AE%89%E5%B7%9D%E7%AD%89.pdf)
 
+- 编码：隐匿在计算机软硬件背后的语言（美.佩措尔德）
+
+  - 14.1m,[pdf 链接](https://image.xjq.icu/books/code/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%EF%BC%88%E7%BE%8E.%E4%BD%A9%E6%8E%AA%E5%B0%94%E5%BE%B7%EF%BC%89.pdf)
+
 ## 程序员
 
 - 程序员的自我修养,30m,[pdf 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.pdf)
@@ -800,6 +812,10 @@
 
   - 1.4m,[epub 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E9%A3%8E%E5%8F%A3%E4%B8%8A%E7%9A%84%E7%8C%AA%20-%20%E4%B8%80%E6%9C%AC%E4%B9%A6%E7%9C%8B%E6%87%82%E4%BA%92%E8%81%94%E7%BD%91%E9%87%91%E8%9E%8D.epub)
 
+- 淘宝技术这十年
+
+  - 14.7m,[pdf 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4.pdf)
+
 ## 区块链
 
 - 去中心化应用-区块链技术概述,6.9m,[pdf 链接](https://image.xjq.icu/books/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%BA%94%E7%94%A8-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0.pdf)
@@ -828,7 +844,9 @@
 
 - 数学思维导论 学会像数学家一样思考 [美] Keith Devlin,18m,[pdf 链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E8%AE%BA%20%E5%AD%A6%E4%BC%9A%E5%83%8F%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%20%5B%E7%BE%8E%5D%20Keith%20Devlin.pdf)
 
-<!-- - 具体数学 计算机科学基础(第2版),79.6m, -->
+- 3D 数学基础：图形与游戏开发
+
+  - 29.3m,pdf 链接: [https://pan.baidu.com/s/1RE8yqZt2Yei2cA3mRMvZuw](https://pan.baidu.com/s/1RE8yqZt2Yei2cA3mRMvZuw) 提取码: a7eq
 
 ### 统计学
 
