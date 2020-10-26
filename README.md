@@ -134,6 +134,10 @@
 
 - C Primer Plus 第六版,226.5m,链接: [https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg](https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg), 提取码: 9j3m
 
+- C Primer Plus（中文第五版）
+
+  - 20.6m, epub 链接: [https://pan.baidu.com/s/1wk-WCTqKzTZ6J0g7Pz2Diw](https://pan.baidu.com/s/1wk-WCTqKzTZ6J0g7Pz2Diw) 提取码: rbj1
+
 - C 和指针中文版,11.6m,[pdf 链接](https://image.xjq.icu/books/cpp/C%E5%92%8C%E6%8C%87%E9%92%88%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 - C 语言的科学和艺术中文版,14.7m,[pdf 链接](https://image.xjq.icu/books/cpp/C%E8%AF%AD%E8%A8%80%E7%9A%84%E7%A7%91%E5%AD%A6%E5%92%8C%E8%89%BA%E6%9C%AF%E4%B8%AD%E6%96%87%E7%89%88.pdf)
@@ -145,6 +149,10 @@
 - 嗨翻 C 语言 (图灵程序设计丛书)
 
   - 22.9m,epub 链接: [https://pan.baidu.com/s/1eO_ii9ZJ2X68Cc1wEnizJw](https://pan.baidu.com/s/1eO_ii9ZJ2X68Cc1wEnizJw) 提取码: msbk
+
+- 征服 C 指针
+
+  - 3.0m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/%E5%BE%81%E6%9C%8DC%E6%8C%87%E9%92%88.epub)
 
 ### C++
 
@@ -223,6 +231,10 @@
 - Python 数据分析实战,55.3m,链接:[https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ](https://pan.baidu.com/s/1T_s4eCYUr7WwY7Tx2zeTWQ), 密码:o027
 
 - Python 数据处理,14.1m,[pdf 链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)
+
+- 利用 Python 进行数据分析
+
+  - 9.2m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.epub)
 
 #### 爬虫
 
@@ -304,7 +316,11 @@
 
 - 图解 HTTP,13.8m,[pdf 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTTP/%E5%9B%BE%E8%A7%A3HTTP.pdf)
 
-- HTTP 权威指南,89.3m,链接: [https://pan.baidu.com/s/1V0PF_dKaylynoycYAgruEg](https://pan.baidu.com/s/1V0PF_dKaylynoycYAgruEg), 提取码: yg4k
+- HTTP 权威指南
+
+  - 89.3m,pdf 链接: [https://pan.baidu.com/s/1V0PF_dKaylynoycYAgruEg](https://pan.baidu.com/s/1V0PF_dKaylynoycYAgruEg), 提取码: yg4k
+
+  - 4.9m,[[epub]链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/HTTP/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.epub)
 
 ## 操作系统
 
@@ -313,6 +329,10 @@
 - 深入理解计算机系统,500.6m,链接: [https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw](https://pan.baidu.com/s/1YmZykH35BFrLI5yOCjBCxw), 提取码: rhrh
 
 - Docker 进阶与实战-华为 Docker 实践小组,42.1m,链接: [https://pan.baidu.com/s/1Zg-Da-l0-M6t4srPxLINbw](https://pan.baidu.com/s/1Zg-Da-l0-M6t4srPxLINbw), 提取码: hxdn
+
+- Docker 进阶与实战
+
+  - 1.5m,[epub 链接](https://image.xjq.icu/books/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Docker%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%AE%9E%E6%88%98.epub)
 
 ### Linux
 
@@ -416,9 +436,15 @@
 
   - 0.6m,[epub 链接](https://image.xjq.icu/books/code/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.epub)
 
-- 代码大全中文第二版,21.2m,[pdf 链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
+- 代码大全(第二版)
+
+  - 21.2m,[pdf 链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 
 - 人月神话,2.7m,[pdf 链接](https://image.xjq.icu/books/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.pdf)
+
+- 人月神话(二十周年纪念版) - 弗雷德里克·布鲁克斯
+
+  - 2.4m,[epub 链接](<https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D(%E4%BA%8C%E5%8D%81%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%89%88)%20-%20%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E5%B8%83%E9%B2%81%E5%85%8B%E6%96%AF.epub>)
 
 - 代码整洁之道,15.7m,[pdf 链接](https://image.xjq.icu/books/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)
 
@@ -679,6 +705,10 @@
   - 21.5m,[pdf 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/2020%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E8%AF%BB%E6%89%8B%E5%86%8C-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.pdf)
 
 - HTML5 移动 Web 开发指南-唐俊开,52.2m,链接:[https://pan.baidu.com/s/1yzFW7Xqwe61WdFLarmwPZA](https://pan.baidu.com/s/1yzFW7Xqwe61WdFLarmwPZA) 提取码: bigi
+
+- Git 权威指南
+
+  - 49.8m,pdf 链接: [https://pan.baidu.com/s/1VIKGu5UGuFIZZOQbCXph7A](https://pan.baidu.com/s/1VIKGu5UGuFIZZOQbCXph7A) 提取码: r45f
 
 ### 可视化
 
