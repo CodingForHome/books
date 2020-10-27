@@ -80,6 +80,10 @@
 
   - 14m,[pdf 链接](https://image.xjq.icu/books/JavaScript%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E7%AC%AC9%E7%89%88%20.pdf)
 
+- JavaScript 忍者秘籍
+
+  - 13.9m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/js/JavaScript%E5%BF%8D%E8%80%85%E7%A7%98%E7%B1%8D.epub)
+
 ### Java
 
 - Head First Java(第 2 版),59.9m,[pdf 链接](https://image.xjq.icu/books/java/Head%20First%20Java%28%E7%AC%AC2%E7%89%88%29.pdf)
@@ -510,7 +514,11 @@
 
 - 垃圾回收的算法与实现,29.4m,[pdf 链接](https://image.xjq.icu/books/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%9A%84%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
 
-- 剑指 offer 名企面试官精讲典型编程题,23.3m,[pdf 链接](https://image.xjq.icu/books/%E5%89%91%E6%8C%87offer%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E5%AE%98%E7%B2%BE%E8%AE%B2%E5%85%B8%E5%9E%8B%E7%BC%96%E7%A8%8B%E9%A2%98.pdf)
+- 剑指 offer 名企面试官精讲典型编程题
+
+  - 23.3m,[pdf 链接](https://image.xjq.icu/books/%E5%89%91%E6%8C%87offer%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E5%AE%98%E7%B2%BE%E8%AE%B2%E5%85%B8%E5%9E%8B%E7%BC%96%E7%A8%8B%E9%A2%98.pdf)
+
+  - 4.4m,[epub 链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95/%E5%89%91%E6%8C%87Offer.epub)
 
 - 算法的乐趣,9.5m,[pdf 链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3.pdf)
 
@@ -710,6 +718,10 @@
 
   - 49.8m,pdf 链接: [https://pan.baidu.com/s/1VIKGu5UGuFIZZOQbCXph7A](https://pan.baidu.com/s/1VIKGu5UGuFIZZOQbCXph7A) 提取码: r45f
 
+- HTML5 与 CSS3 基础教程(第 7 版)
+
+  - 16.1m,[epub 链接](<https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/HTML5%E4%B8%8ECSS3%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B(%E7%AC%AC7%E7%89%88).epub>)
+
 ### 可视化
 
 - WebGL 编程指南,85.2m,链接: [https://pan.baidu.com/s/1F8IYjGeouzp2NODQ4cfCXQ](https://pan.baidu.com/s/1F8IYjGeouzp2NODQ4cfCXQ), 提取码: i9nv
@@ -816,7 +828,11 @@
 
   - 2.3m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC.epub)
 
-- 黑客与画家,31.1m,[pdf 链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
+- 黑客与画家
+
+  - 31.1m,[pdf 链接](https://image.xjq.icu/books/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
+
+  - 0.8m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.epub)
 
 - 不要让我思考 Don'tMakeMeThink-克鲁格,13m,[pdf 链接](https://image.xjq.icu/books/%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%88%91%E6%80%9D%E8%80%83Don'tMakeMeThink-%E5%85%8B%E9%B2%81%E6%A0%BC.pdf)
 
@@ -831,6 +847,10 @@
 - 陈波-逻辑学十五讲
 
   - 7.6m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E9%99%88%E6%B3%A2-%E9%80%BB%E8%BE%91%E5%AD%A6%E5%8D%81%E4%BA%94%E8%AE%B2.pdf)
+
+- 史蒂夫·乔布斯传
+
+  - 3.4m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0.epub)
 
 ## 互联网
 
@@ -859,6 +879,14 @@
 - 区块链技术驱动金融
 
   - 7.6m,[epub 链接](https://image.xjq.icu/books/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E9%A9%B1%E5%8A%A8%E9%87%91%E8%9E%8D.epub)
+
+- 区块链将如何重新定义世界
+
+  - 2.2m,[epub 链接](https://image.xjq.icu/books/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%B0%86%E5%A6%82%E4%BD%95%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E4%B8%96%E7%95%8C.epub)
+
+- 区块链技术指南
+
+  - 4.7m,[epub 链接](https://image.xjq.icu/books/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%8C%87%E5%8D%97.epub)
 
 ## 数学
 
