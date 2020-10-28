@@ -158,6 +158,10 @@
 
   - 3.0m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/%E5%BE%81%E6%9C%8DC%E6%8C%87%E9%92%88.epub)
 
+- 狂人 C\_程序员入门必备
+
+  - 20.0m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/%E7%8B%82%E4%BA%BAC_%E7%A8%8B%E5%BA%8F%E5%91%98%E5%85%A5%E9%97%A8%E5%BF%85%E5%A4%87.epub)
+
 ### C++
 
 - C++ Primer Plus(第 6 版),264.8m,链接: [https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA](https://pan.baidu.com/s/1mcZO5oudatc28MTszVypYA), 提取码: 54kg
@@ -177,6 +181,10 @@
 - C++标准程序库 简体中文版
 
   - 21.3m,pdf 链接: [https://pan.baidu.com/s/1IuhPfwnhm6t0GjumKtvBgQ](https://pan.baidu.com/s/1IuhPfwnhm6t0GjumKtvBgQ) 提取码: zjuv
+
+- Effective C++：改善程序与设计的 55 个具体做法（中文第三版）
+
+  - 0.3m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/Effective%20C%2B%2B%EF%BC%9A%E6%94%B9%E5%96%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%8455%E4%B8%AA%E5%85%B7%E4%BD%93%E5%81%9A%E6%B3%95%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.epub)
 
 ### python
 
@@ -602,6 +610,10 @@
 
   - 96.7m,pdf 链接: [https://pan.baidu.com/s/103k4TF7imFavbXROIYzTRQ](https://pan.baidu.com/s/103k4TF7imFavbXROIYzTRQ) 提取码: 1g62
 
+- 深度学习-伊恩古德费洛
+
+  - 16.0m,[epub 链接](https://image.xjq.icu/books/AI/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E4%BC%8A%E6%81%A9%E5%8F%A4%E5%BE%B7%E8%B4%B9%E6%B4%9B.epub)
+
 ## 数据库
 
 - Redis 设计与实现第二版,14.4m,[pdf 链接](https://image.xjq.icu/books/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
@@ -871,6 +883,10 @@
 - 淘宝技术这十年
 
   - 14.7m,[pdf 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4.pdf)
+
+- 集体智慧编程
+
+  - 27.9m,[pdf 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B.pdf)
 
 ## 区块链
 
