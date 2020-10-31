@@ -964,6 +964,14 @@
 
 - 线性代数及其应用中文版(美)David CLay2005,48.6m,链接: [https://pan.baidu.com/s/1Kn9YuAc7UbKycGMjPljPGQ](https://pan.baidu.com/s/1Kn9YuAc7UbKycGMjPljPGQ), 提取码: x62a
 
+- 线性代数(同济第五版)
+
+  - 6.0m,[pdf 链接](<https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0(%E7%AC%AC%E4%BA%94%E7%89%88)%E5%90%8C%E6%B5%8E.pdf>)
+
+- 线性代数(同济第六版)
+
+  - 18.2m,[pdf 链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%90%8C%E6%B5%8E%E7%AC%AC%E5%85%AD%E7%89%88.pdf)
+
 ### 经济学
 
 - 经济学原理,16m,[pdf 链接](https://image.xjq.icu/books/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86.pdf)
