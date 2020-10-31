@@ -158,7 +158,7 @@
 
   - 3.0m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/%E5%BE%81%E6%9C%8DC%E6%8C%87%E9%92%88.epub)
 
-- 狂人 C\_程序员入门必备
+- 狂人 C 程序员入门必备
 
   - 20.0m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/%E7%8B%82%E4%BA%BAC_%E7%A8%8B%E5%BA%8F%E5%91%98%E5%85%A5%E9%97%A8%E5%BF%85%E5%A4%87.epub)
 
@@ -927,6 +927,20 @@
 - 3D 数学基础：图形与游戏开发
 
   - 29.3m,pdf 链接: [https://pan.baidu.com/s/1RE8yqZt2Yei2cA3mRMvZuw](https://pan.baidu.com/s/1RE8yqZt2Yei2cA3mRMvZuw) 提取码: a7eq
+
+### 高等数学
+
+- 同济大学高等数学第七版下册
+
+  - 85.5m, pdf 链接: [https://pan.baidu.com/s/1qpUrWKjmKdn1iwFP9LLfhA](https://pan.baidu.com/s/1qpUrWKjmKdn1iwFP9LLfhA) 提取码: 9ry6
+
+- 高等数学 同济第 7 版 下册 习题全解指南 课后习题答案解析
+
+  - 45m, pdf 链接: [https://pan.baidu.com/s/1jszKKxn8lQp9X9E1oqXyYw](https://pan.baidu.com/s/1jszKKxn8lQp9X9E1oqXyYw) 提取码: 7kyt
+
+- 高等数学 同济第 7 版 上册 习题全解指南 课后习题答案解析
+
+  - 41m, pdf 链接: [https://pan.baidu.com/s/1ZUz3Vp_NgRbSdEvFWWuTzg](https://pan.baidu.com/s/1ZUz3Vp_NgRbSdEvFWWuTzg) 提取码: 94vf
 
 ### 统计学
 
