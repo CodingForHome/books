@@ -12,6 +12,12 @@
 
 ## 编程语言
 
+### 汇编
+
+- 汇编语言
+
+  - 33.3m,pdf 链接: [https://pan.baidu.com/s/1fYHpzqLwpCm14AzvfrzFdw](https://pan.baidu.com/s/1fYHpzqLwpCm14AzvfrzFdw) 提取码: 3nw4
+
 ### JavaScript
 
 - 你不知道的 JavaScript (上卷)
@@ -186,6 +192,10 @@
 
   - 0.3m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/Effective%20C%2B%2B%EF%BC%9A%E6%94%B9%E5%96%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%8455%E4%B8%AA%E5%85%B7%E4%BD%93%E5%81%9A%E6%B3%95%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.epub)
 
+- C++编程惯用法-高级程序员常用用法和技巧
+
+  - 21.4m,pdf 链接: [https://pan.baidu.com/s/1KlmEgRfJoiYq77vN5SPxVQ](https://pan.baidu.com/s/1KlmEgRfJoiYq77vN5SPxVQ), 提取码: dujx
+
 ### python
 
 - Python3-廖雪峰,5.4m,[pdf 链接](https://image.xjq.icu/books/Python3-%E5%BB%96%E9%9B%AA%E5%B3%B0.pdf)
@@ -312,6 +322,10 @@
 
 - 编程的奥秘,12.9m,链接: [https://pan.baidu.com/s/1USBlhFSXZgCdwyT0XmAIxA](https://pan.baidu.com/s/1USBlhFSXZgCdwyT0XmAIxA) 提取码: mn4w
 
+- 计算的本质：深入剖析程序和计算机
+
+  - 17.5m,pdf 链接: [https://pan.baidu.com/s/1-lUNvzO2v1iysYPEWEZ1oQ](https://pan.baidu.com/s/1-lUNvzO2v1iysYPEWEZ1oQ) 提取码: feet
+
 ## 计算机网络
 
 - TCP-IP 详解(卷一、二、三),41.4m,链接: [https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA](https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA), 提取码: dmse
@@ -345,6 +359,10 @@
 - Docker 进阶与实战
 
   - 1.5m,[epub 链接](https://image.xjq.icu/books/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Docker%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%AE%9E%E6%88%98.epub)
+
+- 现代操作系统（第 3 版）
+
+  - 84.5m,pdf 链接: [https://pan.baidu.com/s/11keUNqzDD6opO2XZlSkrFA](https://pan.baidu.com/s/11keUNqzDD6opO2XZlSkrFA) 提取码: 7wik
 
 ### Linux
 
@@ -686,11 +704,15 @@
 
 - 精通 Nginx,73.8m,链接: [https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA](https://pan.baidu.com/s/1QPdn_rWVbf-XTU2iESP6CA), 提取码: ni66
 
-- 深入理解 Nginx 模块开发与架构解析第 2 版 LinuxUnix 技术丛书
+- 深入理解 Nginx 模块开发与架构解析第 2 版
 
   - 35m,[pdf 链接](https://image.xjq.icu/books/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%E7%AC%AC2%E7%89%88LinuxUnix%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6.pdf)
 
   - 19.4m,[epub 链接](https://image.xjq.icu/books/%E6%9C%8D%E5%8A%A1%E5%99%A8/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%EF%BC%9A%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.epub)
+
+- 深入理解 Nginx 模块开发与架构解析
+
+  - 48m,pdf 链接: [https://pan.baidu.com/s/1MgutYN4sdSZ_MylvVIzkfA](https://pan.baidu.com/s/1MgutYN4sdSZ_MylvVIzkfA) 提取码: viqs
 
 ## 前端
 
@@ -928,6 +950,10 @@
 
   - 29.3m,pdf 链接: [https://pan.baidu.com/s/1RE8yqZt2Yei2cA3mRMvZuw](https://pan.baidu.com/s/1RE8yqZt2Yei2cA3mRMvZuw) 提取码: a7eq
 
+- 数学沉思录：古今数学思想的发展与演变\_[美]李维著.黄征译
+
+  - 20.9m,pdf 链接: [https://pan.baidu.com/s/1sOq7d2zHAWynZ8oWNIsv2g](https://pan.baidu.com/s/1sOq7d2zHAWynZ8oWNIsv2g) 提取码: 4ctb
+
 ### 高等数学
 
 - 同济大学高等数学第七版下册
@@ -971,6 +997,10 @@
 - 线性代数(同济第六版)
 
   - 18.2m,[pdf 链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%90%8C%E6%B5%8E%E7%AC%AC%E5%85%AD%E7%89%88.pdf)
+
+- 线性代数习题全解（同济六版）
+
+  - 56.4m,pdf 链接: [https://pan.baidu.com/s/1qf0vlUEcPbju09Y8jUpnFA](https://pan.baidu.com/s/1qf0vlUEcPbju09Y8jUpnFA) 提取码: nuge
 
 ### 经济学
 
