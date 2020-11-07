@@ -264,6 +264,10 @@
 
 - 用 Python 写网络爬虫,10.5m,[pdf 链接](https://image.xjq.icu/books/%E7%94%A8Python%E5%86%99%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.pdf)
 
+- 精通 python 爬虫框架 scrapy
+
+  - 5.8m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python/%E7%B2%BE%E9%80%9Apython%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6scrapy.epub)
+
 ### Scala
 
 - Scala 程序设计-第 2 版,18.5m,[pdf 链接](https://image.xjq.icu/books/Scala%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E7%AC%AC2%E7%89%88.pdf)
@@ -330,7 +334,11 @@
 
 - TCP-IP 详解(卷一、二、三),41.4m,链接: [https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA](https://pan.baidu.com/s/1GjvBLzanFHXp3TAo_eXoVA), 提取码: dmse
 
-- 计算机网络(第 7 版) 谢希仁,70.8m,链接: [https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw](https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw) 提取码: sa65
+- 计算机网络(第 7 版) 谢希仁
+
+  - 70.8m,pdf 链接: [https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw](https://pan.baidu.com/s/1jxIcfFbBOr9YD5Y5tbZQHw) 提取码: sa65
+
+  - 16.4m,[epub 链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89.epub)
 
 - 图解 TCPIP(第 5 版),50.1m,链接: [https://pan.baidu.com/s/1snLoNQv5GYGH9MVYeMCKYQ](https://pan.baidu.com/s/1snLoNQv5GYGH9MVYeMCKYQ) 提取码: qvrx
 
@@ -366,9 +374,17 @@
 
 ### Linux
 
-- 鸟哥的 Linux 私房菜服务器架设篇 第三版,17.9m,[pdf 链接](https://image.xjq.icu/books/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87%20%E7%AC%AC%E4%B8%89%E7%89%88%20.pdf)
+- 鸟哥的 Linux 私房菜服务器架设篇 第三版
+
+  - 17.9m,[pdf 链接](https://image.xjq.icu/books/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87%20%E7%AC%AC%E4%B8%89%E7%89%88%20.pdf)
+
+  - 12.3m,[epub 链接](<https://image.xjq.icu/books/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/%E9%B8%9F%E5%93%A5%E7%9A%84linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87(%E7%AC%AC3%E7%89%88).epub>)
 
 - 鸟哥的 LINUX 私房菜-基础学习篇(第三版),158.6m,链接:[https://pan.baidu.com/s/1hdbB1VkltCynfQCOrHoLrA](https://pan.baidu.com/s/1hdbB1VkltCynfQCOrHoLrA),  提取码:7987
+
+- 鸟哥的 LINUX 私房菜-基础学习篇(第四版)
+
+  - 8.8m,[epub 链接](<https://image.xjq.icu/books/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Linux/%E9%B8%9F%E5%93%A5%E7%9A%84linux%E7%A7%81%E6%88%BF%E8%8F%9C%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87(%E7%AC%AC%E5%9B%9B%E7%89%88).epub>)
 
 - Linux 运维之道-丁明一,84.5m,链接:[https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw](https://pan.baidu.com/s/19nU5TwHQ_FVYUlOX4GNfrw), 密码:5h6q
 
@@ -436,7 +452,11 @@
 
 - 大话设计模式,72.9m,[pdf 链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
 
-- 设计模式之禅（第 2 版）,16.2m,[pdf 链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+- 设计模式之禅（第 2 版）
+
+  - 16.2m,[pdf 链接](https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+
+  - 12.5m,[epub 链接](<https://image.xjq.icu/books/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85(%E7%AC%AC2%E7%89%88).epub>)
 
 - 图解设计模式,63.9m,链接: [https://pan.baidu.com/s/1SRDCGJrCTiq-MkaADxDOtw](https://pan.baidu.com/s/1SRDCGJrCTiq-MkaADxDOtw), 提取码: 76p7
 
@@ -584,6 +604,10 @@
 
   - 28.9m,pdf 链接: [https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg](https://pan.baidu.com/s/1nhsl4LQ-13CV5NJWx9a3Gg) 提取码: xrte
 
+- AI·未来
+
+  - 4.0m,[epub 链接](https://image.xjq.icu/books/AI/AI%C2%B7%E6%9C%AA%E6%9D%A5.epub)
+
 ### 机器学习
 
 - 机器学习十大算法,3.1m,[pdf 链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8D%81%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
@@ -600,7 +624,11 @@
 
 - 实用机器学习,175.7m,链接: [https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA](https://pan.baidu.com/s/1E36pJQYiRLkeb6nJ8JUftA), 提取码: dpze
 
-- 百面机器学习：算法工程师带你去面试,26.4m,[pdf 链接](https://image.xjq.icu/books/%E7%99%BE%E9%9D%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%B8%A6%E4%BD%A0%E5%8E%BB%E9%9D%A2%E8%AF%95.pdf)
+- 百面机器学习：算法工程师带你去面试
+
+  - 26.4m,[pdf 链接](https://image.xjq.icu/books/%E7%99%BE%E9%9D%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%B8%A6%E4%BD%A0%E5%8E%BB%E9%9D%A2%E8%AF%95.pdf)
+
+  - 13.7m,[epub 链接](https://image.xjq.icu/books/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%99%BE%E9%9D%A2%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.epub)
 
 - 多智能体机器学习：强化学习方法,9m,[pdf 链接](https://image.xjq.icu/books/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
 
@@ -888,7 +916,11 @@
 
 ## 互联网
 
-- 浪潮之巅第 4 版.吴军,9.2m,[pdf 链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
+- 浪潮之巅第 4 版.吴军
+
+  - 9.2m,[pdf 链接](https://image.xjq.icu/books/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E7%AC%AC4%E7%89%88.%E5%90%B4%E5%86%9B.pdf)
+
+  - 2.0m,[epub 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85.epub)
 
 - 看见未来：改变互联网世界的人们(余晨),57.2m,链接: [https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw](https://pan.baidu.com/s/1XhGNqAAL9RVV8374TIfQRw), 提取码: 2w6a
 
