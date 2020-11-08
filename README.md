@@ -248,6 +248,12 @@
 
 - Python 编程导论-第 2 版,14.7m,[pdf 链接](https://image.xjq.icu/books/Python%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA-%E7%AC%AC2%E7%89%88.pdf)
 
+- 流畅的 Python
+
+  - 3.5m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python/%E6%B5%81%E7%95%85%E7%9A%84Python.epub)
+
+  - 11.4m,[pdf 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python/%E6%B5%81%E7%95%85%E7%9A%84Python.pdf)
+
 #### Python 数据分析
 
 - Python 数据科学手册,13.1m,[pdf 链接](https://image.xjq.icu/books/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf)
@@ -337,6 +343,10 @@
 - 计算的本质：深入剖析程序和计算机
 
   - 17.5m,pdf 链接: [https://pan.baidu.com/s/1-lUNvzO2v1iysYPEWEZ1oQ](https://pan.baidu.com/s/1-lUNvzO2v1iysYPEWEZ1oQ) 提取码: feet
+
+- 编码：隐匿在计算机软硬件背后的语言
+
+  - 13.0m,[epub 链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.epub)
 
 ## 计算机网络
 
@@ -527,6 +537,10 @@
 - 代码阅读方法与实践-中文版
 
   - 14.1m,[epub 链接](https://image.xjq.icu/books/code/%E4%BB%A3%E7%A0%81%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
+- 编写高质量代码-改善 python 程序的 91 个建议
+
+  - 4.9m,[epub 链接](https://image.xjq.icu/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BB%A3%E7%A0%81-%E6%94%B9%E5%96%84python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE.epub)
 
 ## 算法
 
@@ -1043,6 +1057,14 @@
 - 统计学习基础 数据挖掘、推理与预测,94m,链接: [https://pan.baidu.com/s/1KPykkxmFm4qxMtkyXVArMA](https://pan.baidu.com/s/1KPykkxmFm4qxMtkyXVArMA), 提取码: mt3h
 
 - 概率论与数理统计-陈希孺,12m,[pdf 链接](https://image.xjq.icu/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E9%99%88%E5%B8%8C%E5%AD%BA.pdf)
+
+### 概率论
+
+- 概率导论.第 2 版
+
+  - 18.5m,[pdf 链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/%E6%A6%82%E7%8E%87%E5%AF%BC%E8%AE%BA.%E7%AC%AC2%E7%89%88.%E4%BF%AE%E8%AE%A2%E7%89%88.pdf)
+
+  - 9.2m,[epub 链接](https://image.xjq.icu/books/%E6%95%B0%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA/%E6%A6%82%E7%8E%87%E5%AF%BC%E8%AE%BA.%E7%AC%AC2%E7%89%88.%E4%BF%AE%E8%AE%A2%E7%89%88.epub)
 
 ### 线性代数
 
