@@ -122,6 +122,10 @@
 
   - 42.5m,pdf 链接: [https://pan.baidu.com/s/1qVidhJd9ov3T2oAXC4B7Kg](https://pan.baidu.com/s/1qVidhJd9ov3T2oAXC4B7Kg) 提取码: imgi
 
+- 实战 Java 高并发程序设计
+
+  - 10.0m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/java/%E5%AE%9E%E6%88%98Java%E9%AB%98%E5%B9%B6%E5%8F%91%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.epub)
+
 #### Spring
 
 - Spring 实战第 4 版
@@ -148,7 +152,11 @@
 
   - 20.6m, epub 链接: [https://pan.baidu.com/s/1wk-WCTqKzTZ6J0g7Pz2Diw](https://pan.baidu.com/s/1wk-WCTqKzTZ6J0g7Pz2Diw) 提取码: rbj1
 
-- C 和指针中文版,11.6m,[pdf 链接](https://image.xjq.icu/books/cpp/C%E5%92%8C%E6%8C%87%E9%92%88%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+- C 和指针中文版
+
+  - 11.6m,[pdf 链接](https://image.xjq.icu/books/cpp/C%E5%92%8C%E6%8C%87%E9%92%88%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
+  - 5.0m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/C%20%E5%92%8C%E6%8C%87%E9%92%88.epub)
 
 - C 语言的科学和艺术中文版,14.7m,[pdf 链接](https://image.xjq.icu/books/cpp/C%E8%AF%AD%E8%A8%80%E7%9A%84%E7%A7%91%E5%AD%A6%E5%92%8C%E8%89%BA%E6%9C%AF%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
@@ -478,7 +486,11 @@
 
 ## code
 
-- 编程珠玑(第 2 版),45.9m,链接: [https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ](https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ), 提取码: ds23
+- 编程珠玑(第 2 版)
+
+  - 45.9m,链接: [https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ](https://pan.baidu.com/s/1tZd2LJnmc5qtu6-bycevsQ), 提取码: ds23
+
+  - 1.7m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%EF%BC%88%E7%AC%AC2%E7%89%88%C2%B7%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89.epub)
 
 - 编程之美
 
@@ -580,6 +592,12 @@
 
   - 88.8m,pdf 链接: [https://pan.baidu.com/s/1tbFw9YNd4IRWZ4ec3so1Yw](https://pan.baidu.com/s/1tbFw9YNd4IRWZ4ec3so1Yw) 提取码: c14i
 
+- 改变未来的九大算法
+
+  - 2.7m,[epub 链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95/%E6%94%B9%E5%8F%98%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%B9%9D%E5%A4%A7%E7%AE%97%E6%B3%95.epub)
+
+  - 5.9m,[pdf 链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95/%E6%94%B9%E5%8F%98%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%B9%9D%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
+
 ## AI
 
 - 统计自然语言处理（第二版）,21.9m,[pdf 链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
@@ -633,6 +651,10 @@
 - 多智能体机器学习：强化学习方法,9m,[pdf 链接](https://image.xjq.icu/books/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)
 
 - 机器学习及其应用,32m,[pdf 链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.pdf)
+
+- 白话大数据与机器学习
+
+  - 8.5m,[epub 链接](https://image.xjq.icu/books/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E7%99%BD%E8%AF%9D%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.epub)
 
 ### 深度学习
 
@@ -758,7 +780,11 @@
 
 - 同构 JavaScript 应用开发,9.2m,[pdf 链接](https://image.xjq.icu/books/%E5%90%8C%E6%9E%84JavaScript%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91.pdf)
 
-- 现代前端技术解析 2019,47.9m,链接: [https://pan.baidu.com/s/1F4mCQeczkG0Qjlhpm1nfRg](https://pan.baidu.com/s/1F4mCQeczkG0Qjlhpm1nfRg), 提取码: rtzp
+- 现代前端技术解析 2019
+
+  - 47.9m,链接: [https://pan.baidu.com/s/1F4mCQeczkG0Qjlhpm1nfRg](https://pan.baidu.com/s/1F4mCQeczkG0Qjlhpm1nfRg), 提取码: rtzp
+
+  - 6.7m,[epub 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/%E7%8E%B0%E4%BB%A3%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90.epub)
 
 - Three_js 入门指南,3.4m,[pdf 链接](https://image.xjq.icu/books/Three_js%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
 
