@@ -204,6 +204,10 @@
 
   - 21.4m,pdf 链接: [https://pan.baidu.com/s/1KlmEgRfJoiYq77vN5SPxVQ](https://pan.baidu.com/s/1KlmEgRfJoiYq77vN5SPxVQ), 提取码: dujx
 
+- c++ templates 中文版
+
+  - 2.2m,[epub 链接](https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/cpp/c%2B%2B%20templates%E4%B8%AD%E6%96%87%E7%89%88.epub)
+
 ### python
 
 - Python3-廖雪峰,5.4m,[pdf 链接](https://image.xjq.icu/books/Python3-%E5%BB%96%E9%9B%AA%E5%B3%B0.pdf)
@@ -300,7 +304,9 @@
 
 - Go 语言高级编程,3.7m,[pdf 链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf)
 
-- Go Web 编程,160.3m,链接: [https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA](https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA) 提取码: xghf
+- Go Web 编程
+
+  - 160.3m,pdf链接: [https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA](https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA) 提取码: xghf
 
 - Go 语言编程,11.1m,[pdf 链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B.pdf)
 
@@ -744,7 +750,11 @@
 
 - 黑客攻防技术宝典：Web 实战篇(第 2 版 )
 
-  - 10.7m,[epub 链接](<https://image.xjq.icu/books/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8%EF%BC%9AWeb%E5%AE%9E%E6%88%98%E7%AF%87(%E7%AC%AC2%E7%89%88%20).epub>)
+  - 11.3m,[epub 链接](<https://image.xjq.icu/books/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8web%E5%AE%9E%E6%88%98%E7%AF%87(%E7%AC%AC2%E7%89%88).epub>)
+
+- 白帽子讲 Web 安全 - 吴翰清
+
+  - 8.9m,[epub 链接](https://image.xjq.icu/books/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/%E7%99%BD%E5%B8%BD%E5%AD%90%E8%AE%B2Web%E5%AE%89%E5%85%A8%20-%20%E5%90%B4%E7%BF%B0%E6%B8%85.epub)
 
 ## 架构
 
@@ -761,6 +771,8 @@
 - 数据密集型应用系统设计,297m,链接: [https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw](https://pan.baidu.com/s/1ClZNlKmdWFKY2BWNrA4vDw), 提取码: nr4k
 
 - Kafka 权威指南,17m,[pdf 链接](https://image.xjq.icu/books/Kafka%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
+## 数据分析
 
 ## 服务器
 
@@ -954,6 +966,22 @@
 
   - 3.4m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0.epub)
 
+- 程序员面试金典
+
+  - 1.1m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8.epub)
+
+  - 3.1m,[pdf 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8.pdf)
+
+- 程序员的思维修炼：开发认知潜能的九堂课
+
+  - 1.7m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC%EF%BC%9A%E5%BC%80%E5%8F%91%E8%AE%A4%E7%9F%A5%E6%BD%9C%E8%83%BD%E7%9A%84%E4%B9%9D%E5%A0%82%E8%AF%BE.epub)
+
+  - 4.3m,[pdf 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC%EF%BC%9A%E5%BC%80%E5%8F%91%E8%AE%A4%E7%9F%A5%E6%BD%9C%E8%83%BD%E7%9A%84%E4%B9%9D%E5%A0%82%E8%AF%BE.pdf)
+
+- 松本行弘的程序世界
+
+  - 3.0m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E6%9D%BE%E6%9C%AC%E8%A1%8C%E5%BC%98%E7%9A%84%E7%A8%8B%E5%BA%8F%E4%B8%96%E7%95%8C.epub)
+
 ## 互联网
 
 - 浪潮之巅第 4 版.吴军
@@ -997,6 +1025,10 @@
 - 区块链技术指南
 
   - 4.7m,[epub 链接](https://image.xjq.icu/books/%E5%8C%BA%E5%9D%97%E9%93%BE/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%8C%87%E5%8D%97.epub)
+
+- 白话区块链
+
+  - 10.9m,[epub 链接](https://image.xjq.icu/books/%E5%8C%BA%E5%9D%97%E9%93%BE/%E7%99%BD%E8%AF%9D%E5%8C%BA%E5%9D%97%E9%93%BE.epub)
 
 ## 数学
 
