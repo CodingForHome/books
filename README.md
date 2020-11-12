@@ -146,7 +146,11 @@
 
 ### C
 
-- C Primer Plus 第六版,226.5m,链接: [https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg](https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg), 提取码: 9j3m
+- C Primer Plus 第六版
+
+  - 226.5m,pdf 链接: [https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg](https://pan.baidu.com/s/14PIAqwbKWdFc-o4F0gV9sg), 提取码: 9j3m
+
+  - 9.8m,[epub 链接](<https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/c/C%20Primer%20Plus(%E7%AC%AC6%E7%89%88)(%E4%B8%AD%E6%96%87%E7%89%88).epub>)
 
 - C Primer Plus（中文第五版）
 
@@ -306,7 +310,7 @@
 
 - Go Web 编程
 
-  - 160.3m,pdf链接: [https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA](https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA) 提取码: xghf
+  - 160.3m,pdf 链接: [https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA](https://pan.baidu.com/s/1ULCvGrjXNjFyNclMgGJZYA) 提取码: xghf
 
 - Go 语言编程,11.1m,[pdf 链接](https://image.xjq.icu/books/Go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B.pdf)
 
@@ -395,6 +399,10 @@
 - 现代操作系统（第 3 版）
 
   - 84.5m,pdf 链接: [https://pan.baidu.com/s/11keUNqzDD6opO2XZlSkrFA](https://pan.baidu.com/s/11keUNqzDD6opO2XZlSkrFA) 提取码: 7wik
+
+- 精解 windows 10
+
+  - 3.9m,[epub 链接](https://image.xjq.icu/books/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%B2%BE%E8%A7%A3windows%2010.epub)
 
 ### Linux
 
@@ -773,6 +781,10 @@
 - Kafka 权威指南,17m,[pdf 链接](https://image.xjq.icu/books/Kafka%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 
 ## 数据分析
+
+- 深入浅出数据分析
+
+  - 14.5m,[epub 链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.epub)
 
 ## 服务器
 
