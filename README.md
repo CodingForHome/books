@@ -152,6 +152,8 @@
 
   - 9.8m,[epub 链接](<https://image.xjq.icu/books/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/c/C%20Primer%20Plus(%E7%AC%AC6%E7%89%88)(%E4%B8%AD%E6%96%87%E7%89%88).epub>)
 
+  - 30.1m, epub 链接: [https://pan.baidu.com/s/1fr8kVgUN5ZiXag-i0_D_pg](https://pan.baidu.com/s/1fr8kVgUN5ZiXag-i0_D_pg) 提取码: g4p7
+
 - C Primer Plus（中文第五版）
 
   - 20.6m, epub 链接: [https://pan.baidu.com/s/1wk-WCTqKzTZ6J0g7Pz2Diw](https://pan.baidu.com/s/1wk-WCTqKzTZ6J0g7Pz2Diw) 提取码: rbj1
@@ -404,6 +406,10 @@
 
   - 3.9m,[epub 链接](https://image.xjq.icu/books/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%B2%BE%E8%A7%A3windows%2010.epub)
 
+- 操作系统原理第 4 版
+
+  23.4m,pdf 链接: [https://pan.baidu.com/s/1vBGGc2y2ue-Mc1QDE8sxHg](https://pan.baidu.com/s/1vBGGc2y2ue-Mc1QDE8sxHg) 提取码: tgff
+
 ### Linux
 
 - 鸟哥的 Linux 私房菜服务器架设篇 第三版
@@ -476,7 +482,11 @@
 
 - JavaScrit 数据结构与算法-第 2 版,12.3m,[pdf 链接](https://image.xjq.icu/books/JavaScrit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E7%AC%AC2%E7%89%88.pdf)
 
-- 数据结构与算法 JavaScript 描述,13m,[pdf 链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95JavaScript%E6%8F%8F%E8%BF%B0.pdf)
+- 数据结构与算法 JavaScript 描述
+
+  - 13m,[pdf 链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95JavaScript%E6%8F%8F%E8%BF%B0.pdf)
+
+  - 1.5m,[epub 链接](https://image.xjq.icu/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95javascript%E6%8F%8F%E8%BF%B0.epub)
 
 - 数据结构与算法（第四版）廖明宏，11.5m，链接: [https://pan.baidu.com/s/1qCk-pyFWKDPJSuZw7mxF5g](https://pan.baidu.com/s/1qCk-pyFWKDPJSuZw7mxF5g) 提取码: h6j3
 
@@ -520,7 +530,7 @@
 
   - 37m,链接: [https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ](https://pan.baidu.com/s/1ZPx1fZDxaepTPKUfFPOLKQ) 提取码: cibw
 
-  - 0.6m,[epub 链接](https://image.xjq.icu/books/code/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.epub)
+  - 5.3m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97.epub)
 
 - 代码大全(第二版)
 
@@ -584,7 +594,11 @@
 
 - 算法设计与分析基础第 3 版,21.2m,[pdf 链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E7%AC%AC3%E7%89%88.pdf)
 
-- 算法竞赛入门经典(第 2 版),11.5m,[pdf 链接](<https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8(%E7%AC%AC2%E7%89%88).pdf>)
+- 算法竞赛入门经典(第 2 版)
+
+  - 11.5m,[pdf 链接](<https://image.xjq.icu/books/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8(%E7%AC%AC2%E7%89%88).pdf>)
+
+  - 6.1m,[epub 链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8%E7%AC%AC2%E7%89%88%E7%AE%97%E6%B3%95%E8%89%BA%E6%9C%AF%E4%B8%8E%E4%BF%A1%E6%81%AF%E5%AD%A6%E7%AB%9E%E8%B5%9B.epub)
 
 - 挑战程序设计竞赛(第 2 版),92.6m,链接: [https://pan.baidu.com/s/1LWnsZIEe1lWNYLhWyPjtwQ](https://pan.baidu.com/s/1LWnsZIEe1lWNYLhWyPjtwQ),提取码: 7knx
 
@@ -626,6 +640,10 @@
 
   - 5.9m,[pdf 链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95/%E6%94%B9%E5%8F%98%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%B9%9D%E5%A4%A7%E7%AE%97%E6%B3%95.pdf)
 
+- 算法之美：指导工作与生活的算法
+
+  - 1.8m,[epub 链接](https://image.xjq.icu/books/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E4%B9%8B%E7%BE%8E%EF%BC%9A%E6%8C%87%E5%AF%BC%E5%B7%A5%E4%BD%9C%E4%B8%8E%E7%94%9F%E6%B4%BB%E7%9A%84%E7%AE%97%E6%B3%95.epub)
+
 ## AI
 
 - 统计自然语言处理（第二版）,21.9m,[pdf 链接](https://image.xjq.icu/books/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
@@ -660,7 +678,11 @@
 
 - 周志华-机器学习,89.8m,链接: [https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg](https://pan.baidu.com/s/1bT-ESCQoepODHOLvQj4kXg), 提取码: yp84
 
-- 机器学习实战,21.8m,[pdf 链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98.pdf)
+- 机器学习实战
+
+  - 21.8m,[pdf 链接](https://image.xjq.icu/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98.pdf)
+
+  - 3.4m,[epub 链接](https://image.xjq.icu/books/AI/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98.epub)
 
 - TensorFlow 机器学习实战指南,74.9m,链接:[https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA](https://pan.baidu.com/s/1Cip5Rha8fUuLEWXUSoegNA), 密码:ycs2
 
@@ -688,7 +710,11 @@
 
 - 深度学习 TensorFlow 实战,90.9m,链接: [https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw](https://pan.baidu.com/s/11A8vh7EfgRAW5z_jwaXurw),提取码: 38fr
 
-- 深度学习-花书,32.3m,[pdf 链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E8%8A%B1%E4%B9%A6.pdf)
+- 深度学习-花书
+
+  - 32.3m,[pdf 链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E8%8A%B1%E4%B9%A6.pdf)
+
+  - 31,5m, epub 链接: [https://pan.baidu.com/s/1z8YtvjTv0lURI3o_MkuPfA](https://pan.baidu.com/s/1z8YtvjTv0lURI3o_MkuPfA) 提取码: dyrj
 
 - 深度学习框架 Pytorch 入门与实践,43.7m,[pdf 链接](https://image.xjq.icu/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6Pytorch%20%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
 
@@ -890,7 +916,11 @@
 
 - 了不起的 Node js 将 JavaScript 进行到底,49.7m,链接: [https://pan.baidu.com/s/1nSdtJmDBoFuYNw6lFYHvZw](https://pan.baidu.com/s/1nSdtJmDBoFuYNw6lFYHvZw) 提取码: r98n
 
-- 深入浅出 Node.js,6.1m,[pdf 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
+- 深入浅出 Node.js
+
+  - 6.1m,[pdf 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/JavaScript/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
+
+  - 2.6m,[epub 链接](https://image.xjq.icu/books/%E5%89%8D%E7%AB%AF/node/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js%20-%20%E6%9C%B4%E7%81%B5.epub)
 
 - Node 即学即用,10.4m,[pdf 链接](https://image.xjq.icu/books/Node%E5%8D%B3%E5%AD%A6%E5%8D%B3%E7%94%A8.pdf)
 
@@ -994,6 +1024,10 @@
 
   - 3.0m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E6%9D%BE%E6%9C%AC%E8%A1%8C%E5%BC%98%E7%9A%84%E7%A8%8B%E5%BA%8F%E4%B8%96%E7%95%8C.epub)
 
+- 程序员代码面试指南 it 名企算法与数据结构题目最优解
+
+  - 2.5m,[epub 链接](https://image.xjq.icu/books/%E7%A8%8B%E5%BA%8F%E5%91%98/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97it%E5%90%8D%E4%BC%81%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E6%9C%80%E4%BC%98%E8%A7%A3.epub)
+
 ## 互联网
 
 - 浪潮之巅第 4 版.吴军
@@ -1018,9 +1052,17 @@
 
   - 14.7m,[pdf 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4.pdf)
 
+  - 5.7m,[epub 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4.epub)
+
 - 集体智慧编程
 
   - 27.9m,[pdf 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B.pdf)
+
+- 淘宝十年产品事
+
+  - 9.4m,[epub 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E6%B7%98%E5%AE%9D%E5%8D%81%E5%B9%B4%E4%BA%A7%E5%93%81%E4%BA%8B.epub)
+
+  - 9.6m,[pdf 链接](https://image.xjq.icu/books/%E4%BA%92%E8%81%94%E7%BD%91/%E6%B7%98%E5%AE%9D%E5%8D%81%E5%B9%B4%E4%BA%A7%E5%93%81%E4%BA%8B.pdf)
 
 ## 区块链
 
