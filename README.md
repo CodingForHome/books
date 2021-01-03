@@ -465,7 +465,6 @@
 - 文明之光-吴军
 
   - 18.8m,pdf 链接: [https://pan.baidu.com/s/1rj31MdBgd5eNYBAZBQc6yQ](https://pan.baidu.com/s/1rj31MdBgd5eNYBAZBQc6yQ) 提取码: tbm8
-    B8%AD%E5%BF%83%E5%8C%96%E5%BA%94%E7%94%A8-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E6%A6%82%E8%BF%B0.pdf)
 
 ## 数学
 
